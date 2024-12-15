@@ -1,25 +1,40 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Traducción Traveler por Julio César Velásquez Mejía\n"
-"Report-Msgid-Bugs-To: orzalaga@gmail.com\n"
+"Project-Id-Version: Traveler\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-03 09:47+0700\n"
 "PO-Revision-Date: 2024-12-10 22:31+0000\n"
-"Last-Translator: Julio César Velásquez Mejía <orzalaga@gmail.com>\n"
-"Language-Team: Julio César Velásquez Mejía - Español\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
 "Language: es-ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Traducción personalizada por Julio César Velásquez Mejía\n"
-"X-Github-User: https://github.com/soyjulius\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;..."
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2;"
+"esc_html__\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: .idea\n"
 "X-Poedit-SearchPathExcluded-1: .git\n"
-...
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"X-Poedit-SearchPathExcluded-3: landing\n"
+"X-Poedit-SearchPathExcluded-4: js\n"
+"X-Poedit-SearchPathExcluded-5: assets\n"
+"X-Poedit-SearchPathExcluded-6: v2\n"
+"X-Poedit-SearchPathExcluded-7: v3\n"
+"X-Poedit-SearchPathExcluded-8: inc/modules/layouts/cores/assets\n"
+"X-Poedit-SearchPathExcluded-9: dist\n"
+"X-Poedit-SearchPathExcluded-10: changelog_new\n"
+"X-Poedit-SearchPathExcluded-11: inc/plugins/custom-option-tree/js\n"
+"X-Poedit-SearchPathExcluded-12: inc/plugins/custom-select-post/js\n"
+"X-Loco-Version: 2.6.11; wp-6.7.1"
 
 msgid "to Homepage"
 msgstr "a la página de inicio"
@@ -8139,4 +8154,202 @@ msgstr "El campo de ubicación es obligatorio."
 
 msgid "Select contact info will be shown?"
 msgstr "¿Seleccionar la información de contacto que se mostrará?"
+
+msgid "Rental email"
+msgstr "Correo electrónico del alquiler"
+
+msgid "Rental website"
+msgstr "Sitio web del alquiler"
+
+msgid "Rental phone"
+msgstr "Teléfono del alquiler"
+
+msgid "Fixed Price"
+msgstr "Precio fijo"
+
+msgid "Price per Hour"
+msgstr "Precio por hora"
+
+msgid "Price per Day"
+msgstr "Precio por día"
+
+msgid "Contact email addresses"
+msgstr "Direcciones de correo electrónico de contacto"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Info about car"
+msgstr "Información sobre el coche"
+
+msgid "Auto Transmission"
+msgstr "Transmisión automática"
+
+msgid "Baggage"
+msgstr "Equipaje"
+
+msgid "No. Door"
+msgstr "Número de puertas"
+
+msgid "Free Cancellation"
+msgstr "Cancelación gratuita"
+
+msgid "Pay at Pick-up"
+msgstr "Pagar al recoger"
+
+msgid "Unlimited Mileage"
+msgstr "Kilometraje ilimitado"
+
+msgid "Shuttle to Car"
+msgstr "Transporte al coche"
+
+msgid "External Booking"
+msgstr "Reserva externa"
+
+msgid "Manufacture logo"
+msgstr "Logotipo del fabricante"
+
+msgid "Car Manufacturer Name"
+msgstr "Nombre del fabricante del coche"
+
+msgid "You cannot set featured for this car. Your remaining item is %s (items)"
+msgstr "No puedes destacar este coche. Te quedan %s elementos"
+
+msgid "Contact email"
+msgstr "Correo electrónico de contacto"
+
+msgid ""
+"You cannot set featured for this activity. Your remaining item is %s (items)"
+msgstr "No puedes destacar esta actividad. Te quedan %s elementos"
+
+msgid "Number min people can not more than number max people"
+msgstr "El número mínimo de personas no puede ser mayor que el número máximo"
+
+msgid "Deposit amount"
+msgstr "Monto del depósito"
+
+msgid "Best Price Guarantee Text"
+msgstr "Texto de garantía del mejor precio"
+
+msgid "Select activity type"
+msgstr "Seleccionar tipo de actividad"
+
+msgid "Activity Timing"
+msgstr "Horario de la actividad"
+
+msgid "Min people"
+msgstr "Personas mínimas"
+
+msgid "Max people. Leave empty or enter '0' for unlimited"
+msgstr "Personas máximas. Dejar en blanco o ingresar '0' para ilimitado"
+
+msgid "Activity Included"
+msgstr "Incluido en la actividad"
+
+msgid "Activity Excluded"
+msgstr "Excluido de la actividad"
+
+msgid "Activity Highlight"
+msgstr "Aspectos destacados de la actividad"
+
+msgid "Activity FAQ"
+msgstr "Preguntas frecuentes de la actividad"
+
+msgid "Activity Program"
+msgstr "Programa de la actividad"
+
+msgid ""
+"You cannot set featured for this tour. Your remaining item is %s (items)"
+msgstr "No puedes destacar este tour. Te quedan %s elementos"
+
+msgid "Price type"
+msgstr "Tipo de precio"
+
+msgid "Packages"
+msgstr "Paquetes"
+
+msgid "Tour Included"
+msgstr "Incluido en el tour"
+
+msgid "Tour Excluded"
+msgstr "Excluido del tour"
+
+msgid "Tour Highlight"
+msgstr "Aspectos destacados del tour"
+
+msgid "Tour FAQ"
+msgstr "Preguntas frecuentes del tour"
+
+msgid "Tour Program"
+msgstr "Programa del tour"
+
+msgid "Successfully."
+msgstr "Con éxito."
+
+msgid "Number of room"
+msgstr "Número de habitaciones"
+
+msgid "Number of adult"
+msgstr "Número de adultos"
+
+msgid "Number of bed"
+msgstr "Número de camas"
+
+msgid "Room Footage"
+msgstr "Metraje de la habitación"
+
+msgid "External Link"
+msgstr "Enlace externo"
+
+msgid "Allow price per person"
+msgstr "Permitir precio por persona"
+
+msgid "Deposit Payment Amount"
+msgstr "Monto del pago del depósito"
+
+msgid "7. Availability"
+msgstr "7. Disponibilidad"
+
+msgid "8. iCal Sync"
+msgstr "8. Sincronización iCal"
+
+msgid "Using payment method of Woocommerce Plugin."
+msgstr "Usando el método de pago del plugin Woocommerce."
+
+msgid "No Payment Method is enabled."
+msgstr "No hay métodos de pago habilitados."
+
+msgid "Add a Facility"
+msgstr "Añadir una instalación"
+
+msgid "+ Add A Facility"
+msgstr "+ Añadir una instalación"
+
+msgid "(eg. fa-facebook)"
+msgstr "(ej. fa-facebook)"
+
+msgid "room_description"
+msgstr "descripción_habitación"
+
+msgid "Hotel Star"
+msgstr "Estrella del hotel"
+
+msgid ""
+"You cannot set featured for this hotel. Your remaining item is %s (items)"
+msgstr "No puedes destacar este hotel. Te quedan %s elementos"
+
+msgid "Booking full day"
+msgstr "Reserva todo el día"
+
+msgid "error"
+msgstr "error"
+
+msgid "Not found"
+msgstr "No encontrado"
+
+msgid "Send notification departure date to customer successful!"
+msgstr "¡Notificación de la fecha de salida enviada al cliente con éxito!"
+
+msgid "Please select least 1 item"
+msgstr "Por favor, selecciona al menos 1 elemento"
 
