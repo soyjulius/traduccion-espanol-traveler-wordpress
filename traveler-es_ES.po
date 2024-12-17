@@ -8353,3 +8353,4211 @@ msgstr "¡Notificación de la fecha de salida enviada al cliente con éxito!"
 msgid "Please select least 1 item"
 msgstr "Por favor, selecciona al menos 1 elemento"
 
+msgid "Notification about departure date of service"
+msgstr "Notificación sobre la fecha de salida del servicio"
+
+msgid "Load failed..."
+msgstr "Error al cargar..."
+
+msgid "Your email is invalid"
+msgstr "Tu correo electrónico no es válido"
+
+msgid "You account is not exists. Please re-check your information."
+msgstr "Tu cuenta no existe. Por favor, verifica tu información."
+
+msgid "Your new password"
+msgstr "Tu nueva contraseña"
+
+msgid "Your new password is:"
+msgstr "Tu nueva contraseña es:"
+
+msgid "Check your email address for your new password."
+msgstr "Revisa tu dirección de correo electrónico para obtener tu nueva contraseña."
+
+msgid "Oops something went wrong updaing your account."
+msgstr "Vaya, algo salió mal al actualizar tu cuenta."
+
+msgid "Have an error when get data. Try again!"
+msgstr "Hubo un error al obtener los datos. ¡Inténtalo de nuevo!"
+
+msgid "You can not cancel this booking"
+msgstr "No puedes cancelar esta reserva"
+
+msgid "Cancel booking of your customer is completed."
+msgstr "La cancelación de la reserva de tu cliente se completó."
+
+msgid "You have a request for cancel booking."
+msgstr "Tienes una solicitud para cancelar la reserva."
+
+msgid "Your cancel booking is completed."
+msgstr "Tu cancelación de la reserva se completó."
+
+msgid "Your message was sent successfully. Thanks."
+msgstr "Tu mensaje se envió con éxito. Gracias."
+
+msgid "Failed to send your message."
+msgstr "No se pudo enviar tu mensaje."
+
+msgid "Username and password not empty"
+msgstr "El nombre de usuario y la contraseña no pueden estar vacíos"
+
+msgid "Required form field user name is missing"
+msgstr "Falta el campo obligatorio del nombre de usuario"
+
+msgid "Required form field password is missing"
+msgstr "Falta el campo obligatorio de la contraseña"
+
+msgid "Required form field email is missing"
+msgstr "Falta el campo obligatorio del correo electrónico"
+
+msgid "User Name too short. At least 3 characters is required"
+msgstr "El nombre de usuario es demasiado corto. Se requieren al menos 3 caracteres"
+
+msgid "Password length must be greater than 6"
+msgstr "La contraseña debe tener más de 6 caracteres"
+
+msgid "Email is not valid"
+msgstr "El correo electrónico no es válido"
+
+msgid "Email already used"
+msgstr "El correo electrónico ya está en uso"
+
+msgid "The terms and conditions field is required"
+msgstr "El campo de términos y condiciones es obligatorio"
+
+msgid "Upload a image certificate for hotel"
+msgstr "Subir un certificado de imagen para el hotel"
+
+msgid "Don't support for this type file."
+msgstr "No se admite este tipo de archivo."
+
+msgid "Upload a image certificate for rental"
+msgstr "Subir un certificado de imagen para alquiler"
+
+msgid "Upload a image certificate for cars"
+msgstr "Subir un certificado de imagen para coches"
+
+msgid "Upload a image certificate for tours"
+msgstr "Subir un certificado de imagen para tours"
+
+msgid "Upload a image certificate for activity"
+msgstr "Subir un certificado de imagen para actividad"
+
+msgid "Success!."
+msgstr "¡Éxito!"
+
+msgid "Registration successful..."
+msgstr "Registro exitoso..."
+
+msgid "Registration successful!"
+msgstr "¡Registro exitoso!"
+
+msgid "Registration successful! Please wait for administrator's approval"
+msgstr "¡Registro exitoso! Por favor, espera la aprobación del administrador"
+
+msgid "Login Now"
+msgstr "Iniciar sesión ahora"
+
+msgid "LOGIN NOW"
+msgstr "INICIAR SESIÓN AHORA"
+
+msgid "Partner Registration successful!"
+msgstr "¡Registro de socio exitoso!"
+
+msgid "Please wait for Administrator's approval"
+msgstr "Por favor, espera la aprobación del administrador"
+
+msgid "Change password successfully !"
+msgstr "¡Contraseña cambiada con éxito!"
+
+msgid "New password does not match!"
+msgstr "¡La nueva contraseña no coincide!"
+
+msgid "Current password incorrect!"
+msgstr "¡Contraseña actual incorrecta!"
+
+msgid "%d - %d of %d "
+msgstr "%d - %d de %d "
+
+msgid "Clear filter"
+msgstr "Limpiar filtro"
+
+msgid "Rentals"
+msgstr "Alquileres"
+
+msgid "%s: "
+msgstr "%s: "
+
+msgid "%s %s found"
+msgstr "Se encontraron %s %s"
+
+msgid "No %s found"
+msgstr "No se encontró %s"
+
+msgid "Delete successfully"
+msgstr "Eliminado con éxito"
+
+msgid "Delete not successfully"
+msgstr "No se pudo eliminar"
+
+msgid "Create successfully !"
+msgstr "¡Creado con éxito!"
+
+msgid "The Featured Image field is required."
+msgstr "El campo de imagen destacada es obligatorio."
+
+msgid "The Gallery field is required."
+msgstr "El campo de galería es obligatorio."
+
+msgid "The Logo field is required."
+msgstr "El campo de logotipo es obligatorio."
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Star Rating"
+msgstr "Clasificación por estrellas"
+
+msgid "Booking Period"
+msgstr "Periodo de reserva"
+
+msgid "Warning: Some fields must be filled in"
+msgstr "Advertencia: Algunos campos deben ser llenados"
+
+msgid "Number of Room"
+msgstr "Número de habitaciones"
+
+msgid "Price Per Night"
+msgstr "Precio por noche"
+
+msgid "Discount Rate"
+msgstr "Tasa de descuento"
+
+msgid "Sale Start Date"
+msgstr "Fecha de inicio de la oferta"
+
+msgid "Sale End Date"
+msgstr "Fecha de finalización de la oferta"
+
+msgid "Deposit Amount"
+msgstr "Monto del depósito"
+
+msgid "The commission does not match the criteria."
+msgstr "La comisión no cumple con los criterios."
+
+msgid "Room footage"
+msgstr "Metraje de la habitación"
+
+msgid "External Booking URL"
+msgstr "URL de reserva externa"
+
+msgid "Base Price"
+msgstr "Precio base"
+
+msgid "Min No. People"
+msgstr "Número mínimo de personas"
+
+msgid "Update tours successfully !"
+msgstr "¡Tours actualizados con éxito!"
+
+msgid "Update tours not successfully !"
+msgstr "¡Error al actualizar los tours!"
+
+msgid "Update activity successful!"
+msgstr "¡Actividad actualizada con éxito!"
+
+msgid "Error : Update activity not successful!"
+msgstr "Error: ¡No se pudo actualizar la actividad!"
+
+msgid "Number of cars for Rent"
+msgstr "Número de autos para alquilar"
+
+msgid "Minimum day"
+msgstr "Día mínimo"
+
+msgid "Select Rental"
+msgstr "Seleccionar alquiler"
+
+msgid "Update rental room successfully !"
+msgstr "¡Habitación de alquiler actualizada con éxito!"
+
+msgid "Error : Update rental room not successfully !"
+msgstr "Error: ¡No se pudo actualizar la habitación de alquiler!"
+
+msgid "Total time"
+msgstr "Tiempo total"
+
+msgid "Enable Tax"
+msgstr "Habilitar impuestos"
+
+msgid "Tax Percent"
+msgstr "Porcentaje de impuestos"
+
+msgid "Update flight successfully !"
+msgstr "¡Vuelo actualizado con éxito!"
+
+msgid "Error : Update flight not successfully !"
+msgstr "Error: ¡No se pudo actualizar el vuelo!"
+
+msgid "Create Location successfully !"
+msgstr "¡Ubicación creada con éxito!"
+
+msgid "Error : Create Location not successfully !"
+msgstr "Error: ¡No se pudo crear la ubicación!"
+
+msgid " Details"
+msgstr "Detalles"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Depart: "
+msgstr "Salida: "
+
+msgid " (Return)"
+msgstr "(Regreso)"
+
+msgid "Return: "
+msgstr "Regreso: "
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "transfer"
+msgstr "transferencia"
+
+msgid "cruise"
+msgstr "crucero"
+
+msgid "flight"
+msgstr "vuelo"
+
+msgid "Account Setting"
+msgstr "Configuración de cuenta"
+
+msgid "My Travel Photos"
+msgstr "Mis fotos de viaje"
+
+msgid "Booking History"
+msgstr "Historial de reservas"
+
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+msgid "Add new Hotel"
+msgstr "Agregar nuevo hotel"
+
+msgid "My Hotel"
+msgstr "Mi hotel"
+
+msgid "Add new room"
+msgstr "Agregar nueva habitación"
+
+msgid "My Room"
+msgstr "Mi habitación"
+
+msgid "Add new tour"
+msgstr "Agregar nuevo tour"
+
+msgid "My Tour"
+msgstr "Mi tour"
+
+msgid "Create new flight"
+msgstr "Crear nuevo vuelo"
+
+msgid "My flights"
+msgstr "Mis vuelos"
+
+msgid "Add new activity"
+msgstr "Agregar nueva actividad"
+
+msgid "My Activity"
+msgstr "Mi actividad"
+
+msgid "Add new car"
+msgstr "Agregar nuevo auto"
+
+msgid "My Car"
+msgstr "Mi auto"
+
+msgid "Add new rental"
+msgstr "Agregar nuevo alquiler"
+
+msgid "My Rental"
+msgstr "Mi alquiler"
+
+msgid "user_create_cruise"
+msgstr "Crear crucero"
+
+msgid "user_my_cruise"
+msgstr "Mis cruceros"
+
+msgid "user_create_cruise_cabin"
+msgstr "Crear cabina de crucero"
+
+msgid "user_my_cruise_cabin"
+msgstr "Mis cabinas de crucero"
+
+msgid "User Info"
+msgstr "Información del usuario"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Quarter 1"
+msgstr "Trimestre 1"
+
+msgid "Quarter 2"
+msgstr "Trimestre 2"
+
+msgid "Quarter 3"
+msgstr "Trimestre 3"
+
+msgid "Quarter 4"
+msgstr "Trimestre 4"
+
+msgid " Home "
+msgstr "Inicio"
+
+msgid " Dashboard "
+msgstr "Panel de control"
+
+msgid "statistics"
+msgstr "estadísticas"
+
+msgid " Overview "
+msgstr "Resumen"
+
+msgid " Setting "
+msgstr "Configuración"
+
+msgid " Booking History "
+msgstr "Historial de reservas"
+
+msgid "Add new Rental Room"
+msgstr "Agregar nueva habitación de alquiler"
+
+msgid "My Rental Room"
+msgstr "Mi habitación de alquiler"
+
+msgid "Rental Bookings/Reservations"
+msgstr "Reservas de alquiler"
+
+msgid "Car Bookings"
+msgstr "Reservas de autos"
+
+msgid "Tour Bookings"
+msgstr "Reservas de tours"
+
+msgid "Add new flight"
+msgstr "Agregar nuevo vuelo"
+
+msgid "My Flights"
+msgstr "Mis vuelos"
+
+msgid "Flight Bookings"
+msgstr "Reservas de vuelos"
+
+msgid "Add new activity "
+msgstr "Agregar nueva actividad"
+
+msgid "My Activities"
+msgstr "Mis actividades"
+
+msgid "Edit Room Hotel"
+msgstr "Editar habitación de hotel"
+
+msgid "Edit Rental "
+msgstr "Editar alquiler"
+
+msgid "Edit Room Rental"
+msgstr "Editar habitación de alquiler"
+
+msgid "Edit Car "
+msgstr "Editar auto"
+
+msgid "Edit Tour "
+msgstr "Editar tour"
+
+msgid "Edit Activity "
+msgstr "Editar actividad"
+
+msgid "Certificate "
+msgstr "Certificado"
+
+msgid "Withdrawal"
+msgstr "Retiro"
+
+msgid "Refund"
+msgstr "Reembolso"
+
+msgid "Dashboard"
+msgstr "Panel de control"
+
+msgid "My Flight"
+msgstr "Mi vuelo"
+
+msgid "Activity Bookings"
+msgstr "Reservas de actividades"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "All Time"
+msgstr "Todo el tiempo"
+
+msgid "this year"
+msgstr "este año"
+
+msgid "this month"
+msgstr "este mes"
+
+msgid "this week"
+msgstr "esta semana"
+
+msgid "all time"
+msgstr "todo el tiempo"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "The username and password field is empty"
+msgstr "El campo de usuario y contraseña está vacío"
+
+msgid ""
+"The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "La contraseña ingresada para el usuario <strong>%s</strong> es incorrecta."
+
+msgid "Invalid username."
+msgstr "Nombre de usuario inválido."
+
+msgid "The password field is empty."
+msgstr "El campo de contraseña está vacío."
+
+msgid "The username field is empty."
+msgstr "El campo de usuario está vacío."
+
+msgid "Username & Password is required"
+msgstr "Se requiere nombre de usuario y contraseña"
+
+msgid "Logged in successfully"
+msgstr "Inicio de sesión exitoso"
+
+msgid "The Email is invalid"
+msgstr "El correo electrónico no es válido"
+
+msgid "There is no user registered with that email address"
+msgstr "No hay ningún usuario registrado con esa dirección de correo electrónico"
+
+msgid "Check your email address for you new password"
+msgstr "Revisa tu dirección de correo electrónico para tu nueva contraseña"
+
+msgid "Payment gateway"
+msgstr "Pasarela de pago"
+
+msgid "Payment info"
+msgstr "Información de pago"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "The amount must be greater than %s"
+msgstr "La cantidad debe ser mayor a %s"
+
+msgid "Withdrawal amount greater than the amount of current account!"
+msgstr "La cantidad del retiro es mayor que el saldo actual de la cuenta."
+
+msgid "Email is not the same!"
+msgstr "¡El correo electrónico no coincide!"
+
+msgid "Stripe key"
+msgstr "Clave de Stripe"
+
+msgid "Bank information"
+msgstr "Información bancaria"
+
+msgid "Your payment request has been successful!"
+msgstr "¡Tu solicitud de pago ha sido exitosa!"
+
+msgid "[%s] New User Request Withdrawal"
+msgstr "[%s] Nueva solicitud de retiro de usuario"
+
+msgid "[%s] Your Request Withdrawal"
+msgstr "[%s] Tu solicitud de retiro"
+
+msgid "1. BASIC INFO"
+msgstr "1. INFORMACIÓN BÁSICA"
+
+msgid "2. Facilities"
+msgstr "2. Instalaciones"
+
+msgid "3. Photos"
+msgstr "3. Fotos"
+
+msgid "4. Locations"
+msgstr "4. Ubicaciones"
+
+msgid "5. Policy"
+msgstr "5. Política"
+
+msgid "PERSONAL INFORMATION"
+msgstr "INFORMACIÓN PERSONAL"
+
+msgid "Hotel Name"
+msgstr "Nombre del hotel"
+
+msgid "Hotel Logo"
+msgstr "Logotipo del hotel"
+
+msgid "DETAIL CONTACT"
+msgstr "CONTACTO DETALLADO"
+
+msgid "Hotel Email"
+msgstr "Correo electrónico del hotel"
+
+msgid "Hotel Website"
+msgstr "Sitio web del hotel"
+
+msgid "Hotel Phone"
+msgstr "Teléfono del hotel"
+
+msgid "Hotel Fax"
+msgstr "Fax del hotel"
+
+msgid "Hotel Video"
+msgstr "Video del hotel"
+
+msgid "BOOK SETTING"
+msgstr "CONFIGURACIÓN DE RESERVA"
+
+msgid "PRICE SETTING"
+msgstr "CONFIGURACIÓN DE PRECIOS"
+
+msgid "HOTEL IMAGE"
+msgstr "IMAGEN DEL HOTEL"
+
+msgid "Hotel Location"
+msgstr "Ubicación del hotel"
+
+msgid "SELECT LOCATION"
+msgstr "SELECCIONAR UBICACIÓN"
+
+msgid "Real hotel address"
+msgstr "Dirección real del hotel"
+
+msgid "+ Add New"
+msgstr "+ Agregar nuevo"
+
+msgid "Icon Map"
+msgstr "Icono del mapa"
+
+msgid "Lat"
+msgstr "Latitud"
+
+msgid "Lng"
+msgstr "Longitud"
+
+msgid "ADD A POLICY"
+msgstr "AGREGAR UNA POLÍTICA"
+
+msgid "+ Add A Policy"
+msgstr "+ Agregar una política"
+
+msgid "3. Price"
+msgstr "3. Precio"
+
+msgid "Hotel Room Name"
+msgstr "Nombre de la habitación del hotel"
+
+msgid "Select the hotel own this room"
+msgstr "Seleccionar el hotel propietario de esta habitación"
+
+msgid "Number of this room"
+msgstr "Cantidad de esta habitación"
+
+msgid "Number of Adults"
+msgstr "Número de adultos"
+
+msgid "Number of Children"
+msgstr "Número de niños"
+
+msgid "Number of Beds"
+msgstr "Número de camas"
+
+msgid "HOTEL ROOM IMAGE"
+msgstr "IMAGEN DE LA HABITACIÓN DEL HOTEL"
+
+msgid "Allow customer can booking full day"
+msgstr "Permitir que el cliente pueda reservar todo el día"
+
+msgid "Pricing"
+msgstr "Precios"
+
+msgid "Adult Pricing"
+msgstr "Precio para adultos"
+
+msgid "Child Pricing"
+msgstr "Precio para niños"
+
+msgid "Discount by No.Days"
+msgstr "Descuento por número de días"
+
+msgid "No. days"
+msgstr "N.º de días"
+
+msgid "Enter No. days will be discounted"
+msgstr "Introduzca el número de días que serán descontados"
+
+msgid "Extra price unit (Accompanied service Price Unit)"
+msgstr "Unidad de precio adicional (Unidad de precio del servicio acompañado)"
+
+msgid "Discount type. This only use for discount by number of days."
+msgstr "Tipo de descuento. Solo se usa para descuento por número de días."
+
+msgid "Percent(%)"
+msgstr "Porcentaje (%)"
+
+msgid "Discount type."
+msgstr "Tipo de descuento."
+
+msgid "Deposit options. "
+msgstr "Opciones de depósito."
+
+msgid "Max Of Number"
+msgstr "Número máximo"
+
+msgid "Allow Cancel"
+msgstr "Permitir cancelación"
+
+msgid "BASIC INFO"
+msgstr "INFORMACIÓN BÁSICA"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "TOUR IMAGE"
+msgstr "IMAGEN DEL TOUR"
+
+msgid "Show price by"
+msgstr "Mostrar precio por"
+
+msgid "Hide adult on booking form"
+msgstr "Ocultar adulto en el formulario de reserva"
+
+msgid "Hide child on booking form"
+msgstr "Ocultar niño en el formulario de reserva"
+
+msgid "Hide infant on booking form"
+msgstr "Ocultar infante en el formulario de reserva"
+
+msgid "Discount by Adults"
+msgstr "Descuento por adultos"
+
+msgid "No. Adult (From)"
+msgstr "N.º de adultos (Desde)"
+
+msgid "No. Adult (To)"
+msgstr "N.º de adultos (Hasta)"
+
+msgid "Percentage of discount"
+msgstr "Porcentaje de descuento"
+
+msgid "Discount by children"
+msgstr "Descuento por niños"
+
+msgid "No. Children (From)"
+msgstr "N.º de niños (Desde)"
+
+msgid "No. Children (To)"
+msgstr "N.º de niños (Hasta)"
+
+msgid "Sale Schedule"
+msgstr "Horario de ventas"
+
+msgid "is_sale_schedule:is(on)"
+msgstr "es_horario_ventas:es(activado)"
+
+msgid "Deposit By Percent"
+msgstr "Depósito por porcentaje"
+
+msgid "deposit_payment_status:is(percent)"
+msgstr "estado_pago_deposito:es(porcentaje)"
+
+msgid "st_allow_cancel:is(on)"
+msgstr "st_permitir_cancelar:es(activado)"
+
+msgid "Tour Location"
+msgstr "Ubicación del tour"
+
+msgid "Real tour address"
+msgstr "Dirección real del tour"
+
+msgid "2. Info"
+msgstr "2. Información"
+
+msgid "4. Price"
+msgstr "4. Precio"
+
+msgid "5. Locations"
+msgstr "5. Ubicaciones"
+
+msgid "ACTIVITY IMAGE"
+msgstr "IMAGEN DE LA ACTIVIDAD"
+
+msgid "Best Price Guarantee"
+msgstr "Garantía del mejor precio"
+
+msgid "best-price-guarantee:is(on)"
+msgstr "mejor-precio-garantizado:es(activado)"
+
+msgid "Activity Location"
+msgstr "Ubicación de la actividad"
+
+msgid "Real activity address"
+msgstr "Dirección real de la actividad"
+
+msgid "CAR IMAGE"
+msgstr "IMAGEN DEL AUTO"
+
+msgid "Car Types"
+msgstr "Tipos de autos"
+
+msgid "Custom Price"
+msgstr "Precio personalizado"
+
+msgid "Price by Date"
+msgstr "Precio por fecha"
+
+msgid "Price by number"
+msgstr "Precio por número"
+
+msgid "Number start"
+msgstr "Número inicial"
+
+msgid "Number end"
+msgstr "Número final"
+
+msgid "Create sale schedule"
+msgstr "Crear horario de ventas"
+
+msgid "Number of cars for rent"
+msgstr "Número de autos para alquilar"
+
+msgid "Car Location"
+msgstr "Ubicación del auto"
+
+msgid "Real car address"
+msgstr "Dirección real del auto"
+
+msgid "Allow booking full day"
+msgstr "Permitir reserva todo el día"
+
+msgid "RENTAL IMAGE"
+msgstr "IMAGEN DEL ALQUILER"
+
+msgid "No.days"
+msgstr "N.º de días"
+
+msgid "Rental Location"
+msgstr "Ubicación del alquiler"
+
+msgid "Real rental address"
+msgstr "Dirección real del alquiler"
+
+msgid "Name position"
+msgstr "Nombre del puesto"
+
+msgid "2. Facility"
+msgstr "2. Instalaciones"
+
+msgid "Rental Room Name"
+msgstr "Nombre de la habitación de alquiler"
+
+msgid "RENTAL ROOM IMAGE"
+msgstr "IMAGEN DE LA HABITACIÓN DE ALQUILER"
+
+msgid "1. General"
+msgstr "1. General"
+
+msgid "2. Tax Options"
+msgstr "2. Opciones de impuestos"
+
+msgid "Name of flight"
+msgstr "Nombre del vuelo"
+
+msgid "Minute(s)"
+msgstr "Minuto(s)"
+
+msgid "Direct"
+msgstr "Directo"
+
+msgid "One stop"
+msgstr "Una escala"
+
+msgid "Two stops"
+msgstr "Dos escalas"
+
+msgid "Max Ticket"
+msgstr "Boleto máximo"
+
+msgid "Yes, Not included"
+msgstr "Sí, no incluido"
+
+msgid "Tax Percent (%)"
+msgstr "Porcentaje de impuestos (%)"
+
+msgid "Dismiss"
+msgstr "Descartar"
+
+msgid "Traveler Settings"
+msgstr "Configuraciones de Traveler"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Last Updated"
+msgstr "Última actualización"
+
+msgid "Requires WordPress Version"
+msgstr "Requiere versión de WordPress"
+
+msgid "Intalled"
+msgstr "Instalado"
+
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "Lo sentimos, no tienes permiso para activar este plugin."
+
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr "Lo sentimos, no tienes permiso para desactivar este plugin."
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Extensions"
+msgstr "Extensiones"
+
+msgid "Traveler Viator"
+msgstr "Traveler Viator"
+
+msgid "ShineTheme"
+msgstr "ShineTheme"
+
+msgid "This plugin is used for Traveler Theme"
+msgstr "Este plugin es utilizado para el tema Traveler"
+
+msgid "Traveler Bokun"
+msgstr "Traveler Bokun"
+
+msgid "Traveler Optimize"
+msgstr "Traveler Optimize"
+
+msgid "Traveler SMS"
+msgstr "Traveler SMS"
+
+msgid ""
+"Traveler SMS help to send SMS notification for Admin, Partner, and Customer "
+"when make a booking on the site by Traveler theme."
+msgstr ""
+"Traveler SMS ayuda a enviar notificaciones SMS al administrador, socio y "
+"cliente cuando se realiza una reserva en el sitio usando el tema Traveler."
+
+msgid "Traveler Duplicate"
+msgstr "Traveler Duplicate"
+
+msgid ""
+"Traveler Duplicate Add-on will make it easier for you. Content such as price,"
+" availability of each service (hotel, tour, car, flight) will be fully "
+"copied."
+msgstr ""
+"El complemento Traveler Duplicate te facilita las cosas. Se copiará "
+"completamente contenido como precios y disponibilidad de cada servicio "
+"(hotel, tour, auto, vuelo)."
+
+msgid "Traveler Compare"
+msgstr "Traveler Compare"
+
+msgid ""
+"The new add-on that can be used for Traveler. It helps bookers can compare "
+"any services like Hotel, Tour, Car, Rental, Activity."
+msgstr ""
+"El nuevo complemento que puede usarse con Traveler. Ayuda a los usuarios a "
+"comparar servicios como hotel, tour, auto, alquiler y actividades."
+
+msgid "Traveler Library Layout Elementor"
+msgstr "Traveler Library Layout Elementor"
+
+msgid ""
+"Traveler Library is a collection of blocks and sections for Elementor editor "
+"that is best for the Travel industry."
+msgstr ""
+"Traveler Library es una colección de bloques y secciones para el editor "
+"Elementor, ideal para la industria de viajes."
+
+msgid "Traveler Rest API"
+msgstr "Traveler Rest API"
+
+msgid ""
+"This plugin is used for Traveler Theme . Export API Booking . Required "
+"install Simple JWT Login plugin"
+msgstr ""
+"Este plugin es utilizado para el tema Traveler. Exporta la API de reservas. "
+"Requiere instalar el plugin Simple JWT Login."
+
+msgid "Traveler Social Login"
+msgstr "Traveler Social Login"
+
+msgid ""
+"This plugin is used for Traveler Theme . Using for login Facebook, Google, "
+"Twitter"
+msgstr ""
+"Este plugin es utilizado para el tema Traveler. Permite el inicio de sesión "
+"con Facebook, Google y Twitter."
+
+msgid "Traveler Search Hotel VueWP"
+msgstr "Traveler Search Hotel VueWP"
+
+msgid "Traveler Razor Pay"
+msgstr "Traveler Razor Pay"
+
+msgid "Traveler Export Booking PDF"
+msgstr "Traveler Export Booking PDF"
+
+msgid "Traveler PayPal V2"
+msgstr "Traveler PayPal V2"
+
+msgid "Traveler Stripe"
+msgstr "Traveler Stripe"
+
+msgid "2Checkout"
+msgstr "2Checkout"
+
+msgid "PayUbiz"
+msgstr "PayUbiz"
+
+msgid "DPO"
+msgstr "DPO"
+
+msgid "IPay88"
+msgstr "IPay88"
+
+msgid "Onepay"
+msgstr "Onepay"
+
+msgid "Onepay ATM"
+msgstr "Onepay ATM"
+
+msgid "PayUMoney"
+msgstr "PayUMoney"
+
+msgid "PayUlatam"
+msgstr "PayUlatam"
+
+msgid "Mercado Pago"
+msgstr "Mercado Pago"
+
+msgid "Billplz"
+msgstr "Billplz"
+
+msgid "Deactive"
+msgstr "Desactivar"
+
+msgid "More Detail"
+msgstr "Más detalles"
+
+msgid "Traveler Notice:"
+msgstr "Aviso de Traveler:"
+
+msgid ""
+"<strong>Authorize.net</strong> require %s version %s or above. Your current "
+"is %s"
+msgstr ""
+"<strong>Authorize.net</strong> requiere la versión %s %s o superior. Tu "
+"versión actual es %s"
+
+msgid "Traveler Code"
+msgstr "Código de Traveler"
+
+msgid "Learn how to update it"
+msgstr "Aprende cómo actualizarlo"
+
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+msgid "Login ID"
+msgstr "ID de inicio de sesión"
+
+msgid "Transaction Key"
+msgstr "Clave de transacción"
+
+msgid "Enable Test Mode"
+msgstr "Habilitar modo de prueba"
+
+msgid "Allow you to enable test mode"
+msgstr "Te permite habilitar el modo de prueba"
+
+msgid "Card Name"
+msgstr "Nombre en la tarjeta"
+
+msgid "Card Number"
+msgstr "Número de tarjeta"
+
+msgid "Expiry Month"
+msgstr "Mes de vencimiento"
+
+msgid "Expiry Year"
+msgstr "Año de vencimiento"
+
+msgid "Card Code"
+msgstr "Código de tarjeta"
+
+msgid "Company Token"
+msgstr "Token de la empresa"
+
+msgid "3G URL"
+msgstr "URL 3G"
+
+msgid "Service Type"
+msgstr "Tipo de servicio"
+
+msgid "PTL Type (Optional)"
+msgstr "Tipo PTL (Opcional)"
+
+msgid "PTL (Optional)"
+msgstr "PTL (Opcional)"
+
+msgid "Can not create payment URL."
+msgstr "No se puede crear la URL de pago."
+
+msgid "Payment error code: "
+msgstr "Código de error de pago: "
+
+msgid "Transaction Token error, please contact support center"
+msgstr "Error en el token de transacción, por favor contacta al centro de soporte"
+
+msgid "Payment Failed: "
+msgstr "Pago fallido: "
+
+msgid ""
+" Varification error: Unable to connect to the payment gateway, please try "
+"again"
+msgstr ""
+" Error de verificación: No se puede conectar con la pasarela de pago, por "
+"favor inténtalo de nuevo"
+
+msgid ""
+"<strong>PayFast</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+"<strong>PayFast</strong> requiere la versión %s %s o superior. Tu versión "
+"actual es %s"
+
+msgid "Can not get PayFast Authorize URL."
+msgstr "No se puede obtener la URL de autorización de PayFast."
+
+msgid "Merchant Id"
+msgstr "ID de comerciante"
+
+msgid "Your Merchant Id"
+msgstr "Tu ID de comerciante"
+
+msgid "Merchant Key"
+msgstr "Clave de comerciante"
+
+msgid "Your Merchant Key"
+msgstr "Tu clave de comerciante"
+
+msgid "Enable Sandbox"
+msgstr "Habilitar Sandbox"
+
+msgid "Allow you to enable sandbox mod for testing"
+msgstr "Te permite habilitar el modo sandbox para pruebas"
+
+msgid "Can not get Paypal Authorize URL."
+msgstr "No se puede obtener la URL de autorización de Paypal."
+
+msgid "Paypal Email"
+msgstr "Correo de Paypal"
+
+msgid "Your Payal Email Account"
+msgstr "Tu cuenta de correo de Paypal"
+
+msgid "Paypal Enable Sandbox"
+msgstr "Habilitar Sandbox en Paypal"
+
+msgid "Paypal API Username"
+msgstr "Usuario de API de Paypal"
+
+msgid "Your Paypal API Username"
+msgstr "Tu usuario de API de Paypal"
+
+msgid "Paypal API Password"
+msgstr "Contraseña de API de Paypal"
+
+msgid "Your Paypal API Password"
+msgstr "Tu contraseña de API de Paypal"
+
+msgid "Paypal API Signature"
+msgstr "Firma de API de Paypal"
+
+msgid "Your Paypal API Signature"
+msgstr "Tu firma de API de Paypal"
+
+msgid "Type: "
+msgstr "Tipo: "
+
+msgid "Parallel"
+msgstr "Paralelo"
+
+msgid "Chained"
+msgstr "Encadenado"
+
+msgid "Delayed Chained"
+msgstr "Encadenado retrasado"
+
+msgid "AwaitingPay"
+msgstr "Pago pendiente"
+
+msgid "Status: "
+msgstr "Estado: "
+
+msgid "Pay Now"
+msgstr "Pagar ahora"
+
+msgid "- Parallel"
+msgstr "- Paralelo"
+
+msgid "- Chained"
+msgstr "- Encadenado"
+
+msgid "- Delayed Chained"
+msgstr "- Encadenado retrasado"
+
+msgid "- Complete"
+msgstr "- Completo"
+
+msgid "- AwaitingPay"
+msgstr "- Pago pendiente"
+
+msgid "Acknowledgement Received Payment Failed"
+msgstr "Confirmación recibida: Pago fallido"
+
+msgid "Sorry, Something went wrong"
+msgstr "Lo sentimos, algo salió mal"
+
+msgid "Paypal Adaptive"
+msgstr "Paypal Adaptive"
+
+msgid "Payment Mode"
+msgstr "Modo de pago"
+
+msgid "Payment Parallel Fees by"
+msgstr "Tarifas paralelas pagadas por"
+
+msgid "Sender"
+msgstr "Remitente"
+
+msgid "Each Receiver"
+msgstr "Cada receptor"
+
+msgid "Payment Chained Fees by"
+msgstr "Tarifas encadenadas pagadas por"
+
+msgid "Primary Receiver"
+msgstr "Receptor principal"
+msgid "No. of Days to Execute Payment to Receiver"
+msgstr "Número de días para ejecutar el pago al receptor"
+
+msgid "Application ID"
+msgstr "ID de aplicación"
+
+msgid "Refund success"
+msgstr "Reembolso exitoso"
+
+msgid "You paid for the buyer"
+msgstr "Has pagado por el comprador"
+
+msgid "This order #%s cannot execute payment for partner"
+msgstr "Este pedido #%s no puede ejecutar el pago al socio"
+
+msgid "Message: "
+msgstr "Mensaje: "
+
+msgid "This order #%s is executed payment for partner"
+msgstr "Este pedido #%s ha ejecutado el pago al socio"
+
+msgid ""
+"<strong>Payu</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+"<strong>Payu</strong> requiere la versión %s %s o superior. Tu versión actual "
+"es %s"
+
+msgid "Merchant ID"
+msgstr "ID de comerciante"
+
+msgid "Your Payu Merchant ID"
+msgstr "Tu ID de comerciante de Payu"
+
+msgid "Salt Key"
+msgstr "Clave Salt"
+
+msgid "Your Payu Salt Key"
+msgstr "Tu clave Salt de Payu"
+
+msgid "Payu"
+msgstr "Payu"
+
+msgid ""
+"<strong>Skrill</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+"<strong>Skrill</strong> requiere la versión %s %s o superior. Tu versión "
+"actual es %s"
+
+msgid "Your Skrill Email Address"
+msgstr "Tu dirección de correo electrónico de Skrill"
+
+msgid ""
+"<strong>Stripe</strong> require %s version %s or above. Your current is %s"
+msgstr ""
+"<strong>Stripe</strong> requiere la versión %s %s o superior. Tu versión "
+"actual es %s"
+
+msgid "Publishable Key"
+msgstr "Clave pública"
+
+msgid "Your Stripe Publishable Key"
+msgstr "Tu clave pública de Stripe"
+
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+msgid "Your Stripe Secret Key"
+msgstr "Tu clave secreta de Stripe"
+
+msgid "Enable Sandbox Mode"
+msgstr "Habilitar modo Sandbox"
+
+msgid "Allow you to enable sandbox mode for testing"
+msgstr "Te permite habilitar el modo Sandbox para pruebas"
+
+msgid "Test Publishable Key"
+msgstr "Clave pública de prueba"
+
+msgid "Your Stripe Test Publishable Key for Sandbox mode"
+msgstr "Tu clave pública de prueba para el modo Sandbox de Stripe"
+
+msgid "Test Secret Key"
+msgstr "Clave secreta de prueba"
+
+msgid "Your Stripe Test Secret Key for Sandbox mode"
+msgstr "Tu clave secreta de prueba para el modo Sandbox de Stripe"
+
+msgid "Enable Creative UI Form (Using Token)"
+msgstr "Habilitar formulario UI creativo (usando token)"
+
+msgid ""
+"Allow you to use token for stripe. Read more about it https://stripe."
+"com/docs/stripe-js/elements/quickstart"
+msgstr ""
+"Te permite usar tokens para Stripe. Más información en https://stripe."
+"com/docs/stripe-js/elements/quickstart"
+
+msgid "Stripe Token"
+msgstr "Token de Stripe"
+
+msgid "This function is off"
+msgstr "Esta función está desactivada"
+
+msgid ""
+"<strong>TwoCheckout</strong> require %s version %s or above. Your current is "
+"%s"
+msgstr ""
+"<strong>TwoCheckout</strong> requiere la versión %s %s o superior. Tu versión "
+"actual es %s"
+
+msgid "Account Number"
+msgstr "Número de cuenta"
+
+msgid "Public Key"
+msgstr "Clave pública"
+
+msgid "Private Key"
+msgstr "Clave privada"
+
+msgid "Order:"
+msgstr "Pedido:"
+
+msgid "Added successful."
+msgstr "Añadido exitosamente."
+
+msgid "The price field is not a number."
+msgstr "El campo del precio no es un número."
+
+msgid "The date is not correct."
+msgstr "La fecha no es correcta."
+
+msgid "The months field is required."
+msgstr "El campo de meses es obligatorio."
+
+msgid "The years field is required."
+msgstr "El campo de años es obligatorio."
+
+msgid "The room field is required."
+msgstr "El campo de habitación es obligatorio."
+
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Unavailable"
+msgstr "No disponible"
+
+msgid "The check in or check out field is not empty."
+msgstr "El campo de check-in o check-out no está vacío."
+
+msgid "The check out is later than the check in field."
+msgstr "La fecha de check-out es posterior a la de check-in."
+
+msgid "The adult price field is not a number."
+msgstr "El campo del precio para adultos no es un número."
+
+msgid "The child price field is not a number."
+msgstr "El campo del precio para niños no es un número."
+
+msgid "The economy price field is not a number."
+msgstr "El campo del precio económico no es un número."
+
+msgid "The business price field is not a number."
+msgstr "El campo del precio de negocios no es un número."
+
+msgid "%s minutes ago"
+msgstr "Hace %s minutos"
+
+msgid "Your captcha is not correct"
+msgstr "Tu captcha no es correcto"
+
+msgid "Can not verify reCAPTCHA"
+msgstr "No se puede verificar el reCAPTCHA"
+
+msgid "Archive: "
+msgstr "Archivo: "
+
+msgid "Author's archive: "
+msgstr "Archivo del autor: "
+
+msgid "Blog Archive: "
+msgstr "Archivo del blog: "
+
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+msgid "--Select--"
+msgstr "--Seleccionar--"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Parent"
+msgstr "Padre"
+
+msgid "Rand"
+msgstr "Aleatorio"
+
+msgid "Comment Count"
+msgstr "Conteo de comentarios"
+
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+msgid "Address Rental Car."
+msgstr "Dirección del coche de alquiler."
+
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+msgid "Mr"
+msgstr "Sr."
+
+msgid "Mrs"
+msgstr "Sra."
+
+msgid "Miss"
+msgstr "Srta."
+
+msgid "Guest Name:"
+msgstr "Nombre del huésped:"
+
+msgid "Guest Name"
+msgstr "Nombre del huésped"
+
+msgid "per %d Person per %d Night(s)"
+msgstr "por %d persona por %d noche(s)"
+
+msgid "per %d Night(s)"
+msgstr "por %d noche(s)"
+
+msgid "Submit Request"
+msgstr "Enviar solicitud"
+
+msgid "Booking Now"
+msgstr "Reservar ahora"
+
+msgid "Please fill all required fields"
+msgstr "Por favor complete todos los campos obligatorios"
+
+msgid "Child"
+msgstr "Niño"
+
+msgid "Origin Price"
+msgstr "Precio original"
+
+msgid "No vacancies"
+msgstr "Sin vacantes"
+
+msgid "a vacancy"
+msgstr "una vacante"
+
+msgid "vacancies"
+msgstr "vacantes"
+
+msgid "Childrens"
+msgstr "Niños"
+
+msgid "Use this media"
+msgstr "Usar este medio"
+
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+msgid "Are you sure want to delete this item?"
+msgstr "¿Estás seguro de que deseas eliminar este elemento?"
+
+msgid "3000 m radius"
+msgstr "Radio de 3000 m"
+
+msgid "No Result"
+msgstr "Sin resultados"
+
+msgid "<div class='cluster cluster-1'>CLUSTER_COUNT</div>"
+msgstr "<div class='cluster cluster-1'>CLUSTER_COUNT</div>"
+
+msgid "<div class='cluster cluster-2'>CLUSTER_COUNT</div>"
+msgstr "<div class='cluster cluster-2'>CLUSTER_COUNT</div>"
+
+msgid "<div class='cluster cluster-3'>CLUSTER_COUNT</div>"
+msgstr "<div class='cluster cluster-3'>CLUSTER_COUNT</div>"
+
+msgid "Jan"
+msgstr "Ene"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Abr"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Ago"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dic"
+
+msgid "Room number field is required!"
+msgstr "¡El campo de número de habitación es obligatorio!"
+
+msgid "Number room is required."
+msgstr "El número de habitación es obligatorio."
+
+msgid "Not Available: "
+msgstr "No disponible: "
+
+msgid "Adult "
+msgstr "Adulto "
+
+msgid "Child "
+msgstr "Niño "
+
+msgid "Infant "
+msgstr "Infante "
+
+msgid "Start at"
+msgstr "Inicio en"
+
+msgid "End at"
+msgstr "Fin en"
+
+msgid "----Select a Room----"
+msgstr "----Seleccionar una habitación----"
+
+msgid "hour"
+msgstr "hora"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "The <b>%s</b> room has only %s room(s) available on <b>%s</b>."
+msgstr "La habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el <b>%s</b>."
+
+msgid "This <b>%s</b> room has only %s room(s) available on <b>%s</b>."
+msgstr "Esta habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el <b>%s</b>."
+
+msgid "This <b>%s</b> rental has only %s rental(s) available on <b>%s</b>."
+msgstr "Este alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</b>."
+
+msgid "The <b>%s</b> rental has only %s rental(s) available on <b>%s</b>."
+msgstr "El alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</b>."
+
+msgid "The <b>%s</b> tour has only %s people available on <b>%s</b>."
+msgstr "El tour <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+
+msgid "This <b>%s</b> tour has only %s people available on <b>%s</b>."
+msgstr "Este tour <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+
+msgid "The <b>%s</b> activity has only %s people(s) available on <b>%s</b>."
+msgstr "La actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+
+msgid "This <b>%s</b> activity has only %s people(s) available on <b>%s</b>."
+msgstr "Esta actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+
+msgid "The <b>%s</b> car has only %s item(s) available on <b>%s</b>."
+msgstr "El coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
+
+msgid "This <b>%s</b> car has only %s item(s) available on <b>%s</b>."
+msgstr "Este coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
+
+msgid "Traveler Elements"
+msgstr "Elementos de Traveler"
+
+msgid "Transfercar"
+msgstr "Transfercar"
+
+msgid "TravelerPayout Flight"
+msgstr "Vuelo de TravelerPayout"
+
+msgid "TravelerPayout Hotel"
+msgstr "Hotel de TravelerPayout"
+
+msgid "Car Rental"
+msgstr "Alquiler de coches"
+
+msgid "Guest %d name"
+msgstr "Nombre del huésped %d"
+
+msgid "Layout 1"
+msgstr "Diseño 1"
+
+msgid "Layout 2"
+msgstr "Diseño 2"
+
+msgid "Layout 3"
+msgstr "Diseño 3"
+
+msgid "Layout modern 1"
+msgstr "Diseño moderno 1"
+
+msgid "Layout modern 2"
+msgstr "Diseño moderno 2"
+
+msgid "Badges"
+msgstr "Insignias"
+
+msgid "Add badge"
+msgstr "Agregar insignia"
+
+msgid "ONLY show in Single Service Page and default Modal Checkout"
+msgstr "SOLO mostrar en la Página de Servicio Individual y en el Modal de Pago predeterminado"
+
+msgid "Upsell"
+msgstr "Venta adicional"
+
+msgid ""
+"Select items for Upsell (ONLY for the default Modal Checkout Success Page). "
+"Will show only items which belong to the chosen Type Service"
+msgstr "Seleccionar elementos para venta adicional (SOLO para la Página de Éxito del Modal de Pago predeterminado). Solo mostrará elementos que pertenezcan al Tipo de Servicio elegido."
+
+msgid "Search item for Upsell"
+msgstr "Buscar elemento para venta adicional"
+
+msgid "Max number of people. Enter '0' for unlimited"
+msgstr "Número máximo de personas. Introduce '0' para ilimitado"
+
+msgid "Activity program style"
+msgstr "Estilo del programa de actividad"
+
+msgid "Image with text"
+msgstr "Imagen con texto"
+
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+msgid "Text with icon"
+msgstr "Texto con icono"
+
+msgid "Activity program"
+msgstr "Programa de actividades"
+
+msgid "Sub title"
+msgstr "Subtítulo"
+
+msgid "Value of discount"
+msgstr "Valor del descuento"
+
+msgid ""
+"Price per child. Input number only. No decimal or thousand separator or any "
+"other character"
+msgstr "Precio por niño. Ingresa solo números. Sin decimales, separadores de miles ni ningún otro carácter"
+
+msgid "Notice: Must be https://..."
+msgstr "Aviso: Debe ser https://..."
+
+msgid "Deposit percent"
+msgstr "Porcentaje de depósito"
+
+msgid "Select an image"
+msgstr "Seleccionar una imagen"
+
+msgid "----Select Location----"
+msgstr "----Seleccionar Ubicación----"
+
+msgid "Equipment price (If service is car transfer, price type is fixed only)"
+msgstr "Precio del equipamiento (Si el servicio es traslado en coche, solo precio fijo)"
+
+msgid "By time"
+msgstr "Por tiempo"
+
+msgid "No. Passengers for transfer"
+msgstr "Número de pasajeros para el traslado"
+
+msgid "Pricing for Car Rent"
+msgstr "Precios para Alquiler de Coches"
+
+msgid "Price return"
+msgstr "Precio de devolución"
+
+msgid "Custom price for Car Rent"
+msgstr "Precio personalizado para Alquiler de Coches"
+
+msgid "Price by number of day|hour for Car Rent"
+msgstr "Precio por número de días|horas para Alquiler de Coches"
+
+msgid "Price by date for Car Rent"
+msgstr "Precio por fecha para Alquiler de Coches"
+
+msgid "Layout 4"
+msgstr "Diseño 4"
+
+msgid "Layout 5"
+msgstr "Diseño 5"
+
+msgid "Hotel external booking"
+msgstr "Reservas externas de hotel"
+
+msgid ""
+"The average price of hotel. Show only if Theme Options > Hotel Options > "
+"Price show on listing = Avg Price<br/>ON: Automatically<br/>OFF: Input "
+"manually"
+msgstr "El precio promedio del hotel. Mostrar solo si Opciones del Tema > Opciones de Hotel > Mostrar precio en listado = Precio Promedio<br/>ACTIVADO: Automáticamente<br/>DESACTIVADO: Introducir manualmente"
+
+msgid ""
+"Enter default average price if OFF for Set auto calculation average price"
+msgstr "Introduce el precio promedio predeterminado si está DESACTIVADO para configurar el cálculo automático del precio promedio"
+
+msgid "No. Bed"
+msgstr "Número de camas"
+
+msgid "Bed Number"
+msgstr "Número de camas"
+
+msgid "No. Bath"
+msgstr "Número de baños"
+
+msgid "Bath Number"
+msgstr "Número de baños"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "This  use for discount . Caculation by:fixed or % "
+msgstr "Esto se usa para descuentos. Cálculo por: fijo o %"
+
+msgid "Sub heading in banner"
+msgstr "Subtítulo en el banner"
+
+msgid "Enter sub heading display below title in banner"
+msgstr "Introduce el subtítulo que se mostrará debajo del título en el banner"
+
+msgid "Enter From  No. days will be discounted"
+msgstr "Introduce desde qué número de días se aplicará el descuento"
+
+msgid "This use for discount total. Caculation by: amount or %"
+msgstr "Esto se usa para el descuento total. Cálculo por: monto o %"
+
+msgid "Room Facility Preview"
+msgstr "Vista previa de las instalaciones de la habitación"
+
+msgid ""
+"Upload the hotel room detail facilities preview (for single hotel WPBakery "
+"only)"
+msgstr "Sube la vista previa de las instalaciones detalladas de la habitación del hotel (solo para hotel individual en WPBakery)"
+
+msgid "Number of bathroom"
+msgstr "Número de baños"
+
+msgid "Number of Bathroom"
+msgstr "Número de baños"
+
+msgid ""
+"You can add unlimited facilities. This option can be used for only WPBakery "
+"Single Hotel with Room Layout "
+msgstr "Puedes agregar instalaciones ilimitadas. Esta opción solo se puede usar con el diseño de habitación de hotel individual en WPBakery"
+
+msgid "Arabic"
+msgstr "Árabe"
+
+msgid "Notice"
+msgstr "Aviso"
+
+msgid ""
+"Kindly install Theme Settings > Extensions > Traveler Social Login and setup "
+"in here"
+msgstr "Por favor, instala Configuración del Tema > Extensiones > Inicio de Sesión Social de Traveler y configúralo aquí"
+
+msgid ""
+"Document get map API key https://travelerwp.com/documents/other-features/map-"
+"api/"
+msgstr "Documentación para obtener la clave API del mapa https://travelerwp.com/documents/other-features/map-api/"
+
+msgid "Whitelabel Subdomain"
+msgstr "Subdominio de Marca Blanca"
+
+msgid "Disable user option "
+msgstr "Desactivar opción de usuario"
+
+msgid "ON: Disable partner, OFF: Able partner"
+msgstr "ACTIVADO: Desactivar socio, DESACTIVADO: Activar socio"
+
+msgid "Email need approval. (Title: New Register Partner...)"
+msgstr "El correo necesita aprobación. (Título: Nuevo registro de socio...)"
+
+msgid "Email to partner (when waiting for approved register)"
+msgstr "Correo al socio (cuando espera la aprobación del registro)"
+
+msgid "User registration option "
+msgstr "Opción de registro de usuarios"
+
+msgid "ON: Allow partner, OFF: Not allow partner"
+msgstr "ACTIVADO: Permitir socios, DESACTIVADO: No permitir socios"
+
+msgid "Header background of the partner page."
+msgstr "Fondo del encabezado en la página de socios."
+
+msgid "Member Packages Layout"
+msgstr "Diseño de paquetes de membresía"
+
+msgid "Select the layout packages"
+msgstr "Selecciona el diseño de paquetes"
+
+msgid "Room taxonomy"
+msgstr "Taxonomía de habitaciones"
+
+msgid "Select Single Hotel"
+msgstr "Seleccionar Hotel Individual"
+
+msgid "Logo Light options"
+msgstr "Opciones del logotipo claro"
+
+msgid "Select list of rooms page"
+msgstr "Selecciona la página para listar habitaciones"
+
+msgid "Select the page to display list of rooms "
+msgstr "Selecciona la página para mostrar la lista de habitaciones"
+
+msgid "Number of posts per page room list"
+msgstr "Número de publicaciones por página en la lista de habitaciones"
+
+msgid "Maximum number of adult in form search"
+msgstr "Número máximo de adultos en el formulario de búsqueda"
+
+msgid "Maximum number of children in form search"
+msgstr "Número máximo de niños en el formulario de búsqueda"
+
+msgid "Booking directly in room list page"
+msgstr "Reserva directa en la página de lista de habitaciones"
+
+msgid "Turn on/of single blog"
+msgstr "Activar/desactivar blog individual"
+
+msgid "Select taxonomy in page list of rooms"
+msgstr "Seleccionar taxonomía en la página de lista de habitaciones"
+
+msgid "Select taxonomy in room detail page"
+msgstr "Seleccionar taxonomía en la página de detalle de habitación"
+
+msgid "Sidebar: Facebook URL"
+msgstr "Barra lateral: URL de Facebook"
+
+msgid "Example: https://example.com"
+msgstr "Ejemplo: https://example.com"
+
+msgid "Sidebar: Instagram URL"
+msgstr "Barra lateral: URL de Instagram"
+
+msgid "Sidebar: Twitter URL"
+msgstr "Barra lateral: URL de Twitter"
+
+msgid "Menu Left"
+msgstr "Menú Izquierdo"
+
+msgid "Menu Style 3"
+msgstr "Estilo de Menú 3"
+
+msgid " Show information contact"
+msgstr "Mostrar información de contacto"
+
+msgid "ON: Show information contact box in sidebar single activity"
+msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de actividades individuales"
+
+msgid "Advance search"
+msgstr "Búsqueda avanzada"
+
+msgid "Type filter Option Attribute"
+msgstr "Tipo de filtro por Atributo"
+
+msgid "Age restriction for Adult"
+msgstr "Restricción de edad para adultos"
+
+msgid "Age 18+"
+msgstr "Edad 18+"
+
+msgid "Age restriction for Children"
+msgstr "Restricción de edad para niños"
+
+msgid "Age 6-17"
+msgstr "Edad 6-17"
+
+msgid "Age restriction for Infant"
+msgstr "Restricción de edad para infantes"
+
+msgid "Age 0-5"
+msgstr "Edad 0-5"
+
+msgid "Icon Duration Single Activity"
+msgstr "Ícono de Duración de Actividad Individual"
+
+msgid ""
+"Example: <i class=\"lar la-clock\"></i> : Link search icon : https://icons8."
+"com/line-awesome"
+msgstr "Ejemplo: <i class=\"lar la-clock\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+
+msgid "Icon activity cancel single"
+msgstr "Ícono de cancelación de actividad individual"
+
+msgid ""
+"Example: <i class=\"las la-ban\"></i> : Link search icon : https://icons8."
+"com/line-awesome"
+msgstr "Ejemplo: <i class=\"las la-ban\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+
+msgid "Icon Group Size Single Activity"
+msgstr "Ícono del Tamaño del Grupo para Actividad Individual"
+
+msgid ""
+"Example: <i class=\"las la-user-friends\"></i> : Link search icon : https:"
+"//icons8.com/line-awesome"
+msgstr "Ejemplo: <i class=\"las la-user-friends\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+
+msgid "Icon Language Single Activity"
+msgstr "Ícono de Idioma para Actividad Individual"
+
+msgid ""
+"Example: <i class=\"las la-language\"></i> : Link search icon : https:"
+"//icons8.com/line-awesome"
+msgstr "Ejemplo: <i class=\"las la-language\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+
+msgid "Show Activity Nearby"
+msgstr "Mostrar Actividades Cercanas"
+
+msgid "ON: Show activity nearby on the map"
+msgstr "ACTIVADO: Mostrar actividades cercanas en el mapa"
+
+msgid ""
+"Setting Form Field(Only use for WPBakery Page Builder element [ST] Slider "
+"Tour With Search Form style 2)"
+msgstr "Configuración de Campo del Formulario (Solo usar con el elemento de WPBakery [ST] Slider Tour con estilo de Formulario de Búsqueda 2)"
+
+msgid "Display fields in the form(Maximum of 4 field)"
+msgstr "Mostrar campos en el formulario (Máximo 4 campos)"
+
+msgid "Choose form field"
+msgstr "Elegir campo del formulario"
+
+msgid "Show field"
+msgstr "Mostrar campo"
+
+msgid "Guests"
+msgstr "Huéspedes"
+
+msgid "ON: Show information contact box in sidebar single tour"
+msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de tours individuales"
+
+msgid "Accompanied service"
+msgstr "Servicio acompañado"
+
+msgid "Hotel, Car, Flight..."
+msgstr "Hotel, Coche, Vuelo..."
+
+msgid "Icon Duration Single Tour"
+msgstr "Ícono de Duración para Tour Individual"
+
+msgid "Icon Tour Type Single Tour"
+msgstr "Ícono del Tipo de Tour Individual"
+
+msgid ""
+"Example: <i class=\"las la-shoe-prints\"></i> : Link search icon : https:"
+"//icons8.com/line-awesome"
+msgstr "Ejemplo: <i class=\"las la-shoe-prints\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+
+msgid "Icon Group size Single Tour"
+msgstr "Ícono del Tamaño del Grupo para Tour Individual"
+
+msgid "Icon Language Single Tour"
+msgstr "Ícono del Idioma para Tour Individual"
+
+msgid "Show Tour Nearby"
+msgstr "Mostrar Tours Cercanos"
+
+msgid "ON: Show tour nearby on the map"
+msgstr "ACTIVADO: Mostrar tours cercanos en el mapa"
+
+msgid "Email to normal customer (when register)"
+msgstr "Correo al cliente normal (al registrarse)"
+
+msgid ""
+"Email confirm to customer after booking - for Modal Checkout Bank Transfer "
+"only"
+msgstr "Correo de confirmación al cliente después de la reserva - Solo para Transferencia Bancaria en el Modal de Pago"
+msgid "The unit to calculate the price of car<br/>Day: The price is calculated according to day<br/>Hour: The price is calculated according to hour<br/>"
+msgstr "La unidad para calcular el precio del auto<br/>Día: El precio se calcula por día<br/>Hora: El precio se calcula por hora<br/>"
+
+msgid "ON: Show information contact box in sidebar single car"
+msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de autos individuales"
+
+msgid "Show Car Nearby"
+msgstr "Mostrar autos cercanos"
+
+msgid "ON: Show car nearby on the map"
+msgstr "ACTIVADO: Mostrar autos cercanos en el mapa"
+
+msgid "Availability Check"
+msgstr "Verificación de disponibilidad"
+
+msgid "Check availability in search results."
+msgstr "Verificar la disponibilidad en los resultados de búsqueda."
+
+msgid "ON: Show information contact box in sidebar single rental"
+msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de alquileres individuales"
+
+msgid "Show Rental Nearby"
+msgstr "Mostrar alquileres cercanos"
+
+msgid "ON: Show rental nearby on the map"
+msgstr "ACTIVADO: Mostrar alquileres cercanos en el mapa"
+
+msgid "Start Week"
+msgstr "Semana de inicio"
+
+msgid "Blog Style solo"
+msgstr "Estilo de Blog solo"
+
+msgid "Select Blog list style"
+msgstr "Selecciona el estilo de la lista de blogs"
+
+msgid "Select styles of blog (it is default as style 1)"
+msgstr "Selecciona los estilos de blog (predeterminado como estilo 1)"
+
+msgid "Select Blog Single style"
+msgstr "Selecciona el estilo del blog individual"
+
+msgid "Default Style(Modern if Bloglist Modern Style)"
+msgstr "Estilo predeterminado (Moderno si el estilo de lista de blog es Moderno)"
+
+msgid "Solo Style"
+msgstr "Estilo solo"
+
+msgid "Show Calculated Ajax Price on Single Service Page"
+msgstr "Mostrar el precio calculado con Ajax en la página de servicio individual"
+
+msgid "ON: The price automatically changes when editing the booking conditions in the sidebar"
+msgstr "ACTIVADO: El precio cambia automáticamente al editar las condiciones de reserva en la barra lateral"
+
+msgid "Enable captcha for booking form. It is applied for normal booking form : link https://www.google.com/recaptcha/admin"
+msgstr "Habilitar captcha para el formulario de reserva. Se aplica al formulario de reserva normal: enlace https://www.google.com/recaptcha/admin"
+
+msgid "Site key"
+msgstr "Clave del sitio"
+
+msgid "Use this Google reCAPTCHA V3 site key in the HTML code your site serves to users. : https://www.google.com/recaptcha/admin"
+msgstr "Utiliza esta clave de sitio de Google reCAPTCHA V3 en el código HTML que tu sitio proporciona a los usuarios. : https://www.google.com/recaptcha/admin"
+
+msgid "Secret key"
+msgstr "Clave secreta"
+
+msgid "Use this secret key for communication between your site and reCAPTCHA"
+msgstr "Utiliza esta clave secreta para la comunicación entre tu sitio y reCAPTCHA"
+
+msgid "ST Form Builder: Select form for checkout template"
+msgstr "ST Form Builder: Selecciona el formulario para la plantilla de pago"
+
+msgid "Leave none to default field"
+msgstr "Déjalo en blanco para usar el campo predeterminado"
+
+msgid "Enable/disable Woocommerce Checkout. Follow this document to set required pages: https://travelerwp.com/how-to-set-up-checkout-options-and-payment-methods/"
+msgstr "Habilitar/deshabilitar el pago de WooCommerce. Sigue este documento para configurar las páginas requeridas: https://travelerwp.com/how-to-set-up-checkout-options-and-payment-methods/"
+
+msgid "If enabled, the customer cannot cancel the booking in the User Dashboard. Only the admin can cancel the whole order in WPAdmin."
+msgstr "Si está habilitado, el cliente no puede cancelar la reserva en el Panel del Usuario. Solo el administrador puede cancelar el pedido completo en WPAdmin."
+
+msgid "Style location"
+msgstr "Estilo de ubicación"
+
+msgid "Choose style detail location page"
+msgstr "Elige el estilo de la página de ubicación detallada"
+
+msgid "Disable Availability Check"
+msgstr "Desactivar verificación de disponibilidad"
+
+msgid "ON: Do not check availability in search results."
+msgstr "ACTIVADO: No verificar disponibilidad en los resultados de búsqueda."
+
+msgid "Distance to Nearby hotels"
+msgstr "Distancia a hoteles cercanos"
+
+msgid "Review option"
+msgstr "Opción de reseña"
+
+msgid "ON: Show information contact box in sidebar single hotel"
+msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de hoteles individuales"
+
+msgid "Show Hotel Nearby"
+msgstr "Mostrar hoteles cercanos"
+
+msgid "ON: Show hotel nearby on the map"
+msgstr "ACTIVADO: Mostrar hoteles cercanos en el mapa"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "Header Lite"
+msgstr "Encabezado Ligero"
+
+msgid "Header Transparent Tour Style1"
+msgstr "Encabezado Transparente Estilo Tour 1"
+
+msgid "Header Transparent Tour Style2"
+msgstr "Encabezado Transparente Estilo Tour 2"
+
+msgid "Header Transparent Tour Style3"
+msgstr "Encabezado Transparente Estilo Tour 3"
+
+msgid "Header Lite Style 2"
+msgstr "Estilo Encabezado Ligero 2"
+
+msgid "Header Style solo"
+msgstr "Estilo de Encabezado solo"
+
+msgid "Using for build page with Theme style modern. If the website is being built by WPBakery Page Builder then when you select to Elementor, so need build page again. And same to vice versa"
+msgstr "Usado para construir la página con el estilo moderno del tema. Si el sitio web se construye con WPBakery Page Builder y cambias a Elementor, necesitarás construir la página nuevamente, y viceversa."
+
+msgid "Style item author page"
+msgstr "Estilo de página de autor"
+
+msgid "Style for All services in Author page"
+msgstr "Estilo para todos los servicios en la página del autor"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "Body Color"
+msgstr "Color del cuerpo"
+
+msgid "To change the body color for web"
+msgstr "Para cambiar el color del cuerpo del sitio web"
+
+msgid "Heading Color"
+msgstr "Color del encabezado"
+
+msgid "To change the heading color for web"
+msgstr "Para cambiar el color de los encabezados del sitio web"
+
+msgid "Grey Color"
+msgstr "Color gris"
+
+msgid "To change the grey color for web"
+msgstr "Para cambiar el color gris del sitio web"
+
+msgid "Link Color"
+msgstr "Color del enlace"
+
+msgid "To change the link color for web"
+msgstr "Para cambiar el color de los enlaces del sitio web"
+
+msgid "Banner transparent"
+msgstr "Banner transparente"
+
+msgid "Banner settings hotel transparent - Header style 4(MOD) only"
+msgstr "Configuración del banner del hotel transparente - Solo estilo de encabezado 4 (MOD)"
+
+msgid "Menu transparent"
+msgstr "Menú transparente"
+
+msgid "Enable menu transparent. Apply for style 4 (MOD) only"
+msgstr "Habilitar menú transparente. Aplica solo para el estilo 4 (MOD)"
+
+msgid "Enable Mega Menu - Build with WPBakery / Elementor"
+msgstr "Habilitar Mega Menú - Construir con WPBakery / Elementor"
+
+msgid "Footer"
+msgstr "Pie de página"
+msgid "Copyright Text"
+msgstr "Texto de derechos de autor"
+
+msgid "Copyright text"
+msgstr "Texto de derechos de autor"
+
+msgid "Card Accept"
+msgstr "Tarjeta aceptada"
+
+msgid ""
+"Change Logo. Please also upload to Appearance > Customize > Site Identity > "
+"Logo. For site icon, upload Appearance > Customize > Site Identity > Site "
+"Icon"
+msgstr "Cambiar logo. También súbelo en Apariencia > Personalizar > Identidad del sitio > Logo. Para el ícono del sitio, súbelo en Apariencia > Personalizar > Identidad del sitio > Ícono del sitio."
+
+msgid ""
+"Change Logo Mobile. Please also upload to Appearance > Customize > Site "
+"Identity > Logo Mobile"
+msgstr "Cambiar logo móvil. También súbelo en Apariencia > Personalizar > Identidad del sitio > Logo móvil."
+
+msgid "404 Style Layout"
+msgstr "Estilo de diseño 404"
+
+msgid "Select layout to 404 page "
+msgstr "Selecciona el diseño para la página 404"
+
+msgid "Background color of 404 page"
+msgstr "Color de fondo de la página 404"
+
+msgid "To change background color for 404 page"
+msgstr "Para cambiar el color de fondo de la página 404"
+
+msgid "Image of 404 page"
+msgstr "Imagen de la página 404"
+
+msgid "To change image for 404 page"
+msgstr "Para cambiar la imagen de la página 404"
+
+msgid "Attachment"
+msgstr "Adjunto"
+
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+msgid "Layout 6"
+msgstr "Diseño 6"
+
+msgid "Layout 7"
+msgstr "Diseño 7"
+
+msgid "Is Iframe"
+msgstr "Es Iframe"
+
+msgid "Turn on/off Iframe"
+msgstr "Activar/desactivar Iframe"
+
+msgid "Iframe"
+msgstr "Iframe"
+
+msgid "Enter the iframe you took on google map"
+msgstr "Introduce el iframe que tomaste de Google Maps"
+
+msgid "Price per Child"
+msgstr "Precio por niño"
+
+msgid "Max No. People. Enter '0' for unlimited"
+msgstr "Número máximo de personas. Ingresa '0' para ilimitado"
+
+msgid "Tour program style"
+msgstr "Estilo del programa del tour"
+
+msgid "Background image with text"
+msgstr "Imagen de fondo con texto"
+
+msgid "Solo Tour: Overview Background Image"
+msgstr "Tour Solo: Imagen de fondo de la vista general"
+
+msgid "Solo Tour: Tour Highlight Background Image"
+msgstr "Tour Solo: Imagen de fondo de los puntos destacados"
+
+msgid "Solo Tour: Related Tour Background Image"
+msgstr "Tour Solo: Imagen de fondo de tours relacionados"
+
+msgid "from"
+msgstr "desde"
+
+msgid "This activity is not available."
+msgstr "Esta actividad no está disponible."
+
+msgid "%s activities found"
+msgstr "%s actividades encontradas"
+
+msgid "%s activity found"
+msgstr "%s actividad encontrada"
+
+msgid "Could not find any activities"
+msgstr "No se pudieron encontrar actividades"
+
+msgid "Start time is over."
+msgstr "El tiempo de inicio ha terminado."
+
+msgid "Start date is invalid"
+msgstr "La fecha de inicio no es válida"
+
+msgid "%1$d - %2$d of %3$d "
+msgstr "%1$d - %2$d de %3$d"
+
+msgid " carstransfers "
+msgstr " transferencias de autos "
+
+msgid " carstransfer "
+msgstr " transferencia de auto "
+
+msgid "No carstransfer found"
+msgstr "No se encontraron transferencias de autos"
+
+msgid " from %1$s to %2$s"
+msgstr " desde %1$s hasta %2$s"
+
+msgid "Location is required."
+msgstr "La ubicación es obligatoria."
+
+msgid "The Drop Off Date is required"
+msgstr "La fecha de entrega es obligatoria"
+
+msgid "This car is not set location data"
+msgstr "Este auto no tiene datos de ubicación configurados"
+
+msgid "The location is not match with car location"
+msgstr "La ubicación no coincide con la ubicación del auto"
+
+msgid "The drop off datetime is later than the pick up datetime"
+msgstr "La fecha y hora de entrega es posterior a la fecha y hora de recogida"
+
+msgid "Transfer"
+msgstr "Transferencia"
+
+msgid "Location is required"
+msgstr "La ubicación es obligatoria"
+
+msgid "The location is not match with car location."
+msgstr "La ubicación no coincide con la ubicación del auto."
+
+msgid "Error Captcha - Please refresh again"
+msgstr "Error de Captcha - Por favor, actualiza nuevamente"
+
+msgid "[Waiting Customer Confirm]"
+msgstr "[Esperando confirmación del cliente]"
+
+msgid "%s Booking at %s: %s"
+msgstr "Reserva %s en %s: %s"
+
+msgid "Max of adults is %d people per %d room."
+msgstr "El máximo de adultos es %d personas por %d habitación."
+
+msgid "/person"
+msgid_plural "/%d persons"
+msgstr[0] "/persona"
+msgstr[1] "/%d personas"
+
+msgid "/night"
+msgid_plural "/%d nights"
+msgstr[0] "/noche"
+msgstr[1] "/%d noches"
+
+msgid "%d night"
+msgid_plural "%d nights"
+msgstr[0] "%d noche"
+msgstr[1] "%d noches"
+
+msgid "%s hotel found in %s"
+msgid_plural "%s hotels found in %s"
+msgstr[0] "%s hotel encontrado en %s"
+msgstr[1] "%s hoteles encontrados en %s"
+
+msgid "%s hotel found"
+msgid_plural "%s hotels found"
+msgstr[0] "%s hotel encontrado"
+msgstr[1] "%s hoteles encontrados"
+
+msgid "No hotels found in %s"
+msgstr "No se encontraron hoteles en %s"
+
+msgid "No hotels found"
+msgstr "No se encontraron hoteles"
+
+msgid "%s hotels found "
+msgstr "%s hoteles encontrados"
+
+msgid "%s hotel found "
+msgstr "%s hotel encontrado"
+
+msgid "You have a new message from "
+msgstr "Tienes un nuevo mensaje de "
+
+msgid "You have a message from %s in %s with the content:"
+msgstr "Tienes un mensaje de %s en %s con el contenido:"
+
+msgid "you can answer here "
+msgstr "puedes responder aquí"
+
+msgid " . Or going to the Account > Message Administration to follow."
+msgstr " . O dirígete a Cuenta > Administración de mensajes para dar seguimiento."
+
+msgid "Your payment is incomplete."
+msgstr "Tu pago está incompleto."
+
+msgid "This rental is not available"
+msgstr "Este alquiler no está disponible."
+
+msgid "The check in field is required"
+msgstr "El campo de check-in es obligatorio."
+
+msgid "The check out field is required"
+msgstr "El campo de check-out es obligatorio."
+
+msgid "The check-out is later than the check-in"
+msgstr "La fecha de check-out es posterior a la de check-in."
+
+msgid "<span class=\"price\">%s</span>"
+msgstr "<span class=\"price\">%s</span>"
+
+msgid "from <span class=\"price\">%s</span> per %s nights"
+msgstr "desde <span class=\"price\">%s</span> por %s noches"
+
+msgid "from <span class=\"price\">%s</span> per night"
+msgstr "desde <span class=\"price\">%s</span> por noche"
+
+msgid "This tour is not available."
+msgstr "Este tour no está disponible."
+
+msgid "Min number of people for this tour is %d people"
+msgstr "El número mínimo de personas para este tour es %d."
+
+msgid "This tour is only available for %1$d people at %2$s"
+msgstr "Este tour solo está disponible para %1$d personas a las %2$s."
+
+msgid "%s tours found"
+msgstr "%s tours encontrados"
+
+msgid "%s tour found"
+msgstr "%s tour encontrado"
+
+msgid "Could not find any tours"
+msgstr "No se pudieron encontrar tours."
+
+msgid "Payments"
+msgstr "Pagos"
+
+msgid "Activity Include"
+msgstr "Actividad incluida"
+
+msgid "Activity Exclude"
+msgstr "Actividad excluida"
+
+msgid ""
+"You can add unlimited facilities. This option can be used for only WPBakery "
+"Single Hotel with Room Layout"
+msgstr "Puedes agregar instalaciones ilimitadas. Esta opción solo puede usarse en el diseño de habitación de hotel con WPBakery."
+
+msgid "complete"
+msgstr "completado"
+
+msgid "Oops something went wrong updating your account."
+msgstr "¡Ups! Algo salió mal al actualizar tu cuenta."
+
+msgid "Your request cancel booking is completed."
+msgstr "Tu solicitud de cancelación de reserva se ha completado."
+
+msgid "Confirm reset password"
+msgstr "Confirmar restablecimiento de contraseña"
+
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Alguien ha solicitado restablecer la contraseña para la siguiente cuenta:"
+
+msgid "Site Name"
+msgstr "Nombre del sitio"
+
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Si esto fue un error, simplemente ignora este correo y no pasará nada."
+
+msgid "To reset your password, visit the following address:"
+msgstr "Para restablecer tu contraseña, visita la siguiente dirección:"
+
+msgid "Signup in successfully"
+msgstr "Registro exitoso"
+
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+msgid "Topbar Layout"
+msgstr "Diseño de la barra superior"
+
+msgid "Sidebar Layout (Style mordern)"
+msgstr "Diseño de la barra lateral (Estilo moderno)"
+
+msgid "Topbar Layout (Style mordern)"
+msgstr "Diseño de la barra superior (Estilo moderno)"
+
+msgid "Activity Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de actividades"
+
+msgid "Choose layout for page"
+msgstr "Selecciona el diseño para la página"
+
+msgid "Style default"
+msgstr "Estilo predeterminado"
+
+msgid "Select defaul style to display in the search result page"
+msgstr "Selecciona el estilo predeterminado para mostrar en la página de resultados de búsqueda."
+
+msgid "Create filter option"
+msgstr "Crear opción de filtro"
+
+msgid "Create filter option for search page result"
+msgstr "Crear opción de filtro para la página de resultados de búsqueda."
+
+msgid "Filter item"
+msgstr "Elemento de filtro"
+
+msgid "Review score"
+msgstr "Puntuación de reseñas"
+
+msgid "Taxonomy select"
+msgstr "Seleccionar taxonomía"
+
+msgid "Car Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de autos"
+
+msgid "Select default style to display in the search result page"
+msgstr "Selecciona el estilo predeterminado para mostrar en la página de resultados de búsqueda."
+
+msgid "Car Transfer Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de transferencias de autos"
+
+msgid "Hotel Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de hoteles"
+
+msgid "Layout Full Map"
+msgstr "Diseño con mapa completo"
+
+msgid "Layout Half Map"
+msgstr "Diseño con medio mapa"
+
+msgid "Layout Half Map (Style 2)"
+msgstr "Diseño con medio mapa (Estilo 2)"
+
+msgid "Popup Map"
+msgstr "Mapa emergente"
+
+msgid "Popup Map (Style 2)"
+msgstr "Mapa emergente (Estilo 2)"
+
+msgid "Full Width"
+msgstr "Ancho completo"
+
+msgid "Map Position"
+msgstr "Posición del mapa"
+
+msgid "Map zoom"
+msgstr "Zoom del mapa"
+
+msgid "Set map zoom in search result page"
+msgstr "Configura el zoom del mapa en la página de resultados de búsqueda."
+
+msgid "Hotel star"
+msgstr "Estrella del hotel"
+
+msgid "Facilities"
+msgstr "Instalaciones"
+
+msgid "Policy"
+msgstr "Política"
+
+msgid "Up Sell"
+msgstr "Venta adicional"
+
+msgid "Badges & Up Sell"
+msgstr "Insignias y venta adicional"
+
+msgid "Fixed departure"
+msgstr "Salida fija"
+
+msgid "By day"
+msgstr "Por día"
+
+msgid "Discount type (Discount rate by)"
+msgstr "Tipo de descuento (Tasa de descuento por)"
+
+msgid "Amont"
+msgstr "Monto"
+
+msgid "Discount Type for No.Day"
+msgstr "Tipo de descuento por número de días"
+
+msgid "Hotel Room Location"
+msgstr "Ubicación de la habitación del hotel"
+
+msgid "Real hotel room address"
+msgstr "Dirección real de la habitación del hotel"
+msgid "Category Color"
+msgstr "Color de la categoría"
+
+msgid "Layout Half Map (Style mordern)"
+msgstr "Diseño de medio mapa (Estilo moderno)"
+
+msgid "Popup Map (Style mordern)"
+msgstr "Mapa emergente (Estilo moderno)"
+
+msgid "Rental Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de alquileres"
+
+msgid "Topbar Layout 2"
+msgstr "Diseño de barra superior 2"
+
+msgid "Sidebar Layout 2"
+msgstr "Diseño de barra lateral 2"
+
+msgid "Solo Layout"
+msgstr "Diseño solo"
+
+msgid "Tour Search Result Settings"
+msgstr "Configuración de resultados de búsqueda de tours"
+
+msgid "Excellent"
+msgstr "Excelente"
+
+msgid "Very Good"
+msgstr "Muy bueno"
+
+msgid "Average"
+msgstr "Promedio"
+
+msgid "Poor"
+msgstr "Deficiente"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Booked"
+msgstr "Reservado"
+
+msgid "From - To"
+msgstr "De - A"
+
+msgid "Show as Mega Menu"
+msgstr "Mostrar como Mega Menú"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Main menu columns"
+msgstr "Columnas del menú principal"
+
+msgid "Show as Title"
+msgstr "Mostrar como título"
+
+msgid "Highlight Label"
+msgstr "Etiqueta destacada"
+
+msgid "Label Highlight Color"
+msgstr "Color de la etiqueta destacada"
+
+msgid "Menu Image"
+msgstr "Imagen del menú"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+msgid "Sign Up"
+msgstr "Registrarse"
+
+msgid "[%s] Contact from customer"
+msgstr "[%s] Contacto de un cliente"
+
+msgid "Send email successfully!"
+msgstr "¡Correo enviado con éxito!"
+
+msgid "Some errors occurred!"
+msgstr "¡Ocurrieron algunos errores!"
+
+msgid "Previous Page"
+msgstr "Página anterior"
+
+msgid "Next Page"
+msgstr "Página siguiente"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "month"
+msgstr "mes"
+
+msgid "week"
+msgstr "semana"
+
+msgid "months"
+msgstr "meses"
+
+msgid "weeks"
+msgstr "semanas"
+
+msgid "Hotel rooms"
+msgstr "Habitaciones de hotel"
+
+msgid "Rental rooms"
+msgstr "Habitaciones de alquiler"
+
+msgid "Rental room"
+msgstr "Habitación de alquiler"
+
+msgid "Flights"
+msgstr "Vuelos"
+
+msgid "Have %d new %s need check for approved."
+msgstr "Hay %d nuevo %s que necesita ser aprobado."
+
+msgid "Have %d %s need to update for google maps search."
+msgstr "Hay %d %s que necesita actualizarse para la búsqueda en Google Maps."
+
+msgid "Have %d new user partner need check for approved."
+msgstr "Hay %d nuevo socio usuario que necesita ser aprobado."
+
+msgid "Have %d new user partner update certificates need check for approved."
+msgstr "Hay %d nuevo socio usuario que actualizó certificados y necesita aprobación."
+
+msgid "New user registration on your site %s:"
+msgstr "Nuevo registro de usuario en tu sitio %s:"
+
+msgid "Username: %s"
+msgstr "Nombre de usuario: %s"
+
+msgid "E-mail: %s"
+msgstr "Correo electrónico: %s"
+
+msgid "To set your password, visit the following address:"
+msgstr "Para establecer tu contraseña, visita la siguiente dirección:"
+
+msgid "[%s] Your username and password info"
+msgstr "[%s] Información de tu nombre de usuario y contraseña"
+
+msgid "You have a item is approved"
+msgstr "Tienes un elemento aprobado"
+
+msgid "-- Choose One --"
+msgstr "-- Elige uno --"
+
+msgid "---- Select ----"
+msgstr "---- Selecciona ----"
+
+msgid "Hotel: "
+msgstr "Hotel: "
+
+msgid "Airport: "
+msgstr "Aeropuerto: "
+
+msgid "Terrible"
+msgstr "Terrible"
+
+msgid "Not Rated"
+msgstr "Sin calificar"
+
+msgid "Required fields are marked %s"
+msgstr "Los campos obligatorios están marcados con %s"
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debes estar <a href=\"%s\">conectado</a> para dejar un comentario."
+
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a href=\"%4$s\">"
+"Log out?</a>"
+msgstr ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Conectado como %3$s</a>. <a href=\"%4$s\">"
+"¿Cerrar sesión?</a>"
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "Conectado como %s. Edita tu perfil."
+
+msgid "Your email address will not be published."
+msgstr "Tu dirección de correo electrónico no será publicada."
+
+msgid "Leave a review"
+msgstr "Dejar una reseña"
+
+msgid "Leave a review to %s"
+msgstr "Dejar una reseña a %s"
+
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+msgid "Post Review"
+msgstr "Publicar reseña"
+
+msgid "Leave a Comment"
+msgstr "Dejar un comentario"
+
+msgid "Leave a Comment to %s"
+msgstr "Dejar un comentario a %s"
+
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+msgid "Comment*"
+msgstr "Comentario*"
+
+msgid "Name*"
+msgstr "Nombre*"
+
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+msgid "Prev"
+msgstr "Ant."
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "siguiente"
+
+msgid "ST Video"
+msgstr "ST Video"
+
+msgid "Play video in page"
+msgstr "Reproducir video en la página"
+
+msgid "Enter a text for title"
+msgstr "Introduce un texto para el título"
+
+msgid "Youtube ID"
+msgstr "ID de YouTube"
+
+msgid "Enter a video id for element. Ex: gdXDJ9TIcZQ"
+msgstr "Introduce un ID de video para el elemento. Ej.: gdXDJ9TIcZQ"
+
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+msgid "ST List of Related Services"
+msgstr "ST Lista de servicios relacionados"
+
+msgid "Service ID"
+msgstr "ID de servicio"
+
+msgid "Ids separated by commas. Example: 123,456"
+msgstr "IDs separados por comas. Ejemplo: 123,456"
+
+msgid "Number of Items"
+msgstr "Número de elementos"
+
+msgid "-1 for unlimited"
+msgstr "-1 para ilimitado"
+
+msgid "ST FAQs"
+msgstr "ST Preguntas frecuentes"
+
+msgid "List items"
+msgstr "Elementos de la lista"
+
+msgid "ST FAQs Solo"
+msgstr "ST FAQs Solo"
+
+msgid "ST About Team"
+msgstr "ST Acerca del equipo"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Social"
+msgstr "Redes sociales"
+
+msgid "Link to"
+msgstr "Enlace a"
+
+msgid "ST About Solo"
+msgstr "ST Acerca de Solo"
+
+msgid "ST About Us Gallery"
+msgstr "ST Galería Acerca de Nosotros"
+
+msgid "ST About Us Information"
+msgstr "ST Información Acerca de Nosotros"
+
+msgid "More Information"
+msgstr "Más información"
+
+msgid "ST About Us Statistic"
+msgstr "ST Estadísticas Acerca de Nosotros"
+
+msgid "Main text"
+msgstr "Texto principal"
+
+msgid "Sub text"
+msgstr "Texto secundario"
+
+msgid "ST Contact Info"
+msgstr "ST Información de contacto"
+
+msgid "Company Info"
+msgstr "Información de la empresa"
+
+msgid "ST Contact Map"
+msgstr "ST Mapa de contacto"
+
+msgid "ST Search Form"
+msgstr "ST Formulario de búsqueda"
+
+msgid "Search Form Type"
+msgstr "Tipo de formulario de búsqueda"
+
+msgid "Single service"
+msgstr "Servicio único"
+
+msgid "Mix services"
+msgstr "Servicios mixtos"
+
+msgid "Tour Style"
+msgstr "Estilo de tour"
+
+msgid "Search items"
+msgstr "Buscar elementos"
+
+msgid "Tab title"
+msgstr "Título de la pestaña"
+
+msgid "Heading"
+msgstr "Encabezado"
+
+msgid "Heading align"
+msgstr "Alineación del encabezado"
+
+msgid "Center"
+msgstr "Centrado"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Slider images"
+msgstr "Imágenes del carrusel"
+
+msgid "Featured Item"
+msgstr "Elemento destacado"
+
+msgid "ST Car Types"
+msgstr "ST Tipos de coches"
+
+msgid "ST Featured Item"
+msgstr "ST Elemento destacado"
+
+msgid "Styles"
+msgstr "Estilos"
+
+msgid "Icon in Top(Style 1)"
+msgstr "Ícono en la parte superior (Estilo 1)"
+
+msgid "Icon in Top(Style 2)"
+msgstr "Ícono en la parte superior (Estilo 2)"
+
+msgid "Icon in Top(Style 3)"
+msgstr "Ícono en la parte superior (Estilo 3)"
+
+msgid "Icon in Left"
+msgstr "Ícono a la izquierda"
+
+msgid "ST Offer Item"
+msgstr "ST Elemento de oferta"
+
+msgid "Background"
+msgstr "Fondo"
+
+msgid "Sub Title"
+msgstr "Subtítulo"
+
+msgid "With featured label"
+msgstr "Con etiqueta destacada"
+
+msgid "With icon"
+msgstr "Con ícono"
+
+msgid "Featured text"
+msgstr "Texto destacado"
+
+msgid "ST List of Services"
+msgstr "ST Lista de servicios"
+
+msgid "Style 5"
+msgstr "Estilo 5"
+
+msgid "Style 6"
+msgstr "Estilo 6"
+
+msgid "Style 7"
+msgstr "Estilo 7"
+
+msgid "Style 8"
+msgstr "Estilo 8"
+
+msgid "ST List of Hotel service Load more"
+msgstr "ST Lista de servicios de hotel - Cargar más"
+
+msgid "ST Rental Types"
+msgstr "ST Tipos de alquiler"
+
+msgid "0 for unlimited"
+msgstr "0 para ilimitado"
+
+msgid "ST List of Multi Services"
+msgstr "ST Lista de múltiples servicios"
+
+msgid "Name of service"
+msgstr "Nombre del servicio"
+
+msgid "ST List of Destinations"
+msgstr "ST Lista de destinos"
+
+msgid "Destination ID"
+msgstr "ID del destino"
+
+msgid "Layout 2 (Masonry)"
+msgstr "Diseño 2 (Masonry)"
+
+msgid "Layout 7(3 Column)"
+msgstr "Diseño 7 (3 columnas)"
+
+msgid "Layout 8"
+msgstr "Diseño 8"
+
+msgid "Layout only support solo demo"
+msgstr "Diseño solo compatible con la demo Solo"
+
+msgid "ST Language & Currency"
+msgstr "ST Idioma y moneda"
+
+msgid "ST Testimonial"
+msgstr "ST Testimonio"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Rating"
+msgstr "Calificación"
+
+msgid "Source"
+msgstr "Fuente"
+
+msgid "ST Text And Button"
+msgstr "ST Texto y botón"
+
+msgid "Title text"
+msgstr "Texto del título"
+
+msgid "Text button"
+msgstr "Texto del botón"
+
+msgid "URL button"
+msgstr "URL del botón"
+
+msgid "ST Title and content"
+msgstr "ST Título y contenido"
+
+msgid "Layout default"
+msgstr "Diseño predeterminado"
+
+msgid "Style layout"
+msgstr "Estilo del diseño"
+
+msgid "Title and line"
+msgstr "Título y línea"
+
+msgid "Title and line(style2)"
+msgstr "Título y línea (estilo 2)"
+
+msgid "Line and title"
+msgstr "Línea y título"
+
+msgid "No line"
+msgstr "Sin línea"
+
+msgid "Title line style 2"
+msgstr "Estilo de línea del título 2"
+
+msgid "No line style 2"
+msgstr "Sin línea estilo 2"
+
+msgid "Wase style(black color)"
+msgstr "Estilo Wase (color negro)"
+
+msgid "Wase style(White color)"
+msgstr "Estilo Wase (color blanco)"
+
+msgid "ST Box Item Text"
+msgstr "ST Texto del elemento de caja"
+
+msgid "Box title"
+msgstr "Título de la caja"
+
+msgid "Box content"
+msgstr "Contenido de la caja"
+
+msgid "ST Box Item Icon"
+msgstr "ST Ícono del elemento de caja"
+
+msgid "[Hotel Single] ST List Room Hotel"
+msgstr "[Hotel Único] ST Lista de habitaciones del hotel"
+
+msgid "Select Hotel"
+msgstr "Seleccionar hotel"
+
+msgid "Enter List of Services"
+msgstr "Introducir lista de servicios"
+
+msgid "Number show"
+msgstr "Número mostrado"
+
+msgid "Enter number show room, example -1 for show all"
+msgstr "Introducir número de habitaciones a mostrar, ejemplo -1 para mostrar todas"
+
+msgid "Style Options"
+msgstr "Opciones de estilo"
+
+msgid "Style List"
+msgstr "Lista de estilo"
+
+msgid "Style Tab"
+msgstr "Pestaña de estilo"
+
+msgid "Style Slider"
+msgstr "Carrusel de estilo"
+
+msgid "ST Room Item"
+msgstr "ST Elemento de habitación"
+
+msgid "Select Room"
+msgstr "Seleccionar habitación"
+
+msgid "Select Room of Services"
+msgstr "Seleccionar habitación de servicios"
+
+msgid "ST Service New"
+msgstr "ST Nuevo servicio"
+
+msgid "Icon Image"
+msgstr "Imagen de ícono"
+
+msgid "Name service"
+msgstr "Nombre del servicio"
+
+msgid "Content service"
+msgstr "Contenido del servicio"
+
+msgid "ST Icon image - text"
+msgstr "ST Imagen de ícono - texto"
+
+msgid "Image icon"
+msgstr "Ícono de imagen"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "ST Filter Activity"
+msgstr "ST Filtrar actividad"
+
+msgid "ST Slider Hotel"
+msgstr "ST Carrusel de hotel"
+
+msgid "Speed slider"
+msgstr "Velocidad del carrusel"
+
+msgid "Input time (number) in milliseconds."
+msgstr "Introducir tiempo (número) en milisegundos."
+
+msgid "Add slider"
+msgstr "Añadir carrusel"
+
+msgid "Content slider"
+msgstr "Contenido del carrusel"
+
+msgid "Add slider for style 3"
+msgstr "Añadir carrusel para estilo 3"
+
+msgid "Customer Avatar"
+msgstr "Avatar del cliente"
+
+msgid "Customer Name"
+msgstr "Nombre del cliente"
+
+msgid "Customer Description"
+msgstr "Descripción del cliente"
+
+msgid "Text animation"
+msgstr "Animación de texto"
+
+msgid "ST Gallery Hotel"
+msgstr "ST Galería de hotel"
+
+msgid "Masonry"
+msgstr "Masonry"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "1 Column"
+msgstr "1 Columna"
+
+msgid "2 Columns"
+msgstr "2 Columnas"
+
+msgid "3 Columns"
+msgstr "3 Columnas"
+
+msgid "4 Columns"
+msgstr "4 Columnas"
+
+msgid "5 Columns"
+msgstr "5 Columnas"
+
+msgid "Images"
+msgstr "Imágenes"
+
+msgid "Tab List menu"
+msgstr "Menú de lista de pestañas"
+
+msgid "Name tab"
+msgstr "Nombre de la pestaña"
+
+msgid "Item content"
+msgstr "Contenido del elemento"
+
+msgid "[Hotel Single]ST Testimonial"
+msgstr "[Hotel Único] ST Testimonio"
+
+msgid "Style2"
+msgstr "Estilo 2"
+
+msgid "Work"
+msgstr "Trabajo"
+
+msgid "[Hotel Single]Button scroll Down"
+msgstr "[Hotel Único] Botón para desplazarse hacia abajo"
+
+msgid "[Hotel Single]ST Map"
+msgstr "[Hotel Único] ST Mapa"
+
+msgid "Lat map"
+msgstr "Latitud del mapa"
+
+msgid "Long map"
+msgstr "Longitud del mapa"
+
+msgid "Location icon"
+msgstr "Ícono de ubicación"
+
+msgid "ST Hotel Timeline"
+msgstr "ST Cronología del hotel"
+
+msgid "[Singel Hotel] Slider single"
+msgstr "[Hotel Único] Carrusel individual"
+
+msgid "Choose colum"
+msgstr "Seleccionar columna"
+
+msgid "1"
+msgstr "1"
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "4"
+msgstr "4"
+
+msgid "Choose all image slider"
+msgstr "Seleccionar todas las imágenes del carrusel"
+
+msgid "[Singel Hotel] Team"
+msgstr "[Hotel Único] Equipo"
+
+msgid "[Singel Hotel] Popup Gallery Single"
+msgstr "[Hotel Único] Galería emergente individual"
+
+msgid "Choose all image gallery"
+msgstr "Seleccionar todas las imágenes de la galería"
+
+msgid "[Singel Hotel] Popup Video Single"
+msgstr "[Hotel Único] Video emergente individual"
+
+msgid "Link video youtube"
+msgstr "Enlace del video de YouTube"
+
+msgid "Choose all image video"
+msgstr "Seleccionar todas las imágenes del video"
+
+msgid "[Hotel Single] ST Blog Single"
+msgstr "[Hotel Único] ST Blog individual"
+
+msgid "List blog"
+msgstr "Lista de blogs"
+
+msgid "Tab"
+msgstr "Pestaña"
+
+msgid "Select Categories"
+msgstr "Seleccionar categorías"
+
+msgid "Check the box to choose category"
+msgstr "Marcar la casilla para elegir la categoría"
+
+msgid "Order By"
+msgstr "Ordenar por"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Number item"
+msgstr "Número de elementos"
+
+msgid "[Singel Hotel] Table Membership"
+msgstr "[Hotel Único] Tabla de membresía"
+
+msgid "Choose package"
+msgstr "Seleccionar paquete"
+
+msgid "Enter number sale"
+msgstr "Introducir número de venta"
+
+msgid "Enter description."
+msgstr "Introducir descripción."
+
+msgid "Title item"
+msgstr "Título del elemento"
+
+msgid "Checkout package"
+msgstr "Paquete de pago"
+
+msgid "Success checkout Package"
+msgstr "Paquete de pago completado con éxito"
+
+msgid "[Single Hotel] Room Taxonomy"
+msgstr "[Hotel Único] Taxonomía de habitaciones"
+
+msgid "[Singel Hotel] List of Rooms"
+msgstr "[Hotel Único] Lista de habitaciones"
+
+msgid "Type of page"
+msgstr "Tipo de página"
+
+msgid "List of rooms page"
+msgstr "Página de lista de habitaciones"
+
+msgid "Search result page"
+msgstr "Página de resultados de búsqueda"
+
+msgid "[Single Hotel] Check Availability Form"
+msgstr "[Hotel Único] Formulario de verificación de disponibilidad"
+
+msgid "[Hotel Single] Banner Apartment"
+msgstr "[Hotel Único] Banner de apartamentos"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "[Hotel Single] Mapbox"
+msgstr "[Hotel Único] Mapbox"
+
+msgid "Map Zoom"
+msgstr "Zoom del mapa"
+
+msgid "Enter a number for map zoom"
+msgstr "Introducir un número para el zoom del mapa"
+
+msgid "List Location"
+msgstr "Lista de ubicaciones"
+
+msgid "Location Name"
+msgstr "Nombre de la ubicación"
+
+msgid "Enter location name."
+msgstr "Introducir nombre de la ubicación."
+
+msgid "Location Address"
+msgstr "Dirección de la ubicación"
+
+msgid "Enter location address."
+msgstr "Introducir dirección de la ubicación."
+
+msgid "Location Longitude"
+msgstr "Longitud de la ubicación"
+
+msgid "Enter location longitude."
+msgstr "Introducir longitud de la ubicación."
+
+msgid "Location Latitude"
+msgstr "Latitud de la ubicación"
+
+msgid "Enter location latitude."
+msgstr "Introducir la latitud de la ubicación."
+
+msgid "[ST] Slider Tour With Search Form"
+msgstr "[ST] Carrusel de tours con formulario de búsqueda"
+
+msgid "[ST] List Tour Categories"
+msgstr "[ST] Lista de categorías de tours"
+
+msgid "Category tour ID"
+msgstr "ID de la categoría del tour"
+
+msgid "[ST] Best Seller"
+msgstr "[ST] Más vendidos"
+
+msgid "Tour ID"
+msgstr "ID del tour"
+
+msgid "Enter only one ID. Example: 123"
+msgstr "Introducir solo un ID. Ejemplo: 123"
+
+msgid "[ST] Introduce"
+msgstr "[ST] Introducción"
+
+msgid "ST Search Form Single Location"
+msgstr "Formulario de búsqueda ST para una sola ubicación"
+
+msgid "ST Overview"
+msgstr "Resumen ST"
+
+msgid "ST Tab Service Location"
+msgstr "Ubicación de pestañas de servicio ST"
+
+msgid "Title tab"
+msgstr "Título de la pestaña"
+
+msgid "Enter title"
+msgstr "Introducir título"
+
+msgid "Filter items"
+msgstr "Filtrar elementos"
+
+msgid "ST List posts"
+msgstr "ST Lista de publicaciones"
+
+msgid "IDs post"
+msgstr "ID de publicaciones"
+
+msgid "ST Offer New"
+msgstr "Nueva oferta ST"
+
+msgid "ST Mailchimp"
+msgstr "ST Mailchimp"
+
+msgid "Heading Title"
+msgstr "Título del encabezado"
+
+msgid "The list categories for your site."
+msgstr "La lista de categorías para tu sitio."
+
+msgid "ST Categories New"
+msgstr "Nuevas categorías ST"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Show Post Count"
+msgstr "Mostrar cantidad de publicaciones"
+
+msgid "Hide Empty"
+msgstr "Ocultar vacías"
+
+msgid "Display a list of your posts.."
+msgstr "Mostrar una lista de tus publicaciones."
+
+msgid "ST List Post New"
+msgstr "Nueva lista de publicaciones ST"
+
+msgid "Modified Date"
+msgstr "Fecha modificada"
+
+msgid "Number of comments"
+msgstr "Número de comentarios"
+
+msgid "Count num"
+msgstr "Contar número"
+
+msgid "Mega Menus"
+msgstr "Menús Mega"
+
+msgid "Mega Menu"
+msgstr "Menú Mega"
+
+msgid "Add New Mega Menu"
+msgstr "Añadir nuevo Menú Mega"
+
+msgid "New Mega Menu"
+msgstr "Nuevo Menú Mega"
+
+msgid "Edit Mega Menu"
+msgstr "Editar Menú Mega"
+
+msgid "View Mega Menu"
+msgstr "Ver Menú Mega"
+
+msgid "All Mega Menu"
+msgstr "Todos los Menús Mega"
+
+msgid "Search Mega Menu"
+msgstr "Buscar Menú Mega"
+
+msgid "Parent Mega Menu:"
+msgstr "Menú Mega principal:"
+
+msgid "No Mega Menu found."
+msgstr "No se encontró ningún Menú Mega."
+
+msgid "No Mega Menu found in Trash."
+msgstr "No se encontró ningún Menú Mega en la papelera."
+
+msgid "Insert into Mega Menu"
+msgstr "Insertar en el Menú Mega"
+
+msgid "Uploaded to this Mega Menu"
+msgstr "Subido a este Menú Mega"
+
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+msgid "Move up"
+msgstr "Mover arriba"
+
+msgid "Move down"
+msgstr "Mover abajo"
+
+msgid "Edit Menu Item"
+msgstr "Editar elemento del menú"
+
+msgid "Navigation Label"
+msgstr "Etiqueta de navegación"
+
+msgid "Title Attribute"
+msgstr "Atributo del título"
+
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+msgid "Link Relationship (XFN)"
+msgstr "Relación del enlace (XFN)"
+
+msgid ""
+"The description will be displayed in the menu if the current theme supports it."
+msgstr "La descripción se mostrará en el menú si el tema actual lo admite."
+
+msgid "Original: %s"
+msgstr "Original: %s"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "If select Mega Menu, the children item will hidden"
+msgstr "Si se selecciona Menú Mega, los elementos secundarios se ocultarán"
+
+msgid "Iata Airport"
+msgstr "Aeropuerto IATA"
+
+msgid "Airline Logo"
+msgstr "Logo de la aerolínea"
+
+msgid "Select an airline logo image to upload"
+msgstr "Seleccionar una imagen de logo de aerolínea para subir"
+
+msgid "Use this image"
+msgstr "Usar esta imagen"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Do you want delete this logo?"
+msgstr "¿Deseas eliminar este logo?"
+
+msgid "Iata Airport ID"
+msgstr "ID del aeropuerto IATA"
+
+msgid "Select Location"
+msgstr "Seleccionar ubicación"
+
+msgid "Google Map"
+msgstr "Mapa de Google"
+
+msgid "<i class=\"fa fa-fighter-jet\"></i> Flight Options"
+msgstr "<i class=\"fa fa-fighter-jet\"></i> Opciones de vuelo"
+
+msgid "Flight Search Fields"
+msgstr "Campos de búsqueda de vuelos"
+
+msgid "Location / Airport"
+msgstr "Ubicación / Aeropuerto"
+
+msgid "Departing"
+msgstr "Salida"
+
+msgid "Returning"
+msgstr "Regreso"
+
+msgid "Flight Search Result Page"
+msgstr "Página de resultados de búsqueda de vuelos"
+
+msgid "Disable Guest Name Form"
+msgstr "Desactivar el formulario de nombre del pasajero"
+
+msgid "Passenger"
+msgstr "Pasajero"
+
+msgid "Please choose a depart flight"
+msgstr "Por favor, selecciona un vuelo de salida"
+
+msgid "Please choose a return flight"
+msgstr "Por favor, selecciona un vuelo de regreso"
+
+msgid "Please choose depart date"
+msgstr "Por favor, selecciona la fecha de salida"
+
+msgid "Please choose return date"
+msgstr "Por favor, selecciona la fecha de regreso"
+
+msgid "There was an error adding to the cart. Please contact to admin"
+msgstr "Hubo un error al agregar al carrito. Por favor, contacta al administrador"
+
+msgid "No Flight found"
+msgstr "No se encontró ningún vuelo"
+
+msgid "%d Flight"
+msgid_plural "%d Flights"
+msgstr[0] "%d Vuelo"
+msgstr[1] "%d Vuelos"
+
+msgid " from "
+msgstr " desde "
+
+msgid " for "
+msgstr " por "
+
+msgid " passenger "
+msgid_plural " passengers "
+msgstr[0] " pasajero "
+msgstr[1] " pasajeros "
+
+msgid "Add New Flight"
+msgstr "Añadir nuevo vuelo"
+
+msgid "New Flight"
+msgstr "Nuevo vuelo"
+
+msgid "Edit Flight"
+msgstr "Editar vuelo"
+
+msgid "View Flight"
+msgstr "Ver vuelo"
+
+msgid "All Flights"
+msgstr "Todos los vuelos"
+
+msgid "Search Flights"
+msgstr "Buscar vuelos"
+
+msgid "Parent Flight:"
+msgstr "Vuelo principal:"
+
+msgid "No Flight found."
+msgstr "No se encontró ningún vuelo."
+
+msgid "No Flight found in Trash."
+msgstr "No se encontró ningún vuelo en la papelera."
+
+msgid "Insert into Flight"
+msgstr "Insertar en vuelo"
+
+msgid "Uploaded to this Flight"
+msgstr "Subido a este vuelo"
+
+msgid "Airports"
+msgstr "Aeropuertos"
+
+msgid "All Airports"
+msgstr "Todos los aeropuertos"
+
+msgid "Edit Airport"
+msgstr "Editar aeropuerto"
+
+msgid "Update Airport"
+msgstr "Actualizar aeropuerto"
+
+msgid "Add New Airport"
+msgstr "Añadir nuevo aeropuerto"
+
+msgid "New Airport Name"
+msgstr "Nombre del nuevo aeropuerto"
+
+msgid "Separate Airport with commas"
+msgstr "Separar aeropuertos con comas"
+
+msgid "Add or remove Airport"
+msgstr "Agregar o eliminar aeropuerto"
+
+msgid "Choose from the most used Airport"
+msgstr "Elige entre los aeropuertos más usados"
+
+msgid "No Airport found."
+msgstr "No se encontró ningún aeropuerto."
+
+msgid "Airline company"
+msgstr "Compañía aérea"
+
+msgid "Airline"
+msgstr "Aerolínea"
+
+msgid "All Airline company"
+msgstr "Todas las compañías aéreas"
+
+msgid "Edit Airline"
+msgstr "Editar aerolínea"
+
+msgid "Update Airline"
+msgstr "Actualizar aerolínea"
+
+msgid "Add New Airline"
+msgstr "Añadir nueva aerolínea"
+
+msgid "New Airline Name"
+msgstr "Nombre de la nueva aerolínea"
+
+msgid "Separate Airline with commas"
+msgstr "Separar aerolíneas con comas"
+
+msgid "Add or remove Airline"
+msgstr "Agregar o eliminar aerolínea"
+
+msgid "Choose from the most used Airline"
+msgstr "Elige entre las aerolíneas más usadas"
+
+msgid "No Airline found."
+msgstr "No se encontró ninguna aerolínea."
+
+msgid "Flight Settings"
+msgstr "Configuración de vuelo"
+
+msgid "Choose a airline company for your flight"
+msgstr "Elige una compañía aérea para tu vuelo"
+
+msgid "Choose a airport origin for your flight"
+msgstr "Elige un aeropuerto de origen para tu vuelo"
+
+msgid "Choose a airport destination for your flight"
+msgstr "Elige un aeropuerto de destino para tu vuelo"
+
+msgid "Flight external booking link "
+msgstr "Enlace externo para reserva de vuelo"
+
+msgid "Flight Time"
+msgstr "Hora del vuelo"
+
+msgid "Departure time of your flight"
+msgstr "Hora de salida de tu vuelo"
+
+msgid "Total time of the flight"
+msgstr "Duración total del vuelo"
+
+msgid "Total time of the flight."
+msgstr "Duración total del vuelo."
+
+msgid "Direct flight"
+msgstr "Vuelo directo"
+
+msgid "One Stop"
+msgstr "Una escala"
+
+msgid "Two Stops"
+msgstr "Dos escalas"
+
+msgid "Stop Name"
+msgstr "Nombre de la escala"
+
+msgid "Choose an airport for this stop"
+msgstr "Elige un aeropuerto para esta escala"
+
+msgid "Airline Company Stop"
+msgstr "Compañía aérea de la escala"
+
+msgid "Choose a airline company in stop"
+msgstr "Elige una compañía aérea para la escala"
+msgid "Total time to stop"
+msgstr "Tiempo total hasta la escala"
+
+msgid "Total time to stop."
+msgstr "Tiempo total hasta la escala."
+
+msgid "Stopover time in stop"
+msgstr "Tiempo de escala en la parada"
+
+msgid "Stopover time in stop."
+msgstr "Tiempo de escala en la parada."
+
+msgid "Total time from stop to final destination"
+msgstr "Tiempo total desde la escala hasta el destino final"
+
+msgid "Name of stop 1"
+msgstr "Nombre de la escala 1"
+
+msgid "Choose an airport for stop 1"
+msgstr "Elige un aeropuerto para la escala 1"
+
+msgid "Airline Company Stop 1"
+msgstr "Compañía aérea de la escala 1"
+
+msgid "Choose a airline company in stop 1"
+msgstr "Elige una compañía aérea para la escala 1"
+
+msgid "Total time to stop 1"
+msgstr "Tiempo total hasta la escala 1"
+
+msgid "Total time to stop 1."
+msgstr "Tiempo total hasta la escala 1."
+
+msgid "Stopover time in stop 1"
+msgstr "Tiempo de escala en la parada 1"
+
+msgid "Stopover time in stop 1."
+msgstr "Tiempo de escala en la parada 1."
+
+msgid "Name of stop 2"
+msgstr "Nombre de la escala 2"
+
+msgid "Choose an airport for stop 2"
+msgstr "Elige un aeropuerto para la escala 2"
+
+msgid "Airline Company Stop 2"
+msgstr "Compañía aérea de la escala 2"
+
+msgid "Choose a airline company in stop 2"
+msgstr "Elige una compañía aérea para la escala 2"
+
+msgid "Total time from stop 1 to stop 2"
+msgstr "Tiempo total desde la escala 1 hasta la escala 2"
+
+msgid "Total time from stop 1 to stop 2."
+msgstr "Tiempo total desde la escala 1 hasta la escala 2."
+
+msgid "Stopover time in stop 2"
+msgstr "Tiempo de escala en la parada 2"
+
+msgid "Stopover time in stop 2."
+msgstr "Tiempo de escala en la parada 2."
+
+msgid "Total time from stop 2 to final destination"
+msgstr "Tiempo total desde la escala 2 hasta el destino final"
+
+msgid "Booking Details"
+msgstr "Detalles de la reserva"
+
+msgid "Ticket maximum for booking"
+msgstr "Máximo de boletos por reserva"
+
+msgid "Enable V.A.T"
+msgstr "Habilitar IVA"
+
+msgid "V.A.T Percent"
+msgstr "Porcentaje de IVA"
+
+msgid "Flight Custom Base"
+msgstr "Base personalizada de vuelo"
+
+msgid "Flight Booking"
+msgstr "Reserva de vuelo"
+
+msgid "Departure"
+msgstr "Salida"
+
+msgid "%sh %sm"
+msgstr "%sh %sm"
+
+msgid "%dh %dm"
+msgstr "%dh %dm"
+
+msgid "ST Flight Destinations"
+msgstr "Destinos de vuelo ST"
+
+msgid "List IDs in Location"
+msgstr "Listar IDs en la ubicación"
+
+msgid "Ids separated by commas"
+msgstr "IDs separados por comas"
+
+msgid "No Of Columns"
+msgstr "Número de columnas"
+
+msgid "Choose column to display element"
+msgstr "Elige una columna para mostrar el elemento"
+
+msgid "3 columns"
+msgstr "3 columnas"
+
+msgid "4 columns"
+msgstr "4 columnas"
+
+msgid "ST Flight Search Filter"
+msgstr "Filtro de búsqueda de vuelos ST"
+
+msgid "Dark"
+msgstr "Oscuro"
+
+msgid "Light"
+msgstr "Claro"
+
+msgid "ST Flight Filter Price"
+msgstr "Filtro de precio de vuelos ST"
+
+msgid "ST Flight Filter Stops"
+msgstr "Filtro de escalas de vuelos ST"
+
+msgid "ST Flight Filter Departure Time"
+msgstr "Filtro de hora de salida de vuelos ST"
+
+msgid "ST Flight Filter Airlines"
+msgstr "Filtro de aerolíneas de vuelos ST"
+
+msgid "[Ajax] ST Flight Search Filter"
+msgstr "[Ajax] Filtro de búsqueda de vuelos ST"
+
+msgid "[Ajax] ST Flight Filter Price"
+msgstr "[Ajax] Filtro de precio de vuelos ST"
+
+msgid "[Ajax] ST Flight Filter Stops"
+msgstr "[Ajax] Filtro de escalas de vuelos ST"
+
+msgid "[Ajax] ST Flight Filter Departure Time"
+msgstr "[Ajax] Filtro de hora de salida de vuelos ST"
+
+msgid "[Ajax] ST Flight Filter Airlines"
+msgstr "[Ajax] Filtro de aerolíneas de vuelos ST"
+
+msgid "ST Flight Search Result"
+msgstr "Resultados de búsqueda de vuelos ST"
+
+msgid "Extra Class"
+msgstr "Clase extra"
+
+msgid "ST Single Search Flights"
+msgstr "Búsqueda individual de vuelos ST"
+
+msgid "Title Form"
+msgstr "Título del formulario"
+
+msgid "Add a text for title form"
+msgstr "Añade un texto para el título del formulario"
+
+msgid "Choose a style"
+msgstr "Elige un estilo"
+
+msgid "Small"
+msgstr "Pequeño"
+
+msgid "Search Type"
+msgstr "Tipo de búsqueda"
+
+msgid "One-Way"
+msgstr "Solo ida"
+
+msgid "Both"
+msgstr "Ambos"
+
+msgid "Show Box Shadow"
+msgstr "Mostrar sombra de caja"
+
+msgid "ST Sum Of Flight Search Results"
+msgstr "Suma de resultados de búsqueda de vuelos ST"
+
+msgid "[Ajax] ST Sum Of Flight Search Results"
+msgstr "[Ajax] Suma de resultados de búsqueda de vuelos ST"
+
+msgid "Edit Flight Booking"
+msgstr "Editar reserva de vuelo"
+
+msgid "Title Flight"
+msgstr "Título del vuelo"
+
+msgid "One Way"
+msgstr "Solo ida"
+
+msgid "Round Trip"
+msgstr "Viaje redondo"
+
+msgid "Departure Time"
+msgstr "Hora de salida"
+
+msgid "Return Time"
+msgstr "Hora de regreso"
+
+msgid "No. Passenger"
+msgstr "Número de pasajeros"
+
+msgid "Departure Price"
+msgstr "Precio de salida"
+
+msgid "Departure Tax"
+msgstr "Impuesto de salida"
+
+msgid "Return Price"
+msgstr "Precio de regreso"
+
+msgid "Return Tax"
+msgstr "Impuesto de regreso"
+
+msgid "Flight Detail"
+msgstr "Detalle del vuelo"
+
+msgid "Departure: "
+msgstr "Salida: "
+
+msgid "Bulk Price Edit"
+msgstr "Edición de precios masiva"
+
+msgid "Choose Date:"
+msgstr "Elegir fecha:"
+
+msgid "Days Of Week"
+msgstr "Días de la semana"
+
+msgid "Days Of Month"
+msgstr "Días del mes"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "Economy Price ("
+msgstr "Precio Económico ("
+
+msgid "Economy Price"
+msgstr "Precio Económico"
+
+msgid "Business Price ("
+msgstr "Precio Ejecutiva ("
+
+msgid "Business Price"
+msgstr "Precio Ejecutiva"
+
+msgid "Flight Details"
+msgstr "Detalles del vuelo"
+
+msgid "STOP"
+msgstr "ESCALA"
+
+msgid "%d Passenger"
+msgid_plural "%d Passengers"
+msgstr[0] "%d Pasajero"
+msgstr[1] "%d Pasajeros"
+
+msgid "per passenger"
+msgstr "por pasajero"
+
+msgid "Taxes"
+msgstr "Impuestos"
+
+msgid "Total trip"
+msgstr "Viaje total"
+
+msgid "Loading tours"
+msgstr "Cargando tours"
+
+msgid "to"
+msgstr "a"
+
+msgid "non-stop"
+msgstr "sin escalas"
+
+msgid "one stop"
+msgstr "una escala"
+
+msgid "two stops"
+msgstr "dos escalas"
+
+msgid "Direct Flight"
+msgstr "Vuelo directo"
+
+msgid "person"
+msgstr "persona"
+
+msgid "Class"
+msgstr "Clase"
+
+msgid "Economy"
+msgstr "Económica"
+
+msgid "Business"
+msgstr "Ejecutiva"
+
+msgid "Depart %s Return %s"
+msgstr "Salida %s Regreso %s"
+
+msgid "Depart"
+msgstr "Salida"
+
+msgid "Stopover"
+msgstr "Escala"
+
+msgid "Total trip time"
+msgstr "Tiempo total del viaje"
+
+msgid "Not what you're looking for?"
+msgstr "¿No es lo que estás buscando?"
+
+msgid "Try your search again"
+msgstr "Intenta tu búsqueda nuevamente"
+
+msgid "Departure Flight"
+msgstr "Vuelo de salida"
+
+msgid "From: "
+msgstr "Desde: "
+
+msgid "To: "
+msgstr "Hacia: "
+
+msgid "Departure Date: "
+msgstr "Fecha de salida: "
+
+msgid "Fare: "
+msgstr "Tarifa: "
+
+msgid "Tax: "
+msgstr "Impuesto: "
+
+msgid "Total: "
+msgstr "Total: "
+
+msgid "Return Flight"
+msgstr "Vuelo de regreso"
+
+msgid "Return Date: "
+msgstr "Fecha de regreso: "
+
+msgid "Number of passengers: "
+msgstr "Número de pasajeros: "
+
+msgid "Grand Total"
+msgstr "Gran total"
+
+msgid "Search for flights"
+msgstr "Buscar vuelos"
+
+msgid "Search for Flights"
+msgstr "Buscar vuelos"
+
+msgid "Depart Flight Price"
+msgstr "Precio del vuelo de salida"
+
+msgid "Depart Date"
+msgstr "Fecha de salida"
+
+msgid "Return Flight Price"
+msgstr "Precio del vuelo de regreso"
+
+msgid "Return Date"
+msgstr "Fecha de regreso"
+
+msgid "VietNam Airline"
+msgstr "VietNam Airlines"
+
+msgid "VietJet"
+msgstr "VietJet"
+
+msgid "Lao Airline"
+msgstr "Lao Airlines"
+
+msgid "Morning (5:00a - 11:59a)"
+msgstr "Mañana (5:00a - 11:59a)"
+
+msgid "Afternoon (12:00p - 5:59p)"
+msgstr "Tarde (12:00p - 5:59p)"
+
+msgid "Evening (6:00p - 11:59p)"
+msgstr "Noche (6:00p - 11:59p)"
+
+msgid "Non-stop"
+msgstr "Sin escalas"
+
+msgid "1 Stop"
+msgstr "1 escala"
