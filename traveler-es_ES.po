@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: Traveler\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-03 09:47+0700\n"
-"PO-Revision-Date: 2024-12-10 22:31+0000\n"
+"PO-Revision-Date: 2024-12-16 22:55-0500\n"
 "Last-Translator: \n"
 "Language-Team: Español\n"
-"Language: es-ES\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Loco https://localise.biz/\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
@@ -20,6 +20,7 @@ msgstr ""
 "esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
 "esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2;"
 "esc_html__\n"
+"X-Loco-Version: 2.6.11; wp-6.7.1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: .idea\n"
 "X-Poedit-SearchPathExcluded-1: .git\n"
@@ -34,7 +35,6 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-10: changelog_new\n"
 "X-Poedit-SearchPathExcluded-11: inc/plugins/custom-option-tree/js\n"
 "X-Poedit-SearchPathExcluded-12: inc/plugins/custom-select-post/js\n"
-"X-Loco-Version: 2.6.11; wp-6.7.1"
 
 msgid "to Homepage"
 msgstr "a la página de inicio"
@@ -268,8 +268,8 @@ msgid ""
 "Kindly input Map API in Theme Settings > Other Options . Select one location "
 "on map to see latiture and longiture"
 msgstr ""
-"Por favor, introduce la API de mapas en Configuración del tema > Otras opciones. "
-"Selecciona una ubicación en el mapa para ver la latitud y longitud"
+"Por favor, introduce la API de mapas en Configuración del tema > Otras "
+"opciones. Selecciona una ubicación en el mapa para ver la latitud y longitud"
 
 msgid "Properties near by"
 msgstr "Propiedades cercanas"
@@ -356,7 +356,9 @@ msgid ""
 "Use info configuration in theme option || Use contact info of people who "
 "upload hotel || Use contact info in hotel detail"
 msgstr ""
-"Usar configuración de información en las opciones del tema || Usar la información de contacto de quienes suben el hotel || Usar la información de contacto en los detalles del hotel"
+"Usar configuración de información en las opciones del tema || Usar la "
+"información de contacto de quienes suben el hotel || Usar la información de "
+"contacto en los detalles del hotel"
 
 msgid "Email address"
 msgstr "Dirección de correo electrónico"
@@ -410,7 +412,9 @@ msgid "Venue Facilities"
 msgstr "Instalaciones del lugar"
 
 msgid "The facilities that customer may experience during activities"
-msgstr "Las instalaciones que los clientes pueden experimentar durante las actividades"
+msgstr ""
+"Las instalaciones que los clientes pueden experimentar durante las "
+"actividades"
 
 msgid "Price setting"
 msgstr "Configuración de precios"
@@ -422,7 +426,8 @@ msgid ""
 "Price per adult. Input number only. No decimal or thousand separator or any "
 "other character"
 msgstr ""
-"Precio por adulto. Solo introduce números. Sin decimales, separadores de miles u otros caracteres"
+"Precio por adulto. Solo introduce números. Sin decimales, separadores de "
+"miles u otros caracteres"
 
 msgid "Fields list discount by adult number booking"
 msgstr "Lista de campos de descuento por número de adultos en la reserva"
@@ -446,7 +451,8 @@ msgid ""
 "Price per child . Input number only. No decimal or thousand separator or any "
 "other character"
 msgstr ""
-"Precio por niño. Solo introduce números. Sin decimales, separadores de miles u otros caracteres"
+"Precio por niño. Solo introduce números. Sin decimales, separadores de miles "
+"u otros caracteres"
 
 msgid "Fields list discount by child number booking"
 msgstr "Lista de campos de descuento por número de niños en la reserva"
@@ -473,7 +479,8 @@ msgid ""
 "Price per infant. Input number only. No decimal or thousand separator or any "
 "other character"
 msgstr ""
-"Precio por infante. Solo introduce números. Sin decimales, separadores de miles u otros caracteres"
+"Precio por infante. Solo introduce números. Sin decimales, separadores de "
+"miles u otros caracteres"
 
 msgid "Disable adult booking"
 msgstr "Desactivar reservas para adultos"
@@ -522,6 +529,7 @@ msgstr "Descuento"
 
 msgid "Type of discount"
 msgstr "Tipo de descuento"
+
 msgid "Sale schedule"
 msgstr "Horario de ventas"
 
@@ -549,7 +557,8 @@ msgstr "Opciones de pago de depósito"
 msgid ""
 "You can select <code>Disallow Deposit</code>, <code>Deposit by percent</code>"
 msgstr ""
-"Puedes seleccionar <code>Deshabilitar depósito</code>, <code>Depósito por porcentaje</code>"
+"Puedes seleccionar <code>Deshabilitar depósito</code>, <code>Depósito por "
+"porcentaje</code>"
 
 msgid "Disallow deposit"
 msgstr "Deshabilitar depósito"
@@ -596,8 +605,8 @@ msgid ""
 "Enter an ical url and click Import button. All data will be updated and "
 "shown in the Availability tab"
 msgstr ""
-"Introduce una URL de Ical y haz clic en el botón de Importar. Todos los datos serán actualizados y "
-"mostrados en la pestaña de Disponibilidad"
+"Introduce una URL de Ical y haz clic en el botón de Importar. Todos los "
+"datos serán actualizados y mostrados en la pestaña de Disponibilidad"
 
 msgid "Payment"
 msgstr "Pago"
@@ -709,6 +718,7 @@ msgstr "Editar categoría de coche"
 
 msgid "Update Car Category"
 msgstr "Actualizar categoría de coche"
+
 msgid "Add New Car Category"
 msgstr "Agregar nueva categoría de coche"
 
@@ -809,11 +819,11 @@ msgid "Price unit"
 msgstr "Unidad de precio"
 
 msgid ""
-"You can choose <code>Fixed Price</code>, <code>Price per Hour</code>, <code>"
-"Price per Day</code>"
+"You can choose <code>Fixed Price</code>, <code>Price per Hour</code>, "
+"<code>Price per Day</code>"
 msgstr ""
-"Puedes elegir <code>Precio fijo</code>, <code>Precio por hora</code>, <code>"
-"Precio por día</code>"
+"Puedes elegir <code>Precio fijo</code>, <code>Precio por hora</code>, "
+"<code>Precio por día</code>"
 
 msgid "Fixed price"
 msgstr "Precio fijo"
@@ -851,7 +861,8 @@ msgstr "Acerca de"
 msgid ""
 "E-mail car agent, this address will received email when have new booking"
 msgstr ""
-"Correo electrónico del agente del coche, esta dirección recibirá correos cuando haya una nueva reserva"
+"Correo electrónico del agente del coche, esta dirección recibirá correos "
+"cuando haya una nueva reserva"
 
 msgid "Website car agent"
 msgstr "Sitio web del agente del coche"
@@ -918,7 +929,8 @@ msgstr "por 1 ítem"
 
 msgid ""
 "You can define any extra service and price for with name, quantity, and price"
-msgstr "Puedes definir cualquier servicio adicional con nombre, cantidad y precio"
+msgstr ""
+"Puedes definir cualquier servicio adicional con nombre, cantidad y precio"
 
 msgid "Custom price"
 msgstr "Precio personalizado"
@@ -990,8 +1002,8 @@ msgid "Icon"
 msgstr "Ícono"
 
 msgid ""
-"Example: <br>Input \"fa-desktop\" for <a href=\"http://fortawesome.github."
-"io/Font-Awesome/icons/\" target=\"_blank\" >Fontawesome</a>,<br>Input \"im-"
+"Example: <br>Input \"fa-desktop\" for <a href=\"http://fortawesome.github.io/"
+"Font-Awesome/icons/\" target=\"_blank\" >Fontawesome</a>,<br>Input \"im-"
 "pool\" for <a href=\"https://icomoon.io/\" target=\"_blank\">Icomoon</a>  "
 msgstr ""
 "Ejemplo: <br>Ingresa \"fa-desktop\" para <a href=\"http://fortawesome.github."
@@ -1127,7 +1139,9 @@ msgstr "Ubicación del hotel"
 msgid ""
 "Select one or more locations for your hotel (Enter the name you need to "
 "search in search box to filter address faster)"
-msgstr "Selecciona una o más ubicaciones para tu hotel (Ingresa el nombre en la caja de búsqueda para filtrar direcciones más rápido)"
+msgstr ""
+"Selecciona una o más ubicaciones para tu hotel (Ingresa el nombre en la caja "
+"de búsqueda para filtrar direcciones más rápido)"
 
 msgid "Hotel address"
 msgstr "Dirección del hotel"
@@ -1172,7 +1186,9 @@ msgid "Hotel gallery"
 msgstr "Galería del hotel"
 
 msgid "Upload one or many images to make a hotel image gallery for customers"
-msgstr "Sube una o varias imágenes para crear una galería de imágenes del hotel para los clientes"
+msgstr ""
+"Sube una o varias imágenes para crear una galería de imágenes del hotel para "
+"los clientes"
 
 msgid "Hotel video"
 msgstr "Video del hotel"
@@ -1189,13 +1205,16 @@ msgstr "Información de contacto"
 msgid ""
 " Use contact info of people who upload hotel || Use contact info in hotel "
 "details"
-msgstr " Usa la información de contacto de quienes subieron el hotel || Usa la información de contacto en los detalles del hotel"
+msgstr ""
+" Usa la información de contacto de quienes subieron el hotel || Usa la "
+"información de contacto en los detalles del hotel"
 
 msgid "Hotel email"
 msgstr "Correo electrónico del hotel"
 
 msgid "This email will received notification when have booking order"
-msgstr "Este correo electrónico recibirá notificaciones cuando haya una reserva"
+msgstr ""
+"Este correo electrónico recibirá notificaciones cuando haya una reserva"
 
 msgid "Hotel website"
 msgstr "Sitio web del hotel"
@@ -1220,7 +1239,9 @@ msgstr "Configurar cálculo automático del precio promedio"
 
 msgid ""
 "The average price of hotel<br/>ON: Automatically<br/>OFF: Input manually"
-msgstr "El precio promedio del hotel<br/>ACTIVO: Automático<br/>INACTIVO: Ingreso manual"
+msgstr ""
+"El precio promedio del hotel<br/>ACTIVO: Automático<br/>INACTIVO: Ingreso "
+"manual"
 
 msgid "Average price"
 msgstr "Precio promedio"
@@ -1237,7 +1258,10 @@ msgstr "Reservas de día completo permitidas"
 msgid ""
 "You can book room with full day<br/>Eg: booking from 22 -23, then all days "
 "22 and 23 are full, other people cannot book"
-msgstr "Puedes reservar una habitación para un día completo<br/>Ejemplo: reserva del 22 al 23, todos los días 22 y 23 estarán ocupados y otras personas no podrán reservar"
+msgstr ""
+"Puedes reservar una habitación para un día completo<br/>Ejemplo: reserva del "
+"22 al 23, todos los días 22 y 23 estarán ocupados y otras personas no podrán "
+"reservar"
 
 msgid "Time for check in"
 msgstr "Hora de entrada"
@@ -1258,7 +1282,9 @@ msgid "Book before number of day"
 msgstr "Reservar con días de anticipación"
 
 msgid "Input number of day can book before from check in date"
-msgstr "Ingresa la cantidad de días de anticipación para reservar antes de la fecha de entrada"
+msgstr ""
+"Ingresa la cantidad de días de anticipación para reservar antes de la fecha "
+"de entrada"
 
 msgid "Minimum number of days to book"
 msgstr "Número mínimo de días para reservar"
@@ -1300,12 +1326,17 @@ msgid ""
 "WARNING: Importing data is recommended on fresh installs only once. "
 "Importing on sites with content or importing twice will duplicate menus, "
 "pages and all posts."
-msgstr "ADVERTENCIA: Importar datos se recomienda solo una vez en instalaciones nuevas. Importar en sitios con contenido o hacerlo dos veces duplicará menús, páginas y todas las publicaciones."
+msgstr ""
+"ADVERTENCIA: Importar datos se recomienda solo una vez en instalaciones "
+"nuevas. Importar en sitios con contenido o hacerlo dos veces duplicará "
+"menús, páginas y todas las publicaciones."
 
 msgid ""
 "Please install plugin <a href=\"%s\" target=\"_blank\">Traveler Library "
 "Layout Elementor</a> for import this demo"
-msgstr "Por favor, instala el plugin <a href=\"%s\" target=\"_blank\">Traveler Library Layout Elementor</a> para importar esta demo"
+msgstr ""
+"Por favor, instala el plugin <a href=\"%s\" target=\"_blank\">Traveler "
+"Library Layout Elementor</a> para importar esta demo"
 
 msgid "Product Registration"
 msgstr "Registro de producto"
@@ -1344,7 +1375,8 @@ msgid "Guide build template"
 msgstr "Guía para construir plantilla"
 
 msgid "Click to Guide build template email"
-msgstr "Haz clic para guiar la construcción de la plantilla de correo electrónico"
+msgstr ""
+"Haz clic para guiar la construcción de la plantilla de correo electrónico"
 
 msgid "Template Email"
 msgstr "Plantilla de correo electrónico"
@@ -1731,7 +1763,9 @@ msgid "Agent email"
 msgstr "Correo electrónico del agente"
 
 msgid "Agent email. This email will receive emails notifying new booking"
-msgstr "Correo electrónico del agente. Este correo recibirá notificaciones de nuevas reservas"
+msgstr ""
+"Correo electrónico del agente. Este correo recibirá notificaciones de nuevas "
+"reservas"
 
 msgid "Agent website"
 msgstr "Sitio web del agente"
@@ -2050,7 +2084,8 @@ msgid ""
 "<b>Traveler data update</b> – We need to update your database to the latest "
 "version."
 msgstr ""
-"<b>Actualización de datos de Traveler</b>: Necesitamos actualizar tu base de datos a la última versión."
+"<b>Actualización de datos de Traveler</b>: Necesitamos actualizar tu base de "
+"datos a la última versión."
 
 msgid "Run the updater"
 msgstr "Ejecutar el actualizador"
@@ -2114,6 +2149,7 @@ msgstr "Google"
 
 msgid "Google Login"
 msgstr "Inicio de sesión con Google"
+
 msgid "Client ID"
 msgstr "ID del Cliente"
 
@@ -2139,7 +2175,9 @@ msgid "Support Disable javascript"
 msgstr "Soporte para deshabilitar JavaScript"
 
 msgid "This allows css friendly with browsers what disable javascript"
-msgstr "Esto permite compatibilidad de CSS con navegadores que deshabilitan JavaScript"
+msgstr ""
+"Esto permite compatibilidad de CSS con navegadores que deshabilitan "
+"JavaScript"
 
 msgid "Map API"
 msgstr "API de mapas"
@@ -2148,7 +2186,8 @@ msgid ""
 "Document get map API key https://travelerwp.com/documents/other-features/map-"
 "api/i"
 msgstr ""
-"Documento para obtener la clave API del mapa: https://travelerwp.com/documents/other-features/map-api/i"
+"Documento para obtener la clave API del mapa: https://travelerwp.com/"
+"documents/other-features/map-api/i"
 
 msgid "Google map"
 msgstr "Mapa de Google"
@@ -2187,7 +2226,9 @@ msgid "Booking immediately in search result page"
 msgstr "Reservar inmediatamente en la página de resultados de búsqueda"
 
 msgid "Booking immediately in search result page without go to single page"
-msgstr "Reservar inmediatamente en la página de resultados sin ir a la página individual"
+msgstr ""
+"Reservar inmediatamente en la página de resultados sin ir a la página "
+"individual"
 
 msgid "TravelPayouts"
 msgstr "TravelPayouts"
@@ -2535,7 +2576,9 @@ msgid "This allows you to do short code or HTML"
 msgstr "Esto te permite usar códigos cortos o HTML"
 
 msgid "Select page display search results for all services"
-msgstr "Seleccionar la página para mostrar resultados de búsqueda de todos los servicios"
+msgstr ""
+"Seleccionar la página para mostrar resultados de búsqueda de todos los "
+"servicios"
 
 msgid "Custom search form for all services"
 msgstr "Formulario de búsqueda personalizado para todos los servicios"
@@ -2697,7 +2740,9 @@ msgid "Slug of the partner page"
 msgstr "Slug de la página del socio"
 
 msgid "Enter slug name of partner page to show pretty link"
-msgstr "Introduce el nombre del slug de la página del socio para mostrar un enlace bonito"
+msgstr ""
+"Introduce el nombre del slug de la página del socio para mostrar un enlace "
+"bonito"
 
 msgid "Show email contact info"
 msgstr "Mostrar información de contacto por correo electrónico"
@@ -2706,7 +2751,9 @@ msgid ""
 "ON: Show email of author(who posts service) in single, email page. OFF: Show "
 "email entered in metabox of service"
 msgstr ""
-"ACTIVADO: Mostrar el correo del autor (quien publica el servicio) en la página individual. DESACTIVADO: Mostrar el correo ingresado en el metabox del servicio."
+"ACTIVADO: Mostrar el correo del autor (quien publica el servicio) en la "
+"página individual. DESACTIVADO: Mostrar el correo ingresado en el metabox "
+"del servicio."
 
 msgid "Enable Partner Feature"
 msgstr "Habilitar la función de socio"
@@ -2715,7 +2762,8 @@ msgid ""
 "ON: Show services for partner. OFF: Turn off services, partner is not "
 "allowed to register service, it is not displayed in dashboard"
 msgstr ""
-"ACTIVADO: Mostrar servicios para socios. DESACTIVADO: Desactivar servicios, el socio no puede registrar servicios y no se muestra en el panel de control."
+"ACTIVADO: Mostrar servicios para socios. DESACTIVADO: Desactivar servicios, "
+"el socio no puede registrar servicios y no se muestra en el panel de control."
 
 msgid "Partner's post must be approved by admin"
 msgstr "Las publicaciones del socio deben ser aprobadas por el administrador"
@@ -2723,21 +2771,24 @@ msgstr "Las publicaciones del socio deben ser aprobadas por el administrador"
 msgid ""
 "ON: When partner posts a service, it needs to be approved by administrator "
 msgstr ""
-"ACTIVADO: Cuando un socio publica un servicio, necesita ser aprobado por el administrador"
+"ACTIVADO: Cuando un socio publica un servicio, necesita ser aprobado por el "
+"administrador"
 
 msgid "Partner menubar"
 msgstr "Barra de menús para socios"
 
 msgid "ON: Turn on partner menubar. OFF: Turn off partner menubar"
 msgstr ""
-"ACTIVADO: Activar la barra de menús para socios. DESACTIVADO: Desactivar la barra de menús para socios"
+"ACTIVADO: Activar la barra de menús para socios. DESACTIVADO: Desactivar la "
+"barra de menús para socios"
 
 msgid "Commission(%)"
 msgstr "Comisión (%)"
 
 msgid "Enter commission of partner for admin after each item is booked "
 msgstr ""
-"Ingrese la comisión del socio para el administrador después de que cada artículo sea reservado"
+"Ingrese la comisión del socio para el administrador después de que cada "
+"artículo sea reservado"
 
 msgid "Partner can set featured"
 msgstr "El socio puede establecer destacado"
@@ -2807,7 +2858,8 @@ msgid "Show total earning"
 msgstr "Mostrar ganancias totales"
 
 msgid "ON: Display earnings information in accordance with time periods"
-msgstr "ACTIVADO: Mostrar información de ganancias de acuerdo con períodos de tiempo"
+msgstr ""
+"ACTIVADO: Mostrar información de ganancias de acuerdo con períodos de tiempo"
 
 msgid "Show each service earning"
 msgstr "Mostrar ganancias de cada servicio"
@@ -2819,7 +2871,9 @@ msgid "Show chart info"
 msgstr "Mostrar información en gráficos"
 
 msgid "ON: Display visual graphs to follow your earnings through each time"
-msgstr "ACTIVADO: Mostrar gráficos visuales para seguir tus ganancias a lo largo del tiempo"
+msgstr ""
+"ACTIVADO: Mostrar gráficos visuales para seguir tus ganancias a lo largo del "
+"tiempo"
 
 msgid "Show booking history"
 msgstr "Mostrar historial de reservas"
@@ -2873,7 +2927,9 @@ msgid "Topbar menu options"
 msgstr "Opciones del menú de la barra superior"
 
 msgid "Select topbar item shown in topbar"
-msgstr "Seleccione el elemento de la barra superior que se mostrará en la barra superior"
+msgstr ""
+"Seleccione el elemento de la barra superior que se mostrará en la barra "
+"superior"
 
 msgid "Item"
 msgstr "Elemento"
@@ -2930,7 +2986,8 @@ msgid "Select room search page"
 msgstr "Seleccionar página de búsqueda de habitaciones"
 
 msgid "Select the page to display room result"
-msgstr "Seleccione la página para mostrar los resultados de búsqueda de habitaciones"
+msgstr ""
+"Seleccione la página para mostrar los resultados de búsqueda de habitaciones"
 
 msgid "Blog style"
 msgstr "Estilo del blog"
@@ -3017,15 +3074,18 @@ msgid "Sticky Menu"
 msgstr "Menú fijo"
 
 msgid "Select page to show search results for transfer"
-msgstr "Seleccione la página para mostrar resultados de búsqueda de transferencias"
+msgstr ""
+"Seleccione la página para mostrar resultados de búsqueda de transferencias"
 
 msgid "Set car transfer search field by location"
 msgstr "Establecer campo de búsqueda de transferencia de coches por ubicación"
 
 msgid ""
-"ON: Search car transfer by location - Off: Search car transfer by "
-"hotel/airport"
-msgstr "ENCENDIDO: Buscar transferencia de coche por ubicación - APAGADO: Buscar transferencia de coche por hotel/aeropuerto"
+"ON: Search car transfer by location - Off: Search car transfer by hotel/"
+"airport"
+msgstr ""
+"ENCENDIDO: Buscar transferencia de coche por ubicación - APAGADO: Buscar "
+"transferencia de coche por hotel/aeropuerto"
 
 msgid "Transfer Search Fields"
 msgstr "Campos de búsqueda de transferencia"
@@ -3040,7 +3100,9 @@ msgid "Show calendar"
 msgstr "Mostrar calendario"
 
 msgid "ON: Show calendar<br/>OFF: Show small calendar in form of popup"
-msgstr "ENCENDIDO: Mostrar calendario<br/>APAGADO: Mostrar calendario pequeño como ventana emergente"
+msgstr ""
+"ENCENDIDO: Mostrar calendario<br/>APAGADO: Mostrar calendario pequeño como "
+"ventana emergente"
 
 msgid "Big calendar show in content"
 msgstr "Calendario grande mostrado en el contenido"
@@ -3053,7 +3115,9 @@ msgstr "Posición del calendario"
 
 msgid ""
 "ON: Show calendar below book form<br/>OFF: Show calendar above book form"
-msgstr "ENCENDIDO: Mostrar calendario debajo del formulario de reserva<br/>APAGADO: Mostrar calendario encima del formulario de reserva"
+msgstr ""
+"ENCENDIDO: Mostrar calendario debajo del formulario de reserva<br/>APAGADO: "
+"Mostrar calendario encima del formulario de reserva"
 
 msgid "Under check availability"
 msgstr "Debajo de verificar disponibilidad"
@@ -3065,7 +3129,8 @@ msgid "Activity Search Result Page"
 msgstr "Página de resultados de búsqueda de actividades"
 
 msgid "Select page to show search results for activity"
-msgstr "Seleccionar página para mostrar los resultados de búsqueda de actividades"
+msgstr ""
+"Seleccionar página para mostrar los resultados de búsqueda de actividades"
 
 msgid "Review options"
 msgstr "Opciones de reseña"
@@ -3092,7 +3157,8 @@ msgid "Items per page"
 msgstr "Elementos por página"
 
 msgid "Number of items on a activity results search page"
-msgstr "Número de elementos en una página de resultados de búsqueda de actividades"
+msgstr ""
+"Número de elementos en una página de resultados de búsqueda de actividades"
 
 msgid "Activity Search Layout"
 msgstr "Diseño de búsqueda de actividades"
@@ -3110,10 +3176,14 @@ msgid "No"
 msgstr "No"
 
 msgid "Show featured activities on top of search result"
-msgstr "Mostrar actividades destacadas en la parte superior de los resultados de búsqueda"
+msgstr ""
+"Mostrar actividades destacadas en la parte superior de los resultados de "
+"búsqueda"
 
 msgid "ON: Show featured activities on top of default result search page"
-msgstr "ENCENDIDO: Mostrar actividades destacadas en la parte superior de la página de resultados de búsqueda predeterminada"
+msgstr ""
+"ENCENDIDO: Mostrar actividades destacadas en la parte superior de la página "
+"de resultados de búsqueda predeterminada"
 
 msgid "Activity  Search Fields"
 msgstr "Campos de búsqueda de actividades"
@@ -3140,13 +3210,15 @@ msgid "Allowed Activity  Advanced Search"
 msgstr "Permitir búsqueda avanzada de actividades"
 
 msgid "ON: Turn on thiis mode to add advanced search of activities"
-msgstr "ENCENDIDO: Activar este modo para agregar búsqueda avanzada de actividades"
+msgstr ""
+"ENCENDIDO: Activar este modo para agregar búsqueda avanzada de actividades"
 
 msgid "Activity Advanced Search Fields"
 msgstr "Campos de búsqueda avanzada de actividades"
 
 msgid "You can add, sort advanced search fields of activity"
-msgstr "Puedes agregar y ordenar los campos de búsqueda avanzada para actividades"
+msgstr ""
+"Puedes agregar y ordenar los campos de búsqueda avanzada para actividades"
 
 msgid "Price Filter"
 msgstr "Filtro de precio"
@@ -3157,7 +3229,9 @@ msgstr "Campos personalizados de actividades"
 msgid ""
 "You can create custom fields for activity. Fields will be displayed in "
 "metabox of single activity"
-msgstr "Puedes crear campos personalizados para actividades. Los campos se mostrarán en el metabox de actividad única"
+msgstr ""
+"Puedes crear campos personalizados para actividades. Los campos se mostrarán "
+"en el metabox de actividad única"
 
 msgid "Field type"
 msgstr "Tipo de campo"
@@ -3175,7 +3249,9 @@ msgid "Number seat availability in list activity"
 msgstr "Número de asientos disponibles en la lista de actividades"
 
 msgid "ON: Show number seat availability on each item in search results page"
-msgstr "ENCENDIDO: Mostrar número de asientos disponibles en cada elemento en la página de resultados de búsqueda"
+msgstr ""
+"ENCENDIDO: Mostrar número de asientos disponibles en cada elemento en la "
+"página de resultados de búsqueda"
 
 msgid "Map marker icon"
 msgstr "Icono de marcador de mapa"
@@ -3190,7 +3266,9 @@ msgid "Show/hide partner info in single activity"
 msgstr "Mostrar/ocultar información del socio en actividad única"
 
 msgid "ON: Show calendar below book form<br/>OF: Show calendar above book form"
-msgstr "ENCENDIDO: Mostrar calendario debajo del formulario de reserva<br/>APAGADO: Mostrar calendario encima del formulario de reserva"
+msgstr ""
+"ENCENDIDO: Mostrar calendario debajo del formulario de reserva<br/>APAGADO: "
+"Mostrar calendario encima del formulario de reserva"
 
 msgid "ON: Turn on the mode for reviewing tour"
 msgstr "ENCENDIDO: Activar el modo para reseñar tours"
@@ -3220,10 +3298,13 @@ msgid "Sidebar position"
 msgstr "Posición de la barra lateral"
 
 msgid "Show featured tours on top of search result"
-msgstr "Mostrar tours destacados en la parte superior de los resultados de búsqueda"
+msgstr ""
+"Mostrar tours destacados en la parte superior de los resultados de búsqueda"
 
 msgid "ON: Show featured tours on top of default result search page"
-msgstr "ENCENDIDO: Mostrar tours destacados en la parte superior de la página de resultados de búsqueda predeterminada"
+msgstr ""
+"ENCENDIDO: Mostrar tours destacados en la parte superior de la página de "
+"resultados de búsqueda predeterminada"
 
 msgid "Tour Search Fields"
 msgstr "Campos de búsqueda de tours"
@@ -3260,7 +3341,9 @@ msgstr "Número de usuarios que han reservado el tour"
 
 msgid ""
 "ON: Show number of users who booked tour on each item in search results page"
-msgstr "ENCENDIDO: Mostrar el número de usuarios que han reservado el tour en cada elemento de la página de resultados de búsqueda"
+msgstr ""
+"ENCENDIDO: Mostrar el número de usuarios que han reservado el tour en cada "
+"elemento de la página de resultados de búsqueda"
 
 msgid "Number seat availability in list tours"
 msgstr "Número de asientos disponibles en la lista de tours"
@@ -3271,31 +3354,41 @@ msgstr "Campos personalizados de tours"
 msgid ""
 "You can create custom fields for tour. Fields will be displayed in metabox "
 "of single tour"
-msgstr "Puedes crear campos personalizados para tours. Los campos se mostrarán en el metabox del tour único"
+msgstr ""
+"Puedes crear campos personalizados para tours. Los campos se mostrarán en el "
+"metabox del tour único"
 
 msgid "Email For Admin"
 msgstr "Correo electrónico para el administrador"
 
 msgid "Email template send to administrator booking."
-msgstr "Plantilla de correo electrónico enviada al administrador para la reserva"
+msgstr ""
+"Plantilla de correo electrónico enviada al administrador para la reserva"
 
 msgid "Email For Partner"
 msgstr "Correo electrónico para el socio"
 
 msgid "Email template send to partner/owner booking."
-msgstr "Plantilla de correo electrónico enviada al socio/propietario para la reserva"
+msgstr ""
+"Plantilla de correo electrónico enviada al socio/propietario para la reserva"
 
 msgid "Email template send to partner when package is expired date"
-msgstr "Plantilla de correo electrónico enviada al socio cuando el paquete ha expirado"
+msgstr ""
+"Plantilla de correo electrónico enviada al socio cuando el paquete ha "
+"expirado"
 
 msgid "Email For Customer"
 msgstr "Correo electrónico para el cliente"
 
 msgid "Email template for booking info send to customer"
-msgstr "Plantilla de correo electrónico para información de reserva enviada al cliente"
+msgstr ""
+"Plantilla de correo electrónico para información de reserva enviada al "
+"cliente"
 
 msgid "Email template for notification of departure date send to customer"
-msgstr "Plantilla de correo electrónico para notificación de fecha de salida enviada al cliente"
+msgstr ""
+"Plantilla de correo electrónico para notificación de fecha de salida enviada "
+"al cliente"
 
 msgid "Email Confirm"
 msgstr "Correo de confirmación"
@@ -3307,22 +3400,28 @@ msgid "Email Approved"
 msgstr "Correo aprobado"
 
 msgid "Email template to admin about item needs to be approved"
-msgstr "Plantilla de correo electrónico para el administrador sobre un elemento que necesita aprobación"
+msgstr ""
+"Plantilla de correo electrónico para el administrador sobre un elemento que "
+"necesita aprobación"
 
 msgid "Email Cancel Booking"
 msgstr "Correo para cancelar reserva"
 
 msgid "Email template for cancel booking send to administrator"
-msgstr "Plantilla de correo electrónico para cancelar reserva enviada al administrador"
+msgstr ""
+"Plantilla de correo electrónico para cancelar reserva enviada al "
+"administrador"
 
 msgid "Email template for cancel booking send to partner"
 msgstr "Plantilla de correo electrónico para cancelar reserva enviada al socio"
 
 msgid "Email template for successful canceled send to partner"
-msgstr "Plantilla de correo electrónico para cancelación exitosa enviada al socio"
+msgstr ""
+"Plantilla de correo electrónico para cancelación exitosa enviada al socio"
 
 msgid "Email template for successful canceled send to customer"
-msgstr "Plantilla de correo electrónico para cancelación exitosa enviada al cliente"
+msgstr ""
+"Plantilla de correo electrónico para cancelación exitosa enviada al cliente"
 
 msgid "From name"
 msgstr "De nombre"
@@ -3395,9 +3494,12 @@ msgstr "Seleccionar diseño para mostrar la página de búsqueda de coches"
 
 msgid ""
 "The unit to calculate the price of car<br/>Day: The price is calculated "
-"according to day<br/>Hour: The price is calculated according to hour<br/>"
-"Distance: The price is calculated according to distance"
-msgstr "La unidad para calcular el precio del coche<br/>Día: El precio se calcula según el día<br/>Hora: El precio se calcula según la hora<br/>Distancia: El precio se calcula según la distancia"
+"according to day<br/>Hour: The price is calculated according to hour<br/"
+">Distance: The price is calculated according to distance"
+msgstr ""
+"La unidad para calcular el precio del coche<br/>Día: El precio se calcula "
+"según el día<br/>Hora: El precio se calcula según la hora<br/>Distancia: El "
+"precio se calcula según la distancia"
 
 msgid "Price by distance"
 msgstr "Precio por distancia"
@@ -3415,15 +3517,20 @@ msgid "Set default booking info"
 msgstr "Establecer información predeterminada de reserva"
 
 msgid ""
-"ON: Add one day / hour into day / hour for check in. For example: 22-"
-"23/11/2017 will be 2 days."
-msgstr "ENCENDIDO: Agregar un día / hora al día / hora para el check-in. Por ejemplo: 22-23/11/2017 serán 2 días."
+"ON: Add one day / hour into day / hour for check in. For example: "
+"22-23/11/2017 will be 2 days."
+msgstr ""
+"ENCENDIDO: Agregar un día / hora al día / hora para el check-in. Por "
+"ejemplo: 22-23/11/2017 serán 2 días."
 
 msgid "Show featured cars on top of search results"
-msgstr "Mostrar coches destacados en la parte superior de los resultados de búsqueda"
+msgstr ""
+"Mostrar coches destacados en la parte superior de los resultados de búsqueda"
 
 msgid "Show featured cars on top of default result search page"
-msgstr "Mostrar coches destacados en la parte superior de la página de resultados de búsqueda predeterminada"
+msgstr ""
+"Mostrar coches destacados en la parte superior de la página de resultados de "
+"búsqueda predeterminada"
 
 msgid "Car Search Fields"
 msgstr "Campos de búsqueda de coches"
@@ -3455,7 +3562,9 @@ msgstr "Caja de cambio de ubicación y fecha"
 msgid ""
 "You can add, sort fields in the change box for car search in the car single "
 "page"
-msgstr "Puedes agregar y ordenar campos en la caja de cambio para la búsqueda de autos en la página de un solo auto"
+msgstr ""
+"Puedes agregar y ordenar campos en la caja de cambio para la búsqueda de "
+"autos en la página de un solo auto"
 
 msgid "Layout Box size"
 msgstr "Tamaño de la caja de diseño"
@@ -3521,7 +3630,8 @@ msgid "Select Search Result Page"
 msgstr "Seleccionar la página de resultados de búsqueda"
 
 msgid "Select page to show search results page for rental"
-msgstr "Seleccionar la página para mostrar los resultados de búsqueda de alquiler"
+msgstr ""
+"Seleccionar la página para mostrar los resultados de búsqueda de alquiler"
 
 msgid "Rental Single Layout"
 msgstr "Diseño único de alquiler"
@@ -3539,10 +3649,12 @@ msgid "Rental Room Default Layout"
 msgstr "Diseño predeterminado de habitación de alquiler"
 
 msgid "Select layout to show single room rental page"
-msgstr "Seleccionar diseño para mostrar la página de una sola habitación de alquiler"
+msgstr ""
+"Seleccionar diseño para mostrar la página de una sola habitación de alquiler"
 
 msgid "Number of items on a rental results search page"
-msgstr "Número de elementos en una página de resultados de búsqueda de alquiler"
+msgstr ""
+"Número de elementos en una página de resultados de búsqueda de alquiler"
 
 msgid "ON: Turn on review feature for rental"
 msgstr "ENCENDIDO: Activar la función de reseñas para alquileres"
@@ -3566,10 +3678,14 @@ msgid "Select a sidebar widget to display for rental"
 msgstr "Seleccionar un widget de barra lateral para mostrar en alquileres"
 
 msgid "Show featured rentals on top of search result"
-msgstr "Mostrar alquileres destacados en la parte superior de los resultados de búsqueda"
+msgstr ""
+"Mostrar alquileres destacados en la parte superior de los resultados de "
+"búsqueda"
 
 msgid "ON: Show featured items on top of default result search page"
-msgstr "ENCENDIDO: Mostrar elementos destacados en la parte superior de la página de resultados de búsqueda predeterminada"
+msgstr ""
+"ENCENDIDO: Mostrar elementos destacados en la parte superior de la página de "
+"resultados de búsqueda predeterminada"
 
 msgid "Rental Search Fields"
 msgstr "Campos de búsqueda de alquiler"
@@ -3717,7 +3833,9 @@ msgid "Number of items in list hotels"
 msgstr "Número de elementos en la lista de hoteles"
 
 msgid "Default number of posts are shown in list hotels page"
-msgstr "Número predeterminado de publicaciones que se muestran en la página de lista de hoteles"
+msgstr ""
+"Número predeterminado de publicaciones que se muestran en la página de lista "
+"de hoteles"
 
 msgid "Check out popup form"
 msgstr "Formulario emergente de pago"
@@ -3774,19 +3892,25 @@ msgid "Redirect page after login"
 msgstr "Página de redirección después de iniciar sesión"
 
 msgid "Select the page to display after users login to the system"
-msgstr "Selecciona la página para mostrar después de que los usuarios inicien sesión en el sistema"
+msgstr ""
+"Selecciona la página para mostrar después de que los usuarios inicien sesión "
+"en el sistema"
 
 msgid "Redirect page after logout"
 msgstr "Página de redirección después de cerrar sesión"
 
 msgid "Select the page to display after users logout from the system"
-msgstr "Selecciona la página para mostrar después de que los usuarios cierren sesión en el sistema"
+msgstr ""
+"Selecciona la página para mostrar después de que los usuarios cierren sesión "
+"en el sistema"
 
 msgid "Show popup when register"
 msgstr "Mostrar ventana emergente al registrarse"
 
 msgid "Enable/disable login/ register mode in form of popup"
-msgstr "Activar/desactivar el modo de inicio de sesión/registro en forma de ventana emergente"
+msgstr ""
+"Activar/desactivar el modo de inicio de sesión/registro en forma de ventana "
+"emergente"
 
 msgid "User Login"
 msgstr "Inicio de sesión de usuario"
@@ -3834,7 +3958,9 @@ msgid "Select page to show Modern Footer"
 msgstr "Seleccionar página para mostrar el pie de página moderno"
 
 msgid "Page for All Author Information(Recommend for Solo Agency)"
-msgstr "Página para toda la información del autor (Recomendado para agencias individuales)"
+msgstr ""
+"Página para toda la información del autor (Recomendado para agencias "
+"individuales)"
 
 msgid "When click on all avatar of partner will show that page"
 msgstr "Al hacer clic en todos los avatares del socio, se mostrará esa página"
@@ -3866,8 +3992,8 @@ msgstr "Mostrar captcha"
 
 msgid "Enable captcha for booking form. It is applied for normal booking form"
 msgstr ""
-"Habilitar captcha para el formulario de reserva. Se aplica para el formulario "
-"de reserva normal"
+"Habilitar captcha para el formulario de reserva. Se aplica para el "
+"formulario de reserva normal"
 
 msgid "Only use for submit form booking"
 msgstr "Usar solo para enviar el formulario de reserva"
@@ -3900,8 +4026,8 @@ msgid ""
 "Exchange rate vs primary currency. Set \"1\" if it's already the primary "
 "currency"
 msgstr ""
-"Tasa de cambio en comparación con la moneda principal. Establecer \"1\" si ya "
-"es la moneda principal"
+"Tasa de cambio en comparación con la moneda principal. Establecer \"1\" si "
+"ya es la moneda principal"
 
 msgid "Currency Position"
 msgstr "Posición de la moneda"
@@ -3963,7 +4089,9 @@ msgid "Allow guest booking"
 msgstr "Permitir reserva para invitados"
 
 msgid "Enable/disable this mode to allow users who have not logged in to book"
-msgstr "Habilitar/deshabilitar este modo para permitir que los usuarios no registrados reserven"
+msgstr ""
+"Habilitar/deshabilitar este modo para permitir que los usuarios no "
+"registrados reserven"
 
 msgid "Enable create account option"
 msgstr "Habilitar opción de crear cuenta"
@@ -3995,7 +4123,8 @@ msgstr ""
 "huéspedes"
 
 msgid "Enable/disable send message button in the booking form"
-msgstr "Habilitar/deshabilitar el botón de enviar mensaje en el formulario de reserva"
+msgstr ""
+"Habilitar/deshabilitar el botón de enviar mensaje en el formulario de reserva"
 
 msgid "Woocommerce Options"
 msgstr "Opciones de WooCommerce"
@@ -4048,8 +4177,8 @@ msgid ""
 "Enable/disable the Tax feature. This feature does not support WooCommerce "
 "Checkout"
 msgstr ""
-"Habilitar/deshabilitar la función de impuestos. Esta función no es compatible "
-"con el Pago de WooCommerce"
+"Habilitar/deshabilitar la función de impuestos. Esta función no es "
+"compatible con el Pago de WooCommerce"
 
 msgid "Price included tax"
 msgstr "Precio incluye impuestos"
@@ -4108,7 +4237,9 @@ msgid "Number of items in one location"
 msgstr "Número de elementos en una ubicación"
 
 msgid "Default number of posts are shown in Location tab"
-msgstr "Número predeterminado de publicaciones que se muestran en la pestaña Ubicación"
+msgstr ""
+"Número predeterminado de publicaciones que se muestran en la pestaña "
+"Ubicación"
 
 msgid "Location link options"
 msgstr "Opciones de enlace de ubicación"
@@ -4201,7 +4332,8 @@ msgid "Hotel search result page"
 msgstr "Página de resultados de búsqueda de hoteles"
 
 msgid "Select page to show hotel results search page"
-msgstr "Seleccionar la página para mostrar los resultados de búsqueda de hoteles"
+msgstr ""
+"Seleccionar la página para mostrar los resultados de búsqueda de hoteles"
 
 msgid "Number of items on a hotel results search page"
 msgstr "Número de elementos en la página de resultados de búsqueda de hoteles"
@@ -4236,7 +4368,8 @@ msgid "Hotel sidebar position"
 msgstr "Posición de la barra lateral del hotel"
 
 msgid "Show featured hotels on top of search result"
-msgstr "Mostrar hoteles destacados en la parte superior de los resultados de búsqueda"
+msgstr ""
+"Mostrar hoteles destacados en la parte superior de los resultados de búsqueda"
 
 msgid "Hotel custom search form"
 msgstr "Formulario de búsqueda personalizada de hotel"
@@ -4244,8 +4377,8 @@ msgstr "Formulario de búsqueda personalizada de hotel"
 msgid ""
 "You can add, edit, delete or sort fields to make a search form for hotel"
 msgstr ""
-"Puedes agregar, editar, eliminar u ordenar campos para crear un formulario de "
-"búsqueda para hoteles"
+"Puedes agregar, editar, eliminar u ordenar campos para crear un formulario "
+"de búsqueda para hoteles"
 
 msgid "Layout 1 Size"
 msgstr "Tamaño del diseño 1"
@@ -4308,7 +4441,8 @@ msgid "Room Search Result Page"
 msgstr "Página de resultados de búsqueda de habitaciones"
 
 msgid "Select page to show room search results"
-msgstr "Seleccionar la página para mostrar resultados de búsqueda de habitaciones"
+msgstr ""
+"Seleccionar la página para mostrar resultados de búsqueda de habitaciones"
 
 msgid "Single room layout"
 msgstr "Diseño de habitación única"
@@ -4322,12 +4456,14 @@ msgstr "Campos de búsqueda avanzada para habitaciones"
 msgid ""
 "You can add, edit, delete, drag and drop any fields to setup advanced form"
 msgstr ""
-"Puedes agregar, editar, eliminar, arrastrar y soltar cualquier campo para configurar formularios avanzados"
+"Puedes agregar, editar, eliminar, arrastrar y soltar cualquier campo para "
+"configurar formularios avanzados"
 
 msgid ""
 "You can add, edit, delete, drag and drop any field for setup advanced form"
 msgstr ""
-"Puedes agregar, editar, eliminar, arrastrar y soltar cualquier campo para configurar formularios avanzados"
+"Puedes agregar, editar, eliminar, arrastrar y soltar cualquier campo para "
+"configurar formularios avanzados"
 
 msgid "<i class=\"fa fa-tachometer\"></i> General Options"
 msgstr "<i class=\"fa fa-tachometer\"></i> Opciones Generales"
@@ -4424,7 +4560,9 @@ msgid ""
 "then when you select to Elementor, so need build page again. And same to "
 "vice versa"
 msgstr ""
-"Usado para construir páginas. Si el sitio web está siendo construido con WPBakery Page Builder y seleccionas Elementor, deberás reconstruir la página. Lo mismo ocurre a la inversa."
+"Usado para construir páginas. Si el sitio web está siendo construido con "
+"WPBakery Page Builder y seleccionas Elementor, deberás reconstruir la "
+"página. Lo mismo ocurre a la inversa."
 
 msgid "WPBakery Page Builder"
 msgstr "WPBakery Page Builder"
@@ -4436,7 +4574,9 @@ msgid "Right to left mode"
 msgstr "Modo de derecha a izquierda"
 
 msgid "Enable \"Right to left\" displaying mode for content"
-msgstr "Habilitar el modo de visualización \"De derecha a izquierda\" para el contenido"
+msgstr ""
+"Habilitar el modo de visualización \"De derecha a izquierda\" para el "
+"contenido"
 
 msgid "You can choose wide layout or boxed layout"
 msgstr "Puedes elegir diseño ancho o diseño en caja"
@@ -4473,7 +4613,9 @@ msgstr "Fondo del contenedor"
 
 msgid ""
 "To change background color, bachground image of box surrounding the content"
-msgstr "Para cambiar el color o la imagen de fondo del contenedor que rodea el contenido"
+msgstr ""
+"Para cambiar el color o la imagen de fondo del contenedor que rodea el "
+"contenido"
 
 msgid "Default Color Scheme"
 msgstr "Esquema de colores predeterminado"
@@ -4494,7 +4636,8 @@ msgid "Header background"
 msgstr "Fondo del encabezado"
 
 msgid "To change background color, background image of header section"
-msgstr "Para cambiar el color o la imagen de fondo de la sección del encabezado"
+msgstr ""
+"Para cambiar el color o la imagen de fondo de la sección del encabezado"
 
 msgid "Sticky header"
 msgstr "Encabezado fijo"
@@ -4506,7 +4649,8 @@ msgid "Header menu items"
 msgstr "Elementos del menú del encabezado"
 
 msgid "Select  items displaying at the right of main menu"
-msgstr "Seleccionar los elementos que se mostrarán a la derecha del menú principal"
+msgstr ""
+"Seleccionar los elementos que se mostrarán a la derecha del menú principal"
 
 msgid "Select header item shown in header right"
 msgstr "Seleccionar el elemento del encabezado que se mostrará a la derecha"
@@ -4521,7 +4665,9 @@ msgid "Icon Link"
 msgstr "Enlace de ícono"
 
 msgid "Enter a Font Awesome icon - Apply for Custom Link Item only"
-msgstr "Ingresa un ícono de Font Awesome - Solo se aplica para elementos de enlace personalizado"
+msgstr ""
+"Ingresa un ícono de Font Awesome - Solo se aplica para elementos de enlace "
+"personalizado"
 
 msgid "Menu"
 msgstr "Menú"
@@ -4578,7 +4724,8 @@ msgid "On to Enable Top bar "
 msgstr "Activar para habilitar la barra superior"
 
 msgid "Select topbar item shown in topbar right"
-msgstr "Seleccionar el elemento de la barra superior que se mostrará a la derecha"
+msgstr ""
+"Seleccionar el elemento de la barra superior que se mostrará a la derecha"
 
 msgid "Select item shown in topbar"
 msgstr "Seleccionar el elemento que se mostrará en la barra superior"
@@ -4742,7 +4889,9 @@ msgstr "Deshabilitar opción de servicios del tema"
 msgid ""
 "Hide one or many services of theme. In order to disable services (holtel, "
 "tour,..) you do not use, please tick the checkbox"
-msgstr "Ocultar uno o varios servicios del tema. Para deshabilitar servicios (hotel, tour, etc.) que no uses, marca la casilla."
+msgstr ""
+"Ocultar uno o varios servicios del tema. Para deshabilitar servicios (hotel, "
+"tour, etc.) que no uses, marca la casilla."
 
 msgid "Logo"
 msgstr "Logo"
@@ -4767,7 +4916,8 @@ msgid ""
 "                                    Logo is: <em>my-logo.jpg</em><br>Logo "
 "Retina must be: <em>my-logo@2x.jpg</em>  "
 msgstr ""
-"Nota: DEBES renombrar el Logo Retina a logo-nombre@2x.ext-nombre. Ejemplo:<br>\n"
+"Nota: DEBES renombrar el Logo Retina a logo-nombre@2x.ext-nombre. Ejemplo:"
+"<br>\n"
 "                                    El logo es: <em>mi-logo.jpg</em><br>El "
 "Logo Retina debe ser: <em>mi-logo@2x.jpg</em>"
 
@@ -4808,7 +4958,9 @@ msgid ""
 "Show/hide google captcha for page login and register. Note: This function "
 "not support for popup login and popup register"
 msgstr ""
-"Mostrar/ocultar Google Captcha para las páginas de inicio de sesión y registro. Nota: Esta función no es compatible con inicio de sesión o registro emergente."
+"Mostrar/ocultar Google Captcha para las páginas de inicio de sesión y "
+"registro. Nota: Esta función no es compatible con inicio de sesión o "
+"registro emergente."
 
 msgid "Re-Captcha Key"
 msgstr "Clave Re-Captcha"
@@ -4821,7 +4973,10 @@ msgid ""
 "by use our shortcodes system with some layout we ready build in. Below is "
 "the list shortcodes you can use"
 msgstr ""
-"A partir de la versión 1.1.9, puedes editar las plantillas de correo electrónico para Administrador, Socio y Cliente utilizando nuestro sistema de shortcodes con diseños predefinidos. A continuación, la lista de shortcodes disponibles."
+"A partir de la versión 1.1.9, puedes editar las plantillas de correo "
+"electrónico para Administrador, Socio y Cliente utilizando nuestro sistema "
+"de shortcodes con diseños predefinidos. A continuación, la lista de "
+"shortcodes disponibles."
 
 msgid "List All Shortcode:"
 msgstr "Lista de todos los Shortcodes:"
@@ -4932,7 +5087,8 @@ msgid ""
 "Display original price of the item (not included custom price, sale price "
 "and tax)"
 msgstr ""
-"Mostrar el precio original del artículo (sin incluir precio personalizado, precio de oferta ni impuestos)"
+"Mostrar el precio original del artículo (sin incluir precio personalizado, "
+"precio de oferta ni impuestos)"
 
 msgid "Item Sale Price"
 msgstr "Precio de Oferta del Artículo"
@@ -5503,214 +5659,14 @@ msgid "Please, provide an attribute name, slug and type."
 msgstr "Por favor, proporciona un nombre, slug y tipo de atributo."
 
 msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
-msgstr "El slug “%s” es demasiado largo (máximo 28 caracteres). Acórtalo, por favor."
-
-msgid ""
-"Slug “%s” is not allowed because it is a reserved term. Change it, please."
-msgstr "El slug “%s” no está permitido porque es un término reservado. Cámbialo, por favor."
-
-msgid ""
-"Unique slug/reference for the attribute; must be shorter than 28 characters "
-"and type Alphabet."
 msgstr ""
-"Slug/referencia único para el atributo; debe ser menor a 28 caracteres y de "
-"tipo Alfabeto."
-
-msgid "Slug “%s” is already in use. Change it, please."
-msgstr "El slug “%s” ya está en uso. Cámbialo, por favor."
-
-msgid "Refresh"
-msgstr "Actualizar"
-
-msgid "Adult: "
-msgstr "Adulto: "
-
-msgid "Child: "
-msgstr "Niño: "
-
-msgid "Infant: "
-msgstr "Infante: "
-
-msgid "Price: "
-msgstr "Precio: "
-
-msgid "Not Available "
-msgstr "No Disponible "
-
-msgid "Available "
-msgstr "Disponible "
-
-msgid "Adult Price "
-msgstr "Precio Adulto "
-
-msgid "Child Price "
-msgstr "Precio Niño "
-
-msgid "Infant"
-msgstr "Infante"
-
-msgid "Update "
-msgstr "Actualizar "
-
-msgid "You cancelled the process"
-msgstr "Cancelaste el proceso"
-
-msgid "Apply"
-msgstr "Aplicar"
-
-msgid "From"
-msgstr "Desde"
-
-msgid "To"
-msgstr "Hasta"
-
-msgid "Custom"
-msgstr "Personalizado"
-
-msgid "Su"
-msgstr "Do"
-
-msgid "Mo"
-msgstr "Lu"
-
-msgid "Tu"
-msgstr "Ma"
-
-msgid "We"
-msgstr "Mi"
-
-msgid "Th"
-msgstr "Ju"
-
-msgid "Fr"
-msgstr "Vi"
-
-msgid "Sa"
-msgstr "Sa"
-
-msgid "January"
-msgstr "Enero"
-
-msgid "February"
-msgstr "Febrero"
-
-msgid "March"
-msgstr "Marzo"
-
-msgid "April"
-msgstr "Abril"
-
-msgid "May"
-msgstr "Mayo"
-
-msgid "June"
-msgstr "Junio"
-
-msgid "July"
-msgstr "Julio"
-
-msgid "August"
-msgstr "Agosto"
-
-msgid "September"
-msgstr "Septiembre"
-
-msgid "October"
-msgstr "Octubre"
-
-msgid "November"
-msgstr "Noviembre"
-
-msgid "December"
-msgstr "Diciembre"
-
-msgid "Today"
-msgstr "Hoy"
-
-msgid "Please wait..."
-msgstr "Por favor espera..."
-
-msgid "buttons"
-msgstr "botones"
-
-msgid "Your session has ended. Please reload the website"
-msgstr "Tu sesión ha terminado. Por favor, recarga el sitio web"
-
-msgid "Your you have permission to access this page"
-msgstr "Tienes permiso para acceder a esta página"
-
-msgid "Service Published:"
-msgstr "Servicio Publicado:"
-
-msgid "Hi"
-msgstr "Hola"
-
-msgid "Your article, %s has just been published."
-msgstr "Tu artículo, %s, acaba de ser publicado."
-
-msgid "View article "
-msgstr "Ver artículo "
-
-msgid "Address Line 1"
-msgstr "Línea de Dirección 1"
-
-msgid "Show under your reviews"
-msgstr "Mostrar bajo tus reseñas"
-
-msgid "Address Line 2"
-msgstr "Línea de Dirección 2"
-
-msgid "Fax Number"
-msgstr "Número de Fax"
-
-msgid "Airport"
-msgstr "Aeropuerto"
-
-msgid "State/Province/Region"
-msgstr "Estado/Provincia/Región"
-
-msgid "ZIP code/Postal code"
-msgstr "Código Postal"
-
-msgid "Verified"
-msgstr "Verificado"
-
-msgid "Not Verified"
-msgstr "No Verificado"
-
-msgid "A Part"
-msgstr "Una Parte"
-
-msgid "Member package"
-msgstr "Paquete de miembro"
-
-msgid "Package Status"
-msgstr "Estado del Paquete"
-
-msgid "Expiration date"
-msgstr "Fecha de Expiración"
-
-msgid "Incomplete"
-msgstr "Incompleto"
-
-msgid "Cancelled"
-msgstr "Cancelado"
-
-msgid "Delete"
-msgstr "Eliminar"
-
-msgid "No More"
-msgstr "No Más"
-
-msgid "Please, provide an attribute name, slug and type."
-msgstr "Por favor, proporciona un nombre, slug y tipo de atributo."
-
-msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
-msgstr "El slug “%s” es demasiado largo (máximo 28 caracteres). Acórtalo, por favor."
+"El slug “%s” es demasiado largo (máximo 28 caracteres). Acórtalo, por favor."
 
 msgid ""
 "Slug “%s” is not allowed because it is a reserved term. Change it, please."
-msgstr "El slug “%s” no está permitido porque es un término reservado. Cámbialo, por favor."
+msgstr ""
+"El slug “%s” no está permitido porque es un término reservado. Cámbialo, por "
+"favor."
 
 msgid ""
 "Unique slug/reference for the attribute; must be shorter than 28 characters "
@@ -5970,7 +5926,9 @@ msgstr "Añadir Nuevo Atributo"
 
 msgid ""
 "Attributes let you define unlimited extra infomation for Hotel, Car ..etc"
-msgstr "Los atributos te permiten definir información adicional ilimitada para Hotel, Auto, etc."
+msgstr ""
+"Los atributos te permiten definir información adicional ilimitada para "
+"Hotel, Auto, etc."
 
 msgid "Add Attribute"
 msgstr "Añadir Atributo"
@@ -6028,32 +5986,33 @@ msgstr "Por favor, registra el producto antes de instalar el contenido demo %s"
 
 msgid ""
 "The Demo content is a replication of the Live Content. By importing it, you "
-"could get pre-designed service, pages, posts, theme options, sidebar widgets,"
-" and other settings. <br><span style='color:#3B71FE;    font-weight: 600;'>"
-"It can also take a minute to complete.</span><br><span>Before import, make "
-"sure your website data is empty (posts, pages, menus...)\n"
+"could get pre-designed service, pages, posts, theme options, sidebar "
+"widgets, and other settings. <br><span style='color:#3B71FE;    font-weight: "
+"600;'>It can also take a minute to complete.</span><br><span>Before import, "
+"make sure your website data is empty (posts, pages, menus...)\n"
 "\n"
 "We suggest you use the plugin \"Wordpress Reset\" to reset your website "
 "before import.</span> <br>\n"
-"<span style='color:#3B71FE;font-weight: 600;'>WARNING: When Import Demo Data."
-" All your current data will be deleted and replaced with Traveler demo data."
-"</span>\n"
-"<span style='color:red'><b>Kindly back up your database before doing this."
-"</b> %s "
+"<span style='color:#3B71FE;font-weight: 600;'>WARNING: When Import Demo "
+"Data. All your current data will be deleted and replaced with Traveler demo "
+"data.</span>\n"
+"<span style='color:red'><b>Kindly back up your database before doing this.</"
+"b> %s "
 msgstr ""
-"El contenido demo es una réplica del contenido en vivo. Al importarlo, puedes "
-"obtener servicios pre-diseñados, páginas, publicaciones, opciones del tema, "
-"widgets de la barra lateral y otras configuraciones. <br><span style='color:"
-"#3B71FE; font-weight: 600;'>También puede tardar un minuto en completarse.</span>"
-"<br><span>Antes de importar, asegúrate de que los datos de tu sitio web "
-"estén vacíos (publicaciones, páginas, menús...)\n"
+"El contenido demo es una réplica del contenido en vivo. Al importarlo, "
+"puedes obtener servicios pre-diseñados, páginas, publicaciones, opciones del "
+"tema, widgets de la barra lateral y otras configuraciones. <br><span "
+"style='color:#3B71FE; font-weight: 600;'>También puede tardar un minuto en "
+"completarse.</span><br><span>Antes de importar, asegúrate de que los datos "
+"de tu sitio web estén vacíos (publicaciones, páginas, menús...)\n"
 "\n"
 "Te sugerimos usar el plugin \"WordPress Reset\" para restablecer tu sitio "
 "antes de importar.</span><br>\n"
 "<span style='color:#3B71FE;font-weight: 600;'>ADVERTENCIA: Al importar datos "
 "demo, todos tus datos actuales serán eliminados y reemplazados con los datos "
 "demo de Traveler.</span>\n"
-"<span style='color:red'><b>Por favor, realiza una copia de seguridad de tu base de datos antes de hacer esto.</b> %s"
+"<span style='color:red'><b>Por favor, realiza una copia de seguridad de tu "
+"base de datos antes de hacer esto.</b> %s"
 
 msgid "Elementor Demo (Recommend)"
 msgstr "Demo Elementor (Recomendado)"
@@ -6065,7 +6024,9 @@ msgid "Have not package demo elementor"
 msgstr "No tienes el paquete demo para Elementor"
 
 msgid "Please install/active plugin Elementor (If import demo Elementor)"
-msgstr "Por favor, instala/activa el plugin Elementor (Si vas a importar demo con Elementor)"
+msgstr ""
+"Por favor, instala/activa el plugin Elementor (Si vas a importar demo con "
+"Elementor)"
 
 msgid "WPBakery Page Builder Demo"
 msgstr "Demo WPBakery Page Builder"
@@ -6082,7 +6043,8 @@ msgid ""
 "resources."
 msgstr ""
 "Ofrecemos soporte excelente a través de nuestro sistema avanzado de tickets. "
-"Asegúrate de registrar tu compra primero para acceder a nuestros servicios de soporte y otros recursos."
+"Asegúrate de registrar tu compra primero para acceder a nuestros servicios "
+"de soporte y otros recursos."
 
 msgid "Documentation"
 msgstr "Documentación"
@@ -6093,7 +6055,8 @@ msgid ""
 "of using traveler."
 msgstr ""
 "Este es el lugar para consultar diferentes aspectos del tema. Nuestra "
-"documentación en línea es un recurso increíble para aprender todo sobre el uso de Traveler."
+"documentación en línea es un recurso increíble para aprender todo sobre el "
+"uso de Traveler."
 
 msgid "Video Tutorials"
 msgstr "Tutoriales en Video"
@@ -6104,14 +6067,17 @@ msgid ""
 "aspects of using traveler."
 msgstr ""
 "Nada es mejor que ver un video para aprender. Contamos con una creciente "
-"biblioteca de tutoriales en video de alta definición y narrados para enseñarte los diferentes aspectos de usar Traveler."
+"biblioteca de tutoriales en video de alta definición y narrados para "
+"enseñarte los diferentes aspectos de usar Traveler."
 
 msgid "Watch Videos"
 msgstr "Ver Videos"
 
 msgid ""
 "Recommend : To avoid losing data, Please backup the database before running"
-msgstr "Recomendación: Para evitar perder datos, por favor haz una copia de seguridad de la base de datos antes de continuar."
+msgstr ""
+"Recomendación: Para evitar perder datos, por favor haz una copia de "
+"seguridad de la base de datos antes de continuar."
 
 msgid "WordPress Environment"
 msgstr "Entorno de WordPress"
@@ -6150,14 +6116,15 @@ msgid "WP Memory Limit"
 msgstr "Límite de Memoria de WP"
 
 msgid "The maximum amount of memory (RAM) that your site can use at one time."
-msgstr "La cantidad máxima de memoria (RAM) que tu sitio puede usar al mismo tiempo."
+msgstr ""
+"La cantidad máxima de memoria (RAM) que tu sitio puede usar al mismo tiempo."
 
 msgid ""
 "%s - We recommend setting memory to at least 128MB. See: <a href=\"%s\" "
 "target=\"_blank\">Increasing memory allocated to PHP</a>"
 msgstr ""
-"%s - Recomendamos configurar la memoria a al menos 128MB. Consulta: <a href=\"%s\" "
-"target=\"_blank\">Aumentar la memoria asignada a PHP</a>"
+"%s - Recomendamos configurar la memoria a al menos 128MB. Consulta: <a "
+"href=\"%s\" target=\"_blank\">Aumentar la memoria asignada a PHP</a>"
 
 msgid "WP Debug Mode"
 msgstr "Modo Debug de WP"
@@ -6216,7 +6183,8 @@ msgid ""
 "The maximum number of variables your server can use for a single function to "
 "avoid overloads."
 msgstr ""
-"La cantidad máxima de variables que tu servidor puede usar para una sola función para evitar sobrecargas."
+"La cantidad máxima de variables que tu servidor puede usar para una sola "
+"función para evitar sobrecargas."
 
 msgid "MySQL Version"
 msgstr "Versión de MySQL"
@@ -6230,7 +6198,8 @@ msgstr "Tamaño Máximo de Carga"
 msgid ""
 "The largest filesize that can be uploaded to your WordPress installation."
 msgstr ""
-"El tamaño máximo de archivo que se puede cargar en tu instalación de WordPress."
+"El tamaño máximo de archivo que se puede cargar en tu instalación de "
+"WordPress."
 
 msgid "Default Timezone is UTC"
 msgstr "La Zona Horaria Predeterminada es UTC"
@@ -6246,26 +6215,33 @@ msgid ""
 "authorize payments, other plugins may also use it when communicating with "
 "remote services."
 msgstr ""
-"Las pasarelas de pago pueden usar cURL para comunicarse con servidores remotos y autorizar pagos. Otros plugins también pueden usarlo al comunicarse con servicios remotos."
+"Las pasarelas de pago pueden usar cURL para comunicarse con servidores "
+"remotos y autorizar pagos. Otros plugins también pueden usarlo al "
+"comunicarse con servicios remotos."
 
 msgid ""
 "Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
 "scripts which communicate with other servers will not work. Contact your "
 "hosting provider."
 msgstr ""
-"Tu servidor no tiene habilitado fsockopen o cURL - PayPal IPN y otros scripts que se comunican con otros servidores no funcionarán. Contacta a tu proveedor de alojamiento."
+"Tu servidor no tiene habilitado fsockopen o cURL - PayPal IPN y otros "
+"scripts que se comunican con otros servidores no funcionarán. Contacta a tu "
+"proveedor de alojamiento."
 
 msgid ""
 "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
 msgstr ""
-"Los correos electrónicos HTML/Multipart utilizan DOMDocument para generar CSS en línea en las plantillas."
+"Los correos electrónicos HTML/Multipart utilizan DOMDocument para generar "
+"CSS en línea en las plantillas."
 
 msgid ""
 "Your server does not have the <a href=\"%s\">DOMDocument</a> class enabled - "
 "HTML/Multipart emails, and also some extensions, will not work without "
 "DOMDocument."
 msgstr ""
-"Tu servidor no tiene habilitada la clase <a href=\"%s\">DOMDocument</a> - los correos electrónicos HTML/Multipart y algunas extensiones no funcionarán sin DOMDocument."
+"Tu servidor no tiene habilitada la clase <a href=\"%s\">DOMDocument</a> - "
+"los correos electrónicos HTML/Multipart y algunas extensiones no funcionarán "
+"sin DOMDocument."
 
 msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
 msgstr "GZip (gzopen) se utiliza para abrir la base de datos GEOIP de MaxMind."
@@ -6275,7 +6251,9 @@ msgid ""
 "is required to use the GeoIP database from MaxMind. The API fallback will be "
 "used instead for geolocation."
 msgstr ""
-"Tu servidor no admite la función <a href=\"%s\">gzopen</a> - esto es necesario para usar la base de datos GeoIP de MaxMind. En su lugar, se usará la API como respaldo para la geolocalización."
+"Tu servidor no admite la función <a href=\"%s\">gzopen</a> - esto es "
+"necesario para usar la base de datos GeoIP de MaxMind. En su lugar, se usará "
+"la API como respaldo para la geolocalización."
 
 msgid "Your server does not support the <a href=\"%s\">ZipArchive</a>."
 msgstr "Tu servidor no admite <a href=\"%s\">ZipArchive</a>."
@@ -6287,13 +6265,15 @@ msgid ""
 "PayPal uses this method of communicating when sending back transaction "
 "information."
 msgstr ""
-"PayPal utiliza este método de comunicación al enviar información de transacciones."
+"PayPal utiliza este método de comunicación al enviar información de "
+"transacciones."
 
 msgid ""
 "wp_remote_post() failed. PayPal IPN won't work with your server. Contact "
 "your hosting provider."
 msgstr ""
-"wp_remote_post() falló. PayPal IPN no funcionará con tu servidor. Contacta a tu proveedor de alojamiento."
+"wp_remote_post() falló. PayPal IPN no funcionará con tu servidor. Contacta a "
+"tu proveedor de alojamiento."
 
 msgid "Error: %s"
 msgstr "Error: %s"
@@ -6308,13 +6288,15 @@ msgid ""
 "WooCommerce plugins may use this method of communication when checking for "
 "plugin updates."
 msgstr ""
-"Los plugins de WooCommerce pueden usar este método de comunicación al verificar actualizaciones de plugins."
+"Los plugins de WooCommerce pueden usar este método de comunicación al "
+"verificar actualizaciones de plugins."
 
 msgid ""
 "wp_remote_get() failed. The WooCommerce plugin updater won't work with your "
 "server. Contact your hosting provider."
 msgstr ""
-"wp_remote_get() falló. El actualizador de plugins de WooCommerce no funcionará con tu servidor. Contacta a tu proveedor de alojamiento."
+"wp_remote_get() falló. El actualizador de plugins de WooCommerce no "
+"funcionará con tu servidor. Contacta a tu proveedor de alojamiento."
 
 msgid "Active Plugins"
 msgstr "Plugins Activos"
@@ -6372,7 +6354,9 @@ msgid ""
 "updates. Read below for additional information. We hope you enjoy it!"
 msgstr ""
 "¡Traveler está instalado y listo para usar! Prepárate para construir algo "
-"hermoso. Registra tu compra para obtener soporte y actualizaciones automáticas del tema. Lee a continuación para más información. ¡Esperamos que lo disfrutes!"
+"hermoso. Registra tu compra para obtener soporte y actualizaciones "
+"automáticas del tema. Lee a continuación para más información. ¡Esperamos "
+"que lo disfrutes!"
 
 msgid "Version "
 msgstr "Versión"
@@ -6424,7 +6408,8 @@ msgid ""
 "The commission between admin and partner. Default from Theme Settings -> "
 "Partner Options -> Commissions"
 msgstr ""
-"La comisión entre el administrador y el socio. Predeterminado desde Configuración del Tema -> Opciones de Socios -> Comisiones."
+"La comisión entre el administrador y el socio. Predeterminado desde "
+"Configuración del Tema -> Opciones de Socios -> Comisiones."
 
 msgid "Number of item can upload."
 msgstr "Número de elementos que se pueden subir."
@@ -6436,7 +6421,8 @@ msgid "Number of item can set the featured"
 msgstr "Número de elementos que se pueden destacar"
 
 msgid "Number of item can set featured. Leave emty for unlimited."
-msgstr "Número de elementos que se pueden destacar. Déjalo vacío para ilimitado."
+msgstr ""
+"Número de elementos que se pueden destacar. Déjalo vacío para ilimitado."
 
 msgid "Description."
 msgstr "Descripción."
@@ -7198,7 +7184,9 @@ msgid "Sorry! No payment gateway available"
 msgstr "¡Lo sentimos! No hay pasarela de pago disponible"
 
 msgid "Sorry! Payment Gateway: <code>%s</code> is not available for this item!"
-msgstr "¡Lo sentimos! La pasarela de pago: <code>%s</code> no está disponible para este artículo."
+msgstr ""
+"¡Lo sentimos! La pasarela de pago: <code>%s</code> no está disponible para "
+"este artículo."
 
 msgid "Your cart is currently empty."
 msgstr "Tu carrito está actualmente vacío."
@@ -7276,7 +7264,9 @@ msgid "Limited for each coupon"
 msgstr "Límite para cada cupón"
 
 msgid "Input number of times use this coupon code. Set empty for use unlimited"
-msgstr "Ingresar número de usos para este código de cupón. Dejar vacío para uso ilimitado"
+msgstr ""
+"Ingresar número de usos para este código de cupón. Dejar vacío para uso "
+"ilimitado"
 
 msgid "Limited for user"
 msgstr "Límite por usuario"
@@ -7285,7 +7275,8 @@ msgid ""
 "Input number of times use this coupon for each user. Set empty for use "
 "unlimited"
 msgstr ""
-"Introduce el número de usos permitidos para este cupón por usuario. Dejar vacío para uso ilimitado"
+"Introduce el número de usos permitidos para este cupón por usuario. Dejar "
+"vacío para uso ilimitado"
 
 msgid "Coupon Not Found"
 msgstr "Cupón no encontrado"
@@ -7463,7 +7454,9 @@ msgid "for %s adult"
 msgstr "para %s adulto"
 
 msgid "Make sure your check-out date is at least 1 day after check-in."
-msgstr "Asegúrate de que la fecha de salida sea al menos un día después de la entrada."
+msgstr ""
+"Asegúrate de que la fecha de salida sea al menos un día después de la "
+"entrada."
 
 msgid " ago"
 msgstr " atrás"
@@ -7552,7 +7545,9 @@ msgid "This is the zipcode of this location"
 msgstr "Este es el código postal de esta ubicación"
 
 msgid "Kindly input Map API in Theme Settings > Other Options"
-msgstr "Por favor, introduce la API del mapa en Configuración del Tema > Otras Opciones"
+msgstr ""
+"Por favor, introduce la API del mapa en Configuración del Tema > Otras "
+"Opciones"
 
 msgid "Location content"
 msgstr "Contenido de la ubicación"
@@ -7563,7 +7558,9 @@ msgstr "Crear contenido para esta ubicación"
 msgid ""
 "Allow you can build content, layout, information for this location like the "
 "way you want"
-msgstr "Te permite crear contenido, diseño e información para esta ubicación como desees"
+msgstr ""
+"Te permite crear contenido, diseño e información para esta ubicación como "
+"desees"
 
 msgid "Use gallery "
 msgstr "Usar galería"
@@ -7728,7 +7725,8 @@ msgid "Error captcha:"
 msgstr "Error de captcha:"
 
 msgid "Your order has been created but we can not process. Error Code: %s"
-msgstr "Tu pedido ha sido creado, pero no podemos procesarlo. Código de error: %s"
+msgstr ""
+"Tu pedido ha sido creado, pero no podemos procesarlo. Código de error: %s"
 
 msgid "Bank Transfer"
 msgstr "Transferencia bancaria"
@@ -7779,7 +7777,8 @@ msgid "<br>Message: %s"
 msgstr "<br>Mensaje: %s"
 
 msgid "Your order has been made but we can not process the payment with %s. %s"
-msgstr "Tu pedido ha sido realizado, pero no podemos procesar el pago con %s. %s"
+msgstr ""
+"Tu pedido ha sido realizado, pero no podemos procesar el pago con %s. %s"
 
 msgid "%s Booking"
 msgstr "Reserva %s"
@@ -7818,7 +7817,8 @@ msgid "The check out field is required."
 msgstr "El campo de salida es obligatorio."
 
 msgid "This rental required minimum booking is %d day(s) before return"
-msgstr "Este alquiler requiere una reserva mínima de %d día(s) antes de la devolución"
+msgstr ""
+"Este alquiler requiere una reserva mínima de %d día(s) antes de la devolución"
 
 msgid "A maximum number of adult(s): %d"
 msgstr "Número máximo de adultos: %d"
@@ -7892,10 +7892,13 @@ msgid "Access Token is missing"
 msgstr "Falta el token de acceso"
 
 msgid "Can not connect to Facebook. Please try again later"
-msgstr "No se puede conectar a Facebook. Por favor, inténtalo de nuevo más tarde"
+msgstr ""
+"No se puede conectar a Facebook. Por favor, inténtalo de nuevo más tarde"
 
 msgid "Can not read Facebook response. Please try again later"
-msgstr "No se puede leer la respuesta de Facebook. Por favor, inténtalo de nuevo más tarde"
+msgstr ""
+"No se puede leer la respuesta de Facebook. Por favor, inténtalo de nuevo más "
+"tarde"
 
 msgid "Facebook Error: "
 msgstr "Error de Facebook: "
@@ -7904,7 +7907,8 @@ msgid "Error: "
 msgstr "Error: "
 
 msgid "Google Error: You must allow us read your email address "
-msgstr "Error de Google: Debes permitirnos leer tu dirección de correo electrónico"
+msgstr ""
+"Error de Google: Debes permitirnos leer tu dirección de correo electrónico"
 
 msgid "Can not get user info"
 msgstr "No se puede obtener la información del usuario"
@@ -7994,7 +7998,8 @@ msgid "This tour allow minimum booking is %d day(s)"
 msgstr "Este tour permite una reserva mínima de %d día(s)"
 
 msgid "The check in, check out day is invalid or this tour not available."
-msgstr "La fecha de entrada o salida es inválida o este tour no está disponible."
+msgstr ""
+"La fecha de entrada o salida es inválida o este tour no está disponible."
 
 msgid "This tour is only available for %d people"
 msgstr "Este tour solo está disponible para %d personas"
@@ -8143,8 +8148,11 @@ msgstr "Tamaño de la habitación"
 msgid "External booking URL"
 msgstr "URL de reserva externa"
 
-msgid "You cannot set featured for this rental. Your remaining item is %s (items)"
-msgstr "No puedes establecer destacado para este alquiler. Tus elementos restantes son %s (elementos)"
+msgid ""
+"You cannot set featured for this rental. Your remaining item is %s (items)"
+msgstr ""
+"No puedes establecer destacado para este alquiler. Tus elementos restantes "
+"son %s (elementos)"
 
 msgid "Video"
 msgstr "Video"
@@ -8372,7 +8380,8 @@ msgid "Your new password is:"
 msgstr "Tu nueva contraseña es:"
 
 msgid "Check your email address for your new password."
-msgstr "Revisa tu dirección de correo electrónico para obtener tu nueva contraseña."
+msgstr ""
+"Revisa tu dirección de correo electrónico para obtener tu nueva contraseña."
 
 msgid "Oops something went wrong updaing your account."
 msgstr "Vaya, algo salió mal al actualizar tu cuenta."
@@ -8411,7 +8420,8 @@ msgid "Required form field email is missing"
 msgstr "Falta el campo obligatorio del correo electrónico"
 
 msgid "User Name too short. At least 3 characters is required"
-msgstr "El nombre de usuario es demasiado corto. Se requieren al menos 3 caracteres"
+msgstr ""
+"El nombre de usuario es demasiado corto. Se requieren al menos 3 caracteres"
 
 msgid "Password length must be greater than 6"
 msgstr "La contraseña debe tener más de 6 caracteres"
@@ -8829,7 +8839,8 @@ msgstr "El campo de usuario y contraseña está vacío"
 
 msgid ""
 "The password you entered for the username <strong>%s</strong> is incorrect."
-msgstr "La contraseña ingresada para el usuario <strong>%s</strong> es incorrecta."
+msgstr ""
+"La contraseña ingresada para el usuario <strong>%s</strong> es incorrecta."
 
 msgid "Invalid username."
 msgstr "Nombre de usuario inválido."
@@ -8850,7 +8861,8 @@ msgid "The Email is invalid"
 msgstr "El correo electrónico no es válido"
 
 msgid "There is no user registered with that email address"
-msgstr "No hay ningún usuario registrado con esa dirección de correo electrónico"
+msgstr ""
+"No hay ningún usuario registrado con esa dirección de correo electrónico"
 
 msgid "Check your email address for you new password"
 msgstr "Revisa tu dirección de correo electrónico para tu nueva contraseña"
@@ -9274,8 +9286,8 @@ msgid "Traveler Duplicate"
 msgstr "Traveler Duplicate"
 
 msgid ""
-"Traveler Duplicate Add-on will make it easier for you. Content such as price,"
-" availability of each service (hotel, tour, car, flight) will be fully "
+"Traveler Duplicate Add-on will make it easier for you. Content such as "
+"price, availability of each service (hotel, tour, car, flight) will be fully "
 "copied."
 msgstr ""
 "El complemento Traveler Duplicate te facilita las cosas. Se copiará "
@@ -9441,7 +9453,8 @@ msgid "Payment error code: "
 msgstr "Código de error de pago: "
 
 msgid "Transaction Token error, please contact support center"
-msgstr "Error en el token de transacción, por favor contacta al centro de soporte"
+msgstr ""
+"Error en el token de transacción, por favor contacta al centro de soporte"
 
 msgid "Payment Failed: "
 msgstr "Pago fallido: "
@@ -9572,6 +9585,7 @@ msgstr "Tarifas encadenadas pagadas por"
 
 msgid "Primary Receiver"
 msgstr "Receptor principal"
+
 msgid "No. of Days to Execute Payment to Receiver"
 msgstr "Número de días para ejecutar el pago al receptor"
 
@@ -9596,8 +9610,8 @@ msgstr "Este pedido #%s ha ejecutado el pago al socio"
 msgid ""
 "<strong>Payu</strong> require %s version %s or above. Your current is %s"
 msgstr ""
-"<strong>Payu</strong> requiere la versión %s %s o superior. Tu versión actual "
-"es %s"
+"<strong>Payu</strong> requiere la versión %s %s o superior. Tu versión "
+"actual es %s"
 
 msgid "Merchant ID"
 msgstr "ID de comerciante"
@@ -9663,11 +9677,11 @@ msgid "Enable Creative UI Form (Using Token)"
 msgstr "Habilitar formulario UI creativo (usando token)"
 
 msgid ""
-"Allow you to use token for stripe. Read more about it https://stripe."
-"com/docs/stripe-js/elements/quickstart"
+"Allow you to use token for stripe. Read more about it https://stripe.com/"
+"docs/stripe-js/elements/quickstart"
 msgstr ""
-"Te permite usar tokens para Stripe. Más información en https://stripe."
-"com/docs/stripe-js/elements/quickstart"
+"Te permite usar tokens para Stripe. Más información en https://stripe.com/"
+"docs/stripe-js/elements/quickstart"
 
 msgid "Stripe Token"
 msgstr "Token de Stripe"
@@ -9679,8 +9693,8 @@ msgid ""
 "<strong>TwoCheckout</strong> require %s version %s or above. Your current is "
 "%s"
 msgstr ""
-"<strong>TwoCheckout</strong> requiere la versión %s %s o superior. Tu versión "
-"actual es %s"
+"<strong>TwoCheckout</strong> requiere la versión %s %s o superior. Tu "
+"versión actual es %s"
 
 msgid "Account Number"
 msgstr "Número de cuenta"
@@ -9941,34 +9955,46 @@ msgid "Sunday"
 msgstr "Domingo"
 
 msgid "The <b>%s</b> room has only %s room(s) available on <b>%s</b>."
-msgstr "La habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el <b>%s</b>."
+msgstr ""
+"La habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el <b>%s</"
+"b>."
 
 msgid "This <b>%s</b> room has only %s room(s) available on <b>%s</b>."
-msgstr "Esta habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el <b>%s</b>."
+msgstr ""
+"Esta habitación <b>%s</b> tiene solo %s habitación(es) disponible(s) el "
+"<b>%s</b>."
 
 msgid "This <b>%s</b> rental has only %s rental(s) available on <b>%s</b>."
-msgstr "Este alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</b>."
+msgstr ""
+"Este alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</"
+"b>."
 
 msgid "The <b>%s</b> rental has only %s rental(s) available on <b>%s</b>."
-msgstr "El alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</b>."
+msgstr ""
+"El alquiler <b>%s</b> tiene solo %s alquiler(es) disponible(s) el <b>%s</b>."
 
 msgid "The <b>%s</b> tour has only %s people available on <b>%s</b>."
 msgstr "El tour <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
 
 msgid "This <b>%s</b> tour has only %s people available on <b>%s</b>."
-msgstr "Este tour <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+msgstr ""
+"Este tour <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
 
 msgid "The <b>%s</b> activity has only %s people(s) available on <b>%s</b>."
-msgstr "La actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+msgstr ""
+"La actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
 
 msgid "This <b>%s</b> activity has only %s people(s) available on <b>%s</b>."
-msgstr "Esta actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
+msgstr ""
+"Esta actividad <b>%s</b> tiene solo %s persona(s) disponible(s) el <b>%s</b>."
 
 msgid "The <b>%s</b> car has only %s item(s) available on <b>%s</b>."
-msgstr "El coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
+msgstr ""
+"El coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
 
 msgid "This <b>%s</b> car has only %s item(s) available on <b>%s</b>."
-msgstr "Este coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
+msgstr ""
+"Este coche <b>%s</b> tiene solo %s elemento(s) disponible(s) el <b>%s</b>."
 
 msgid "Traveler Elements"
 msgstr "Elementos de Traveler"
@@ -10010,7 +10036,9 @@ msgid "Add badge"
 msgstr "Agregar insignia"
 
 msgid "ONLY show in Single Service Page and default Modal Checkout"
-msgstr "SOLO mostrar en la Página de Servicio Individual y en el Modal de Pago predeterminado"
+msgstr ""
+"SOLO mostrar en la Página de Servicio Individual y en el Modal de Pago "
+"predeterminado"
 
 msgid "Upsell"
 msgstr "Venta adicional"
@@ -10018,7 +10046,10 @@ msgstr "Venta adicional"
 msgid ""
 "Select items for Upsell (ONLY for the default Modal Checkout Success Page). "
 "Will show only items which belong to the chosen Type Service"
-msgstr "Seleccionar elementos para venta adicional (SOLO para la Página de Éxito del Modal de Pago predeterminado). Solo mostrará elementos que pertenezcan al Tipo de Servicio elegido."
+msgstr ""
+"Seleccionar elementos para venta adicional (SOLO para la Página de Éxito del "
+"Modal de Pago predeterminado). Solo mostrará elementos que pertenezcan al "
+"Tipo de Servicio elegido."
 
 msgid "Search item for Upsell"
 msgstr "Buscar elemento para venta adicional"
@@ -10050,7 +10081,9 @@ msgstr "Valor del descuento"
 msgid ""
 "Price per child. Input number only. No decimal or thousand separator or any "
 "other character"
-msgstr "Precio por niño. Ingresa solo números. Sin decimales, separadores de miles ni ningún otro carácter"
+msgstr ""
+"Precio por niño. Ingresa solo números. Sin decimales, separadores de miles "
+"ni ningún otro carácter"
 
 msgid "Notice: Must be https://..."
 msgstr "Aviso: Debe ser https://..."
@@ -10065,7 +10098,9 @@ msgid "----Select Location----"
 msgstr "----Seleccionar Ubicación----"
 
 msgid "Equipment price (If service is car transfer, price type is fixed only)"
-msgstr "Precio del equipamiento (Si el servicio es traslado en coche, solo precio fijo)"
+msgstr ""
+"Precio del equipamiento (Si el servicio es traslado en coche, solo precio "
+"fijo)"
 
 msgid "By time"
 msgstr "Por tiempo"
@@ -10101,11 +10136,16 @@ msgid ""
 "The average price of hotel. Show only if Theme Options > Hotel Options > "
 "Price show on listing = Avg Price<br/>ON: Automatically<br/>OFF: Input "
 "manually"
-msgstr "El precio promedio del hotel. Mostrar solo si Opciones del Tema > Opciones de Hotel > Mostrar precio en listado = Precio Promedio<br/>ACTIVADO: Automáticamente<br/>DESACTIVADO: Introducir manualmente"
+msgstr ""
+"El precio promedio del hotel. Mostrar solo si Opciones del Tema > Opciones "
+"de Hotel > Mostrar precio en listado = Precio Promedio<br/>ACTIVADO: "
+"Automáticamente<br/>DESACTIVADO: Introducir manualmente"
 
 msgid ""
 "Enter default average price if OFF for Set auto calculation average price"
-msgstr "Introduce el precio promedio predeterminado si está DESACTIVADO para configurar el cálculo automático del precio promedio"
+msgstr ""
+"Introduce el precio promedio predeterminado si está DESACTIVADO para "
+"configurar el cálculo automático del precio promedio"
 
 msgid "No. Bed"
 msgstr "Número de camas"
@@ -10143,7 +10183,9 @@ msgstr "Vista previa de las instalaciones de la habitación"
 msgid ""
 "Upload the hotel room detail facilities preview (for single hotel WPBakery "
 "only)"
-msgstr "Sube la vista previa de las instalaciones detalladas de la habitación del hotel (solo para hotel individual en WPBakery)"
+msgstr ""
+"Sube la vista previa de las instalaciones detalladas de la habitación del "
+"hotel (solo para hotel individual en WPBakery)"
 
 msgid "Number of bathroom"
 msgstr "Número de baños"
@@ -10154,7 +10196,9 @@ msgstr "Número de baños"
 msgid ""
 "You can add unlimited facilities. This option can be used for only WPBakery "
 "Single Hotel with Room Layout "
-msgstr "Puedes agregar instalaciones ilimitadas. Esta opción solo se puede usar con el diseño de habitación de hotel individual en WPBakery"
+msgstr ""
+"Puedes agregar instalaciones ilimitadas. Esta opción solo se puede usar con "
+"el diseño de habitación de hotel individual en WPBakery"
 
 msgid "Arabic"
 msgstr "Árabe"
@@ -10165,12 +10209,16 @@ msgstr "Aviso"
 msgid ""
 "Kindly install Theme Settings > Extensions > Traveler Social Login and setup "
 "in here"
-msgstr "Por favor, instala Configuración del Tema > Extensiones > Inicio de Sesión Social de Traveler y configúralo aquí"
+msgstr ""
+"Por favor, instala Configuración del Tema > Extensiones > Inicio de Sesión "
+"Social de Traveler y configúralo aquí"
 
 msgid ""
 "Document get map API key https://travelerwp.com/documents/other-features/map-"
 "api/"
-msgstr "Documentación para obtener la clave API del mapa https://travelerwp.com/documents/other-features/map-api/"
+msgstr ""
+"Documentación para obtener la clave API del mapa https://travelerwp.com/"
+"documents/other-features/map-api/"
 
 msgid "Whitelabel Subdomain"
 msgstr "Subdominio de Marca Blanca"
@@ -10260,7 +10308,9 @@ msgid " Show information contact"
 msgstr "Mostrar información de contacto"
 
 msgid "ON: Show information contact box in sidebar single activity"
-msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de actividades individuales"
+msgstr ""
+"ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral "
+"de actividades individuales"
 
 msgid "Advance search"
 msgstr "Búsqueda avanzada"
@@ -10292,7 +10342,9 @@ msgstr "Ícono de Duración de Actividad Individual"
 msgid ""
 "Example: <i class=\"lar la-clock\"></i> : Link search icon : https://icons8."
 "com/line-awesome"
-msgstr "Ejemplo: <i class=\"lar la-clock\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+msgstr ""
+"Ejemplo: <i class=\"lar la-clock\"></i> : Enlace para buscar ícono: https://"
+"icons8.com/line-awesome"
 
 msgid "Icon activity cancel single"
 msgstr "Ícono de cancelación de actividad individual"
@@ -10300,23 +10352,29 @@ msgstr "Ícono de cancelación de actividad individual"
 msgid ""
 "Example: <i class=\"las la-ban\"></i> : Link search icon : https://icons8."
 "com/line-awesome"
-msgstr "Ejemplo: <i class=\"las la-ban\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+msgstr ""
+"Ejemplo: <i class=\"las la-ban\"></i> : Enlace para buscar ícono: https://"
+"icons8.com/line-awesome"
 
 msgid "Icon Group Size Single Activity"
 msgstr "Ícono del Tamaño del Grupo para Actividad Individual"
 
 msgid ""
-"Example: <i class=\"las la-user-friends\"></i> : Link search icon : https:"
-"//icons8.com/line-awesome"
-msgstr "Ejemplo: <i class=\"las la-user-friends\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+"Example: <i class=\"las la-user-friends\"></i> : Link search icon : https://"
+"icons8.com/line-awesome"
+msgstr ""
+"Ejemplo: <i class=\"las la-user-friends\"></i> : Enlace para buscar ícono: "
+"https://icons8.com/line-awesome"
 
 msgid "Icon Language Single Activity"
 msgstr "Ícono de Idioma para Actividad Individual"
 
 msgid ""
-"Example: <i class=\"las la-language\"></i> : Link search icon : https:"
-"//icons8.com/line-awesome"
-msgstr "Ejemplo: <i class=\"las la-language\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+"Example: <i class=\"las la-language\"></i> : Link search icon : https://"
+"icons8.com/line-awesome"
+msgstr ""
+"Ejemplo: <i class=\"las la-language\"></i> : Enlace para buscar ícono: "
+"https://icons8.com/line-awesome"
 
 msgid "Show Activity Nearby"
 msgstr "Mostrar Actividades Cercanas"
@@ -10327,7 +10385,9 @@ msgstr "ACTIVADO: Mostrar actividades cercanas en el mapa"
 msgid ""
 "Setting Form Field(Only use for WPBakery Page Builder element [ST] Slider "
 "Tour With Search Form style 2)"
-msgstr "Configuración de Campo del Formulario (Solo usar con el elemento de WPBakery [ST] Slider Tour con estilo de Formulario de Búsqueda 2)"
+msgstr ""
+"Configuración de Campo del Formulario (Solo usar con el elemento de WPBakery "
+"[ST] Slider Tour con estilo de Formulario de Búsqueda 2)"
 
 msgid "Display fields in the form(Maximum of 4 field)"
 msgstr "Mostrar campos en el formulario (Máximo 4 campos)"
@@ -10342,7 +10402,9 @@ msgid "Guests"
 msgstr "Huéspedes"
 
 msgid "ON: Show information contact box in sidebar single tour"
-msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de tours individuales"
+msgstr ""
+"ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral "
+"de tours individuales"
 
 msgid "Accompanied service"
 msgstr "Servicio acompañado"
@@ -10357,9 +10419,11 @@ msgid "Icon Tour Type Single Tour"
 msgstr "Ícono del Tipo de Tour Individual"
 
 msgid ""
-"Example: <i class=\"las la-shoe-prints\"></i> : Link search icon : https:"
-"//icons8.com/line-awesome"
-msgstr "Ejemplo: <i class=\"las la-shoe-prints\"></i> : Enlace para buscar ícono: https://icons8.com/line-awesome"
+"Example: <i class=\"las la-shoe-prints\"></i> : Link search icon : https://"
+"icons8.com/line-awesome"
+msgstr ""
+"Ejemplo: <i class=\"las la-shoe-prints\"></i> : Enlace para buscar ícono: "
+"https://icons8.com/line-awesome"
 
 msgid "Icon Group size Single Tour"
 msgstr "Ícono del Tamaño del Grupo para Tour Individual"
@@ -10379,12 +10443,21 @@ msgstr "Correo al cliente normal (al registrarse)"
 msgid ""
 "Email confirm to customer after booking - for Modal Checkout Bank Transfer "
 "only"
-msgstr "Correo de confirmación al cliente después de la reserva - Solo para Transferencia Bancaria en el Modal de Pago"
-msgid "The unit to calculate the price of car<br/>Day: The price is calculated according to day<br/>Hour: The price is calculated according to hour<br/>"
-msgstr "La unidad para calcular el precio del auto<br/>Día: El precio se calcula por día<br/>Hora: El precio se calcula por hora<br/>"
+msgstr ""
+"Correo de confirmación al cliente después de la reserva - Solo para "
+"Transferencia Bancaria en el Modal de Pago"
+
+msgid ""
+"The unit to calculate the price of car<br/>Day: The price is calculated "
+"according to day<br/>Hour: The price is calculated according to hour<br/>"
+msgstr ""
+"La unidad para calcular el precio del auto<br/>Día: El precio se calcula por "
+"día<br/>Hora: El precio se calcula por hora<br/>"
 
 msgid "ON: Show information contact box in sidebar single car"
-msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de autos individuales"
+msgstr ""
+"ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral "
+"de autos individuales"
 
 msgid "Show Car Nearby"
 msgstr "Mostrar autos cercanos"
@@ -10399,7 +10472,9 @@ msgid "Check availability in search results."
 msgstr "Verificar la disponibilidad en los resultados de búsqueda."
 
 msgid "ON: Show information contact box in sidebar single rental"
-msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de alquileres individuales"
+msgstr ""
+"ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral "
+"de alquileres individuales"
 
 msgid "Show Rental Nearby"
 msgstr "Mostrar alquileres cercanos"
@@ -10423,31 +10498,46 @@ msgid "Select Blog Single style"
 msgstr "Selecciona el estilo del blog individual"
 
 msgid "Default Style(Modern if Bloglist Modern Style)"
-msgstr "Estilo predeterminado (Moderno si el estilo de lista de blog es Moderno)"
+msgstr ""
+"Estilo predeterminado (Moderno si el estilo de lista de blog es Moderno)"
 
 msgid "Solo Style"
 msgstr "Estilo solo"
 
 msgid "Show Calculated Ajax Price on Single Service Page"
-msgstr "Mostrar el precio calculado con Ajax en la página de servicio individual"
+msgstr ""
+"Mostrar el precio calculado con Ajax en la página de servicio individual"
 
-msgid "ON: The price automatically changes when editing the booking conditions in the sidebar"
-msgstr "ACTIVADO: El precio cambia automáticamente al editar las condiciones de reserva en la barra lateral"
+msgid ""
+"ON: The price automatically changes when editing the booking conditions in "
+"the sidebar"
+msgstr ""
+"ACTIVADO: El precio cambia automáticamente al editar las condiciones de "
+"reserva en la barra lateral"
 
-msgid "Enable captcha for booking form. It is applied for normal booking form : link https://www.google.com/recaptcha/admin"
-msgstr "Habilitar captcha para el formulario de reserva. Se aplica al formulario de reserva normal: enlace https://www.google.com/recaptcha/admin"
+msgid ""
+"Enable captcha for booking form. It is applied for normal booking form : "
+"link https://www.google.com/recaptcha/admin"
+msgstr ""
+"Habilitar captcha para el formulario de reserva. Se aplica al formulario de "
+"reserva normal: enlace https://www.google.com/recaptcha/admin"
 
 msgid "Site key"
 msgstr "Clave del sitio"
 
-msgid "Use this Google reCAPTCHA V3 site key in the HTML code your site serves to users. : https://www.google.com/recaptcha/admin"
-msgstr "Utiliza esta clave de sitio de Google reCAPTCHA V3 en el código HTML que tu sitio proporciona a los usuarios. : https://www.google.com/recaptcha/admin"
+msgid ""
+"Use this Google reCAPTCHA V3 site key in the HTML code your site serves to "
+"users. : https://www.google.com/recaptcha/admin"
+msgstr ""
+"Utiliza esta clave de sitio de Google reCAPTCHA V3 en el código HTML que tu "
+"sitio proporciona a los usuarios. : https://www.google.com/recaptcha/admin"
 
 msgid "Secret key"
 msgstr "Clave secreta"
 
 msgid "Use this secret key for communication between your site and reCAPTCHA"
-msgstr "Utiliza esta clave secreta para la comunicación entre tu sitio y reCAPTCHA"
+msgstr ""
+"Utiliza esta clave secreta para la comunicación entre tu sitio y reCAPTCHA"
 
 msgid "ST Form Builder: Select form for checkout template"
 msgstr "ST Form Builder: Selecciona el formulario para la plantilla de pago"
@@ -10455,11 +10545,21 @@ msgstr "ST Form Builder: Selecciona el formulario para la plantilla de pago"
 msgid "Leave none to default field"
 msgstr "Déjalo en blanco para usar el campo predeterminado"
 
-msgid "Enable/disable Woocommerce Checkout. Follow this document to set required pages: https://travelerwp.com/how-to-set-up-checkout-options-and-payment-methods/"
-msgstr "Habilitar/deshabilitar el pago de WooCommerce. Sigue este documento para configurar las páginas requeridas: https://travelerwp.com/how-to-set-up-checkout-options-and-payment-methods/"
+msgid ""
+"Enable/disable Woocommerce Checkout. Follow this document to set required "
+"pages: https://travelerwp.com/how-to-set-up-checkout-options-and-payment-"
+"methods/"
+msgstr ""
+"Habilitar/deshabilitar el pago de WooCommerce. Sigue este documento para "
+"configurar las páginas requeridas: https://travelerwp.com/how-to-set-up-"
+"checkout-options-and-payment-methods/"
 
-msgid "If enabled, the customer cannot cancel the booking in the User Dashboard. Only the admin can cancel the whole order in WPAdmin."
-msgstr "Si está habilitado, el cliente no puede cancelar la reserva en el Panel del Usuario. Solo el administrador puede cancelar el pedido completo en WPAdmin."
+msgid ""
+"If enabled, the customer cannot cancel the booking in the User Dashboard. "
+"Only the admin can cancel the whole order in WPAdmin."
+msgstr ""
+"Si está habilitado, el cliente no puede cancelar la reserva en el Panel del "
+"Usuario. Solo el administrador puede cancelar el pedido completo en WPAdmin."
 
 msgid "Style location"
 msgstr "Estilo de ubicación"
@@ -10480,7 +10580,9 @@ msgid "Review option"
 msgstr "Opción de reseña"
 
 msgid "ON: Show information contact box in sidebar single hotel"
-msgstr "ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral de hoteles individuales"
+msgstr ""
+"ACTIVADO: Mostrar el cuadro de información de contacto en la barra lateral "
+"de hoteles individuales"
 
 msgid "Show Hotel Nearby"
 msgstr "Mostrar hoteles cercanos"
@@ -10509,8 +10611,14 @@ msgstr "Estilo Encabezado Ligero 2"
 msgid "Header Style solo"
 msgstr "Estilo de Encabezado solo"
 
-msgid "Using for build page with Theme style modern. If the website is being built by WPBakery Page Builder then when you select to Elementor, so need build page again. And same to vice versa"
-msgstr "Usado para construir la página con el estilo moderno del tema. Si el sitio web se construye con WPBakery Page Builder y cambias a Elementor, necesitarás construir la página nuevamente, y viceversa."
+msgid ""
+"Using for build page with Theme style modern. If the website is being built "
+"by WPBakery Page Builder then when you select to Elementor, so need build "
+"page again. And same to vice versa"
+msgstr ""
+"Usado para construir la página con el estilo moderno del tema. Si el sitio "
+"web se construye con WPBakery Page Builder y cambias a Elementor, "
+"necesitarás construir la página nuevamente, y viceversa."
 
 msgid "Style item author page"
 msgstr "Estilo de página de autor"
@@ -10549,7 +10657,9 @@ msgid "Banner transparent"
 msgstr "Banner transparente"
 
 msgid "Banner settings hotel transparent - Header style 4(MOD) only"
-msgstr "Configuración del banner del hotel transparente - Solo estilo de encabezado 4 (MOD)"
+msgstr ""
+"Configuración del banner del hotel transparente - Solo estilo de encabezado "
+"4 (MOD)"
 
 msgid "Menu transparent"
 msgstr "Menú transparente"
@@ -10562,6 +10672,7 @@ msgstr "Habilitar Mega Menú - Construir con WPBakery / Elementor"
 
 msgid "Footer"
 msgstr "Pie de página"
+
 msgid "Copyright Text"
 msgstr "Texto de derechos de autor"
 
@@ -10575,12 +10686,17 @@ msgid ""
 "Change Logo. Please also upload to Appearance > Customize > Site Identity > "
 "Logo. For site icon, upload Appearance > Customize > Site Identity > Site "
 "Icon"
-msgstr "Cambiar logo. También súbelo en Apariencia > Personalizar > Identidad del sitio > Logo. Para el ícono del sitio, súbelo en Apariencia > Personalizar > Identidad del sitio > Ícono del sitio."
+msgstr ""
+"Cambiar logo. También súbelo en Apariencia > Personalizar > Identidad del "
+"sitio > Logo. Para el ícono del sitio, súbelo en Apariencia > Personalizar > "
+"Identidad del sitio > Ícono del sitio."
 
 msgid ""
 "Change Logo Mobile. Please also upload to Appearance > Customize > Site "
 "Identity > Logo Mobile"
-msgstr "Cambiar logo móvil. También súbelo en Apariencia > Personalizar > Identidad del sitio > Logo móvil."
+msgstr ""
+"Cambiar logo móvil. También súbelo en Apariencia > Personalizar > Identidad "
+"del sitio > Logo móvil."
 
 msgid "404 Style Layout"
 msgstr "Estilo de diseño 404"
@@ -10764,7 +10880,8 @@ msgid "you can answer here "
 msgstr "puedes responder aquí"
 
 msgid " . Or going to the Account > Message Administration to follow."
-msgstr " . O dirígete a Cuenta > Administración de mensajes para dar seguimiento."
+msgstr ""
+" . O dirígete a Cuenta > Administración de mensajes para dar seguimiento."
 
 msgid "Your payment is incomplete."
 msgstr "Tu pago está incompleto."
@@ -10820,7 +10937,9 @@ msgstr "Actividad excluida"
 msgid ""
 "You can add unlimited facilities. This option can be used for only WPBakery "
 "Single Hotel with Room Layout"
-msgstr "Puedes agregar instalaciones ilimitadas. Esta opción solo puede usarse en el diseño de habitación de hotel con WPBakery."
+msgstr ""
+"Puedes agregar instalaciones ilimitadas. Esta opción solo puede usarse en el "
+"diseño de habitación de hotel con WPBakery."
 
 msgid "complete"
 msgstr "completado"
@@ -10835,7 +10954,8 @@ msgid "Confirm reset password"
 msgstr "Confirmar restablecimiento de contraseña"
 
 msgid "Someone has requested a password reset for the following account:"
-msgstr "Alguien ha solicitado restablecer la contraseña para la siguiente cuenta:"
+msgstr ""
+"Alguien ha solicitado restablecer la contraseña para la siguiente cuenta:"
 
 msgid "Site Name"
 msgstr "Nombre del sitio"
@@ -10871,7 +10991,9 @@ msgid "Style default"
 msgstr "Estilo predeterminado"
 
 msgid "Select defaul style to display in the search result page"
-msgstr "Selecciona el estilo predeterminado para mostrar en la página de resultados de búsqueda."
+msgstr ""
+"Selecciona el estilo predeterminado para mostrar en la página de resultados "
+"de búsqueda."
 
 msgid "Create filter option"
 msgstr "Crear opción de filtro"
@@ -10892,7 +11014,9 @@ msgid "Car Search Result Settings"
 msgstr "Configuración de resultados de búsqueda de autos"
 
 msgid "Select default style to display in the search result page"
-msgstr "Selecciona el estilo predeterminado para mostrar en la página de resultados de búsqueda."
+msgstr ""
+"Selecciona el estilo predeterminado para mostrar en la página de resultados "
+"de búsqueda."
 
 msgid "Car Transfer Search Result Settings"
 msgstr "Configuración de resultados de búsqueda de transferencias de autos"
@@ -10962,6 +11086,7 @@ msgstr "Ubicación de la habitación del hotel"
 
 msgid "Real hotel room address"
 msgstr "Dirección real de la habitación del hotel"
+
 msgid "Category Color"
 msgstr "Color de la categoría"
 
@@ -11092,7 +11217,8 @@ msgid "Have %d new user partner need check for approved."
 msgstr "Hay %d nuevo socio usuario que necesita ser aprobado."
 
 msgid "Have %d new user partner update certificates need check for approved."
-msgstr "Hay %d nuevo socio usuario que actualizó certificados y necesita aprobación."
+msgstr ""
+"Hay %d nuevo socio usuario que actualizó certificados y necesita aprobación."
 
 msgid "New user registration on your site %s:"
 msgstr "Nuevo registro de usuario en tu sitio %s:"
@@ -11137,11 +11263,11 @@ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr "Debes estar <a href=\"%s\">conectado</a> para dejar un comentario."
 
 msgid ""
-"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a href=\"%4$s\">"
-"Log out?</a>"
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a "
+"href=\"%4$s\">Log out?</a>"
 msgstr ""
-"<a href=\"%1$s\" aria-label=\"%2$s\">Conectado como %3$s</a>. <a href=\"%4$s\">"
-"¿Cerrar sesión?</a>"
+"<a href=\"%1$s\" aria-label=\"%2$s\">Conectado como %3$s</a>. <a "
+"href=\"%4$s\">¿Cerrar sesión?</a>"
 
 msgid "Logged in as %s. Edit your profile."
 msgstr "Conectado como %s. Edita tu perfil."
@@ -11483,7 +11609,8 @@ msgid "Number show"
 msgstr "Número mostrado"
 
 msgid "Enter number show room, example -1 for show all"
-msgstr "Introducir número de habitaciones a mostrar, ejemplo -1 para mostrar todas"
+msgstr ""
+"Introducir número de habitaciones a mostrar, ejemplo -1 para mostrar todas"
 
 msgid "Style Options"
 msgstr "Opciones de estilo"
@@ -11924,7 +12051,8 @@ msgid "Link Relationship (XFN)"
 msgstr "Relación del enlace (XFN)"
 
 msgid ""
-"The description will be displayed in the menu if the current theme supports it."
+"The description will be displayed in the menu if the current theme supports "
+"it."
 msgstr "La descripción se mostrará en el menú si el tema actual lo admite."
 
 msgid "Original: %s"
@@ -12000,7 +12128,8 @@ msgid "Please choose return date"
 msgstr "Por favor, selecciona la fecha de regreso"
 
 msgid "There was an error adding to the cart. Please contact to admin"
-msgstr "Hubo un error al agregar al carrito. Por favor, contacta al administrador"
+msgstr ""
+"Hubo un error al agregar al carrito. Por favor, contacta al administrador"
 
 msgid "No Flight found"
 msgstr "No se encontró ningún vuelo"
@@ -12164,6 +12293,7 @@ msgstr "Compañía aérea de la escala"
 
 msgid "Choose a airline company in stop"
 msgstr "Elige una compañía aérea para la escala"
+
 msgid "Total time to stop"
 msgstr "Tiempo total hasta la escala"
 
@@ -12561,3 +12691,3584 @@ msgstr "Sin escalas"
 
 msgid "1 Stop"
 msgstr "1 escala"
+
+msgid "2 Stops"
+msgstr "2 Escalas"
+
+msgid "Update Search"
+msgstr "Actualizar búsqueda"
+
+msgid "Change search"
+msgstr "Cambiar búsqueda"
+
+msgid ""
+"\n"
+"Arguments: "
+msgstr ""
+"\n"
+"Argumentos: "
+
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "activado"
+
+msgid "Hotel Alone Setting"
+msgstr "Configuración de Hotel Alone"
+
+msgid "Options Page Header"
+msgstr "Opciones del encabezado de página"
+
+msgid "Custom Header"
+msgstr "Encabezado personalizado"
+
+msgid "Custom Menu"
+msgstr "Menú personalizado"
+
+msgid "Options Logo"
+msgstr "Opciones del logo"
+
+msgid "Custom Logo"
+msgstr "Logo personalizado"
+
+msgid "This allow you to change logo"
+msgstr "Esto permite cambiar el logo"
+
+msgid "Options Footer"
+msgstr "Opciones del pie de página"
+
+msgid "Custom Footer"
+msgstr "Pie de página personalizado"
+
+msgid "Include page to Footer"
+msgstr "Incluir página en el pie de página"
+
+msgid "Post ID"
+msgstr "ID del post"
+
+msgid "Post Title"
+msgstr "Título del post"
+
+msgid "Post Name"
+msgstr "Nombre del post"
+
+msgid "Post Date"
+msgstr "Fecha del post"
+
+msgid "Last Modified Date"
+msgstr "Última fecha de modificación"
+
+msgid "Post Parent"
+msgstr "Post principal"
+
+msgid "Search Results for:"
+msgstr "Resultados de búsqueda para:"
+
+msgid "Post Tagged with:"
+msgstr "Post etiquetado con:"
+
+msgid "Author Archive"
+msgstr "Archivo del autor"
+
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+msgid "Page"
+msgstr "Página"
+
+msgid ""
+"Our system does not find any rooms from your searching. You can change "
+"search feature now."
+msgstr ""
+"Nuestro sistema no encontró habitaciones con tu búsqueda. Puedes cambiar "
+"los criterios de búsqueda ahora."
+
+msgid "Please book at least %d day(s) in total."
+msgstr "Por favor reserva al menos %d día(s) en total."
+
+msgid "Hotel Alone"
+msgstr "Hotel Alone"
+
+msgid "Loading ..."
+msgstr "Cargando ..."
+
+msgid "Load more"
+msgstr "Cargar más"
+
+msgid "No more"
+msgstr "No hay más"
+
+msgid "[Hotel Single] About"
+msgstr "[Hotel Individual] Acerca de"
+
+msgid "Icon and information"
+msgstr "Ícono e información"
+
+msgid "Choose a icon"
+msgstr "Elegir un ícono"
+
+msgid "Enter description"
+msgstr "Ingresar descripción"
+
+msgid "Enter a link"
+msgstr "Ingresar un enlace"
+
+msgid "Enter a link for element"
+msgstr "Ingresar un enlace para el elemento"
+
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"Estiliza elementos específicos de contenido de forma diferente: añade un "
+"nombre de clase y refiérete a él en el CSS personalizado."
+
+msgid "[Hotel Single] ST Banner Single Room"
+msgstr "[Hotel Individual] Banner Habitación Individual"
+
+msgid "ST Banner Single Room"
+msgstr "Banner Habitación Individual"
+
+msgid "Style Slide"
+msgstr "Estilo del slider"
+
+msgid "Style Image"
+msgstr "Estilo de la imagen"
+
+msgid "#scroll"
+msgstr "#desplazar"
+
+msgid "Enter a ID for scroll"
+msgstr "Ingresar un ID para desplazamiento"
+
+msgid "[Hotel Single] ST Blog"
+msgstr "[Hotel Individual] Blog"
+
+msgid "Carousel"
+msgstr "Carrusel"
+
+msgid "Isotope"
+msgstr "Isótopo"
+
+msgid "Style Hotel activity"
+msgstr "Estilo de actividad del hotel"
+
+msgid "Number Post Items"
+msgstr "Número de elementos de post"
+
+msgid "Enter number post items"
+msgstr "Ingresar número de elementos del post"
+
+msgid "Show Load More"
+msgstr "Mostrar botón de Cargar más"
+
+msgid "Choose yes to show load more button in type isotope"
+msgstr "Elige 'sí' para mostrar el botón Cargar más en el tipo isótopo"
+
+msgid "[Hotel Single] ST Booking Room"
+msgstr "[Hotel Individual] Reservar Habitación"
+
+msgid "ST Booking Room"
+msgstr "Reservar Habitación"
+
+msgid "Reservation Hotline"
+msgstr "Línea de reservas"
+
+msgid "Hotel Room Fields Search"
+msgstr "Campos de búsqueda de habitaciones de hotel"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Field Attribute"
+msgstr "Atributo del campo"
+
+msgid "1 column"
+msgstr "1 columna"
+
+msgid "2 columns"
+msgstr "2 columnas"
+
+msgid "5 columns"
+msgstr "5 columnas"
+
+msgid "6 columns"
+msgstr "6 columnas"
+
+msgid "7 columns"
+msgstr "7 columnas"
+
+msgid "8 columns"
+msgstr "8 columnas"
+
+msgid "9 columns"
+msgstr "9 columnas"
+
+msgid "10 columns"
+msgstr "10 columnas"
+
+msgid "11 columns"
+msgstr "11 columnas"
+
+msgid "12 columns"
+msgstr "12 columnas"
+
+msgid "[Hotel Single] ST Breadcrumb"
+msgstr "[Hotel Individual] Migas de Pan"
+
+msgid "ST Breadcrumb"
+msgstr "Migas de Pan"
+
+msgid "Title Source"
+msgstr "Fuente del Título"
+
+msgid "Select title source"
+msgstr "Seleccionar fuente del título"
+
+msgid "Custom Title"
+msgstr "Título Personalizado"
+
+msgid "Post or page,... title"
+msgstr "Título de publicación o página,..."
+
+msgid "Text Color"
+msgstr "Color del Texto"
+
+msgid "Choose color for text"
+msgstr "Elige el color para el texto"
+
+msgid "ST Clients"
+msgstr "Clientes ST"
+
+msgid "List clients"
+msgstr "Lista de clientes"
+
+msgid "No of items"
+msgstr "Número de elementos"
+
+msgid "Number item to display in element"
+msgstr "Número de elementos a mostrar en el elemento"
+
+msgid "3 items"
+msgstr "3 elementos"
+
+msgid "4 items"
+msgstr "4 elementos"
+
+msgid "List Clients"
+msgstr "Lista de Clientes"
+
+msgid "Upload an image for logo"
+msgstr "Sube una imagen para el logo"
+
+msgid "Link Social"
+msgstr "Enlace Social"
+
+msgid "Insert a link for client"
+msgstr "Inserta un enlace para el cliente"
+
+msgid "[Hotel Single] ST Form Search Room"
+msgstr "[Hotel Individual] Formulario de Búsqueda de Habitaciones"
+
+msgid "ST Form Search Room"
+msgstr "Formulario de Búsqueda de Habitaciones"
+
+msgid "Enter List of Hotels"
+msgstr "Ingresa la Lista de Hoteles"
+
+msgid "[Hotel Single] ST Hotel Info"
+msgstr "[Hotel Individual] Información del Hotel"
+
+msgid "Add info for hotel"
+msgstr "Agregar información para el hotel"
+
+msgid "Upload an image for logo of hotel"
+msgstr "Sube una imagen para el logo del hotel"
+
+msgid "Enter a text for sub title"
+msgstr "Ingresa un texto para el subtítulo"
+
+msgid "5 stars"
+msgstr "5 estrellas"
+
+msgid "4 stars"
+msgstr "4 estrellas"
+
+msgid "3 stars"
+msgstr "3 estrellas"
+
+msgid "2 stars"
+msgstr "2 estrellas"
+
+msgid "1 stars"
+msgstr "1 estrella"
+
+msgid "ST List Carousel Hotel Room"
+msgstr "Carrusel de Lista de Habitaciones del Hotel ST"
+
+msgid "List Style Options"
+msgstr "Opciones de Estilo de Lista"
+
+msgid "Number Items"
+msgstr "Número de Elementos"
+
+msgid "Number services"
+msgstr "Número de servicios"
+
+msgid "2 Item"
+msgstr "2 elementos"
+
+msgid "3 Item"
+msgstr "3 elementos"
+
+msgid "4 Item"
+msgstr "4 elementos"
+
+msgid "6 Item"
+msgstr "6 elementos"
+
+msgid "service"
+msgstr "servicio"
+
+msgid "[Hotel Single] ST List Offers"
+msgstr "[Hotel Individual] Lista de Ofertas"
+
+msgid "List offers"
+msgstr "Lista de Ofertas"
+
+msgid "Enter a text for description"
+msgstr "Ingresa un texto para la descripción"
+
+msgid "List Offer"
+msgstr "Lista de Ofertas"
+
+msgid "Offer Image"
+msgstr "Imagen de la Oferta"
+
+msgid "Image of this offer"
+msgstr "Imagen de esta oferta"
+
+msgid "Name of offer"
+msgstr "Nombre de la oferta"
+
+msgid "Description to this offer"
+msgstr "Descripción de esta oferta"
+
+msgid "Price per person"
+msgstr "Precio por persona"
+
+msgid "Custom link of service"
+msgstr "Enlace personalizado del servicio"
+
+msgid "[Hotel Single] ST Related Room"
+msgstr "[Hotel Individual] Habitación Relacionada"
+
+msgid "Related Room"
+msgstr "Habitación Relacionada"
+
+msgid "[Hotel Single] ST Reservation Contact"
+msgstr "[Hotel Individual] Contacto de Reservas"
+
+msgid "Enter a phone"
+msgstr "Ingresa un teléfono"
+
+msgid "Enter a email"
+msgstr "Ingresa un correo electrónico"
+
+msgid "[Hotel Single] ST Reservation Content"
+msgstr "[Hotel Individual] Contenido de Reservas"
+
+msgid "ST Reservation Content"
+msgstr "Contenido de Reservas"
+
+msgid "Style Grid"
+msgstr "Estilo de Rejilla"
+
+msgid "[Hotel Single] ST Reservation Room"
+msgstr "[Hotel Individual] Reservar Habitación"
+
+msgid "ST Reservation Room"
+msgstr "Reservar Habitación"
+
+msgid "[Hotel Single] ST Room Discount By Day Info"
+msgstr "[Hotel Individual] Información de Descuento por Día en Habitación"
+
+msgid "Room information"
+msgstr "Información de la Habitación"
+
+msgid "Room Extra Service Information"
+msgstr "Información de Servicios Extra de la Habitación"
+
+msgid "[Hotel Single] ST Room Other Facility Info"
+msgstr "[Hotel Individual] Información de Otras Instalaciones de la Habitación"
+
+msgid "Number item/row "
+msgstr "Número de elementos/fila"
+
+msgid "[Hotel Single] ST Room Check In/Out Info"
+msgstr "[Hotel Individual] Información de Check-in/Check-out de la Habitación"
+
+msgid "[Hotel Single] ST Room Info"
+msgstr "[Hotel Individual] Información de la Habitación"
+
+msgid "[Hotel Single] ST Room Meta"
+msgstr "[Hotel Individual] Metadatos de la Habitación"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Select a meta"
+msgstr "Selecciona un metadato"
+
+msgid "Room Description"
+msgstr "Descripción de la Habitación"
+
+msgid "[Hotel Single] ST Room Taxonomy Info"
+msgstr "[Hotel Individual] Información de Taxonomía de la Habitación"
+
+msgid "Choose taxonomy "
+msgstr "Selecciona una taxonomía"
+
+msgid "ST Share"
+msgstr "Compartir ST"
+
+msgid "Share Service"
+msgstr "Servicio de Compartir"
+
+msgid "[Hotel Single] ST Signature"
+msgstr "[Hotel Individual] Firma ST"
+
+msgid "Create signature"
+msgstr "Crear firma"
+
+msgid "Signature Image"
+msgstr "Imagen de la Firma"
+
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+msgid "Enter a name"
+msgstr "Ingresa un nombre"
+
+msgid "Enter position"
+msgstr "Ingresa un puesto"
+
+msgid "Signature Align"
+msgstr "Alineación de la Firma"
+
+msgid "Select a align"
+msgstr "Selecciona una alineación"
+
+msgid "[Hotel Single] Slider"
+msgstr "[Hotel Individual] Carrusel"
+
+msgid "Create slider"
+msgstr "Crear carrusel"
+
+msgid "Style Option"
+msgstr "Opción de Estilo"
+
+msgid "Input a text for title"
+msgstr "Ingresa un texto para el título"
+
+msgid "Input a text for sub title"
+msgstr "Ingresa un texto para el subtítulo"
+
+msgid "Link ViewMore"
+msgstr "Enlace Ver Más"
+
+msgid "List Feature Images"
+msgstr "Lista de Imágenes Destacadas"
+
+msgid "Text scroll 1"
+msgstr "Texto de desplazamiento 1"
+
+msgid "Enter a text for scroll"
+msgstr "Ingresa un texto para el desplazamiento"
+
+msgid "Text scroll 2"
+msgstr "Texto de desplazamiento 2"
+
+msgid "ST Socials"
+msgstr "Redes Sociales ST"
+
+msgid "List socials"
+msgstr "Lista de redes sociales"
+
+msgid "Align"
+msgstr "Alineación"
+
+msgid "Select a style"
+msgstr "Selecciona un estilo"
+
+msgid "Show Follow us text"
+msgstr "Mostrar texto 'Síguenos'"
+
+msgid "List Socials"
+msgstr "Lista de Redes Sociales"
+
+msgid "Insert a link for social"
+msgstr "Inserta un enlace para una red social"
+
+msgid "ST Special Services"
+msgstr "Servicios Especiales ST"
+
+msgid "List our services"
+msgstr "Lista de nuestros servicios"
+
+msgid "Style 1 (carousel)"
+msgstr "Estilo 1 (carrusel)"
+
+msgid "List Services"
+msgstr "Lista de Servicios"
+
+msgid "Service Image"
+msgstr "Imagen del Servicio"
+
+msgid "Image of this service"
+msgstr "Imagen de este servicio"
+
+msgid "Description to this service"
+msgstr "Descripción de este servicio"
+
+msgid "[Hotel Single] ST Testimonials"
+msgstr "[Hotel Individual] Testimonios ST"
+
+msgid "Customer review"
+msgstr "Reseña del Cliente"
+
+msgid "Style 1 (full width)"
+msgstr "Estilo 1 (ancho completo)"
+
+msgid "Style 2 (small)"
+msgstr "Estilo 2 (pequeño)"
+
+msgid "Show Navigation"
+msgstr "Mostrar Navegación"
+
+msgid "Show navigation for slide"
+msgstr "Mostrar navegación para el carrusel"
+
+msgid "Show Pagination"
+msgstr "Mostrar Paginación"
+
+msgid "Show pagination for slide"
+msgstr "Mostrar paginación para el carrusel"
+
+msgid "Version Style"
+msgstr "Estilo de la Versión"
+
+msgid "List Reviews"
+msgstr "Lista de Reseñas"
+
+msgid "Name of customer"
+msgstr "Nombre del cliente"
+
+msgid "Position of customer"
+msgstr "Puesto del cliente"
+
+msgid "Upload avatar for customer"
+msgstr "Subir avatar del cliente"
+
+msgid "Content Review"
+msgstr "Contenido de la Reseña"
+
+msgid "Review Stars"
+msgstr "Estrellas de la Reseña"
+
+msgid "ST Title"
+msgstr "Título ST"
+
+msgid "Customize text"
+msgstr "Personalizar texto"
+
+msgid "Enter a sub title"
+msgstr "Ingresa un subtítulo"
+
+msgid "Show Separator"
+msgstr "Mostrar Separador"
+
+msgid "Heading 1"
+msgstr "Encabezado 1"
+
+msgid "Heading 2"
+msgstr "Encabezado 2"
+
+msgid "Heading 3"
+msgstr "Encabezado 3"
+
+msgid "Heading 4"
+msgstr "Encabezado 4"
+
+msgid "Heading 5"
+msgstr "Encabezado 5"
+
+msgid "Heading 6"
+msgstr "Encabezado 6"
+
+msgid "Font Size(title)"
+msgstr "Tamaño de Fuente (título)"
+
+msgid "Line Height(title)"
+msgstr "Altura de Línea (título)"
+
+msgid "Font Weight(title)"
+msgstr "Peso de Fuente (título)"
+
+msgid "100"
+msgstr "100"
+
+msgid "200"
+msgstr "200"
+
+msgid "300"
+msgstr "300"
+
+msgid "400"
+msgstr "400"
+
+msgid "500"
+msgstr "500"
+
+msgid "600"
+msgstr "600"
+
+msgid "700"
+msgstr "700"
+
+msgid "800"
+msgstr "800"
+
+msgid "900"
+msgstr "900"
+
+msgid "Bold"
+msgstr "Negrita"
+
+msgid "Text Align"
+msgstr "Alineación del Texto"
+
+msgid "Title Color"
+msgstr "Color del Título"
+
+msgid "Font Style (title)"
+msgstr "Estilo de Fuente (título)"
+
+msgid "Italic"
+msgstr "Cursiva"
+
+msgid "Title Font"
+msgstr "Fuente del Título"
+
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+msgid "Lato"
+msgstr "Lato"
+
+msgid "AmaticSC"
+msgstr "AmaticSC"
+
+msgid "Margin Bottom"
+msgstr "Margen Inferior"
+
+msgid "Style 2 (No Caption)"
+msgstr "Estilo 2 (Sin Subtítulo)"
+
+msgid "Label Color"
+msgstr "Color de Etiqueta"
+
+msgid "Overlay"
+msgstr "Superposición"
+
+msgid "Enable Label Text"
+msgstr "Habilitar Texto de Etiqueta"
+
+msgid "Height Element (px)"
+msgstr "Altura del Elemento (px)"
+
+msgid "Input height for element"
+msgstr "Ingresa la altura del elemento"
+
+msgid "ST Weather"
+msgstr "Clima ST"
+
+msgid "Show time now"
+msgstr "Mostrar hora actual"
+
+msgid "CONTINUE READING"
+msgstr "CONTINUAR LEYENDO"
+
+msgid "By"
+msgstr "Por"
+
+msgid "Comment"
+msgid_plural "Comentarios"
+msgstr[0] "Comentario"
+msgstr[1] "Comentarios"
+
+msgid "Warning!"
+msgstr "¡Advertencia!"
+
+msgid "Nothing Found"
+msgstr "No se Encontró Nada"
+
+msgid "BY"
+msgstr "POR"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Sticky"
+msgstr "Fijado"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Service name"
+msgstr "Nombre del Servicio"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Extra services"
+msgstr "Servicios adicionales"
+
+msgid "RESERVATION HOTLINE"
+msgstr "LÍNEA DE RESERVAS"
+
+msgid "CHECK <br> AVAILABILITY"
+msgstr "COMPROBAR <br> DISPONIBILIDAD"
+
+msgid "Reservation Hotline:"
+msgstr "Línea de Reservas:"
+
+msgid "BOOK NOW"
+msgstr "RESERVAR AHORA"
+
+msgid "Starting from"
+msgstr "Desde"
+
+msgid "GUESTS"
+msgstr "HUÉSPEDES"
+
+msgid "Price Per Person: "
+msgstr "Precio por Persona: "
+
+msgid "Book now"
+msgstr "Reservar ahora"
+
+msgid "PRICE"
+msgstr "PRECIO"
+
+msgid "/ %s nights"
+msgstr "/ %s noches"
+
+msgid "/ %s night"
+msgstr "/ %s noche"
+
+msgid "CHECK AVAILABILITY"
+msgstr "COMPROBAR DISPONIBILIDAD"
+
+msgid "Package"
+msgstr "Paquete"
+
+msgid "No. day (s)"
+msgstr "N.º de día(s)"
+
+msgid "The maximum number: "
+msgstr "El número máximo: "
+
+msgid "Check In time"
+msgstr "Hora de Entrada"
+
+msgid "Check Out time"
+msgstr "Hora de Salida"
+
+msgid "/person/night"
+msgstr "/persona/noche"
+
+msgid "ADULT"
+msgstr "ADULTO"
+
+msgid "CHILDREN"
+msgstr "NIÑOS"
+
+msgid "BEDS"
+msgstr "CAMAS"
+
+msgid "SIZE"
+msgstr "TAMAÑO"
+msgid "Scroll"
+msgstr "Desplazar"
+
+msgid "Follow Us"
+msgstr "Síguenos"
+
+msgid "View More"
+msgstr "Ver Más"
+
+msgid "CLICK THE PLAYER TO"
+msgstr "HAZ CLIC EN EL REPRODUCTOR PARA"
+
+msgid "WATCH THE OVERVIEW"
+msgstr "VER EL RESUMEN"
+
+msgid "Traveler"
+msgstr "Viajero"
+
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+msgid "Account settings"
+msgstr "Configuración de la Cuenta"
+
+msgid "You cart"
+msgstr "Tu carrito"
+
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+msgid "Sing up for free"
+msgstr "Regístrate gratis"
+
+msgid "RESERVATION"
+msgstr "RESERVA"
+
+msgid "Booking"
+msgstr "Reservación"
+
+msgid "Book"
+msgstr "Reservar"
+
+msgid "Select Checkout Page Style"
+msgstr "Selecciona el Estilo de la Página de Pago"
+
+msgid "Select styles of checkout page (it is default as style 1)"
+msgstr "Selecciona estilos de la página de pago (el predeterminado es el estilo 1)"
+
+msgid "White Header"
+msgstr "Encabezado Blanco"
+
+msgid "Solo Header"
+msgstr "Encabezado Solo"
+
+msgid "Layout modern 3"
+msgstr "Diseño moderno 3"
+
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+msgid "Leave a comment to %s"
+msgstr "Deja un comentario en %s"
+
+msgid "Your comment"
+msgstr "Tu comentario"
+
+msgid "Your name"
+msgstr "Tu nombre"
+
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"Guarda mi nombre, correo electrónico y sitio web en este navegador para la próxima vez que comente."
+
+msgid "Blog Style 3"
+msgstr "Estilo de Blog 3"
+
+msgid "Next post:"
+msgstr "Siguiente publicación:"
+
+msgid "Previous post:"
+msgstr "Publicación anterior:"
+
+msgid "0 Comment"
+msgstr "0 Comentarios"
+
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+msgid "% Comments"
+msgstr "% Comentarios"
+
+msgid "Search results : \"%s\""
+msgstr "Resultados de búsqueda: \"%s\""
+
+msgid "Partner Page"
+msgstr "Página de Socios"
+
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+msgid "Sign up"
+msgstr "Regístrate"
+
+msgid "Hi, "
+msgstr "Hola, "
+
+msgid "Sign in to your account"
+msgstr "Inicia sesión en tu cuenta"
+
+msgid "Email or Username"
+msgstr "Correo Electrónico o Nombre de Usuario"
+
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+msgid "Remember me"
+msgstr "Recuérdame"
+
+msgid "Forgot Password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "or sign in with"
+msgstr "o inicia sesión con"
+
+msgid "Continue with Facebook"
+msgstr "Continuar con Facebook"
+
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+msgid "Username *"
+msgstr "Nombre de Usuario *"
+
+msgid "Full Name"
+msgstr "Nombre Completo"
+
+msgid "Email *"
+msgstr "Correo Electrónico *"
+
+msgid "Used for booking services"
+msgstr "Utilizado para reservar servicios"
+
+msgid "Normal User"
+msgstr "Usuario Normal"
+
+msgid "Used for upload and booking services"
+msgstr "Utilizado para subir y reservar servicios"
+
+msgid "Partner User"
+msgstr "Usuario Socio"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid ""
+"I confirm that I have read and accepted the <a class=\"st-link\" href=\"%s\">"
+"privacy policy</a>"
+msgstr ""
+"Confirmo que he leído y aceptado la <a class=\"st-link\" href=\"%s\">política de privacidad</a>"
+
+msgid "%s Hotel"
+msgid_plural "%s Hotels"
+msgstr[0] "%s Hotel"
+msgstr[1] "%s Hoteles"
+
+msgid "%s Rental"
+msgid_plural "%s Rentals"
+msgstr[0] "%s Alquiler"
+msgstr[1] "%s Alquileres"
+
+msgid "%s Tour"
+msgid_plural "%s Tours"
+msgstr[0] "%s Tour"
+msgstr[1] "%s Tours"
+
+msgid "%s Activity"
+msgid_plural "%s Activities"
+msgstr[0] "%s Actividad"
+msgstr[1] "%s Actividades"
+
+msgid "%s Car"
+msgid_plural "%s Cars"
+msgstr[0] "%s Coche"
+msgstr[1] "%s Coches"
+
+msgid "Cars Rental"
+msgstr "Alquiler de Coches"
+
+msgid "per "
+msgstr "por "
+
+msgid "Get started"
+msgstr "Comenzar"
+
+msgid "Your order was submitted successfully!"
+msgstr "¡Tu pedido fue enviado con éxito!"
+
+msgid "Your payment was successful!"
+msgstr "¡Tu pago fue exitoso!"
+
+msgid "Booking details have been sent to: "
+msgstr "Los detalles de la reserva han sido enviados a:"
+
+msgid "Booking Number:"
+msgstr "Número de Reserva:"
+
+msgid "Booking Date:"
+msgstr "Fecha de Reserva:"
+
+msgid "Payment Method:"
+msgstr "Método de Pago:"
+
+msgid "Status:"
+msgstr "Estado:"
+
+msgid "Your Booking"
+msgstr "Tu Reserva"
+
+msgid "Car price"
+msgstr "Precio del Coche"
+
+msgid "Hotel Package Price"
+msgstr "Precio del Paquete de Hotel"
+
+msgid "Activity Package Price"
+msgstr "Precio del Paquete de Actividad"
+
+msgid "Car Package Price"
+msgstr "Precio del Paquete de Coche"
+
+msgid "Flight Package Price"
+msgstr "Precio del Paquete de Vuelo"
+
+msgid "Equipment Price"
+msgstr "Precio del Equipamiento"
+
+msgid "Extras Price"
+msgstr "Precio de Extras"
+
+msgid "Tax included"
+msgstr "Impuesto incluido"
+
+msgid "Tax Depart"
+msgstr "Impuesto de Salida"
+
+msgid "Tax Return"
+msgstr "Impuesto de Regreso"
+
+msgid "Your Information"
+msgstr "Tu Información"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "Booking Management"
+msgstr "Gestión de Reservas"
+
+msgid "Select Payment Method"
+msgstr "Selecciona el Método de Pago"
+
+msgid "your checkout was successful!"
+msgstr "¡Tu pago se realizó con éxito!"
+
+msgid "Your payment was not successful!"
+msgstr "¡Tu pago no se realizó con éxito!"
+
+msgid "Booking Number: "
+msgstr "Número de Reserva: "
+
+msgid "Booking Date: "
+msgstr "Fecha de Reserva: "
+
+msgid "Payment Method: "
+msgstr "Método de Pago: "
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "Partner Infomation"
+msgstr "Información del Socio"
+
+msgid "Your Member Package"
+msgstr "Tu Paquete de Membresía"
+
+msgid "Package Information"
+msgstr "Información del Paquete"
+
+msgid "Pay amount"
+msgstr "Monto a Pagar"
+
+msgid "You need to login to checkout ."
+msgstr "Necesitas iniciar sesión para completar el pago."
+
+msgid "Sorry! Your cart is currently empty."
+msgstr "¡Lo sentimos! Tu carrito está vacío."
+
+msgid "Start time"
+msgstr "Hora de Inicio"
+
+msgid "Number of Adult"
+msgstr "Número de Adultos"
+
+msgid "Number of Infant"
+msgstr "Número de Infantes"
+
+msgid "percent"
+msgstr "porcentaje"
+
+msgid "amount"
+msgstr "monto"
+
+msgid "Selected Hotel Package"
+msgstr "Paquete de Hotel Seleccionado"
+
+msgid "Selected Activity Package"
+msgstr "Paquete de Actividad Seleccionado"
+
+msgid "Selected Car Package"
+msgstr "Paquete de Coche Seleccionado"
+
+msgid "Selected Flight Package"
+msgstr "Paquete de Vuelo Seleccionado"
+
+msgid "APPLY"
+msgstr "APLICAR"
+
+msgid "New activity"
+msgstr "Nueva actividad"
+
+msgid "Filter price"
+msgstr "Filtrar precio"
+
+msgid "Min price"
+msgstr "Precio mínimo"
+
+msgid "Max price"
+msgstr "Precio máximo"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "See more"
+msgstr "Ver más"
+
+msgid "Remove from wishlist"
+msgstr "Eliminar de la lista de deseos"
+
+msgid "Add to wishlist"
+msgstr "Agregar a la lista de deseos"
+
+msgid "No Review"
+msgstr "Sin Reseñas"
+
+msgid "1 Review"
+msgstr "1 Reseña"
+
+msgid "View details"
+msgstr "Ver detalles"
+
+msgid "Add date"
+msgstr "Agregar fecha"
+
+msgid "No locations..."
+msgstr "Sin ubicaciones..."
+
+msgid "Popular destinations"
+msgstr "Destinos populares"
+
+msgid "by Amount"
+msgstr "por Monto"
+
+msgid "by Percent"
+msgstr "por Porcentaje"
+
+msgid "Bulk discount"
+msgstr "Descuento por volumen"
+
+msgid "Bulk discount adult"
+msgstr "Descuento por volumen para adultos"
+
+msgid "Discount group"
+msgstr "Grupo de Descuento"
+
+msgid "From adult"
+msgstr "Desde adultos"
+
+msgid "To adult"
+msgstr "Hasta adultos"
+
+msgid "Bulk discount children"
+msgstr "Descuento por volumen para niños"
+
+msgid "From children"
+msgstr "Desde niños"
+
+msgid "To children"
+msgstr "Hasta niños"
+
+msgid "Frequently asked questions"
+msgstr "Preguntas frecuentes"
+
+msgid "From:"
+msgstr "Desde:"
+
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s Reseña"
+msgstr[1] "%s Reseñas"
+
+msgid "Inquiry"
+msgstr "Consulta"
+
+msgid "0"
+msgstr "0"
+
+msgid "More option"
+msgstr "Más opciones"
+
+msgid "Guest  name"
+msgstr "Nombre del huésped"
+
+msgid "Explore"
+msgstr "Explorar"
+
+msgid "Highlights"
+msgstr "Aspectos Destacados"
+
+msgid "Included/Excluded"
+msgstr "Incluido/Excluido"
+
+msgid "Cancellation"
+msgstr "Cancelación"
+
+msgid "Up to %s day"
+msgid_plural "Up to %s days"
+msgstr[0] "Hasta %s día"
+msgstr[1] "Hasta %s días"
+
+msgid "No Cancel"
+msgstr "Sin Cancelación"
+
+msgid "Group Size"
+msgstr "Tamaño del Grupo"
+
+msgid "%s person"
+msgstr "%s persona"
+
+msgid "%s people"
+msgstr "%s personas"
+
+msgid "Itinerary"
+msgstr "Itinerario"
+
+msgid "Itenirary"
+msgstr "Itinerario"
+
+msgid "Activity's Location"
+msgstr "Ubicación de la Actividad"
+
+msgid "Explore other options"
+msgstr "Explorar otras opciones"
+
+msgid "%s review on this Activity"
+msgid_plural "%s reviews on this Activity"
+msgstr[0] "%s reseña en esta Actividad"
+msgstr[1] "%s reseñas en esta Actividad"
+
+msgid "Showing %s to %s"
+msgstr "Mostrando %s a %s"
+
+msgid "Write a review"
+msgstr "Escribir una reseña"
+
+msgid "From:<span class=\"price\">%s</span>"
+msgstr "Desde:<span class=\"price\">%s</span>"
+
+msgid "0 review"
+msgstr "0 reseñas"
+
+msgid "1 review"
+msgstr "1 reseña"
+
+msgid "% reviews"
+msgstr "% reseñas"
+
+msgid "Check"
+msgstr "Verificar"
+
+msgid "e.g. city, region, district or specific hotel"
+msgstr "Ejemplo: ciudad, región, distrito o hotel específico"
+
+msgid "Check-in"
+msgstr "Check-in"
+
+msgid "Check-out"
+msgstr "Check-out"
+
+msgid "%s Adult"
+msgid_plural "%s Adults"
+msgstr[0] "%s Adulto"
+msgstr[1] "%s Adultos"
+msgid "%s Child"
+msgid_plural "%s Children"
+msgstr[0] "%s Niño"
+msgstr[1] "%s Niños"
+
+msgid "Rooms"
+msgstr "Habitaciones"
+
+msgid "Name *"
+msgstr "Nombre *"
+
+msgid "Title *"
+msgstr "Título *"
+
+msgid "Content *"
+msgstr "Contenido *"
+
+msgid "Address Rent Car"
+msgstr "Dirección de Alquiler de Coches"
+
+msgid "Est. Distance"
+msgstr "Distancia Estimada"
+
+msgid "Number of Date"
+msgstr "Cantidad de Días"
+
+msgid "Price by number of %s"
+msgstr "Precio por número de %s"
+
+msgid "Extra "
+msgstr "Extra"
+
+msgid "Fee "
+msgstr "Tarifa"
+
+msgid "New car"
+msgstr "Nuevo coche"
+
+msgid "Gear Shift"
+msgstr "Transmisión"
+
+msgid "auto"
+msgstr "automático"
+
+msgid "manual"
+msgstr "manual"
+
+msgid "Door"
+msgstr "Puerta"
+
+msgid "Auto"
+msgstr "Automático"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Add date, Add time"
+msgstr "Agregar fecha, Agregar hora"
+
+msgid "Pick-up"
+msgstr "Recogida"
+
+msgid "Drop-off"
+msgstr "Entrega"
+
+msgid "<span class=\"price d-flex align-content-end\"><span class=\"price\">%s</span><span class=\"unit\">/%s</span></span>"
+msgstr "<span class=\"price d-flex align-content-end\"><span class=\"price\">%s</span><span class=\"unit\">/%s</span></span>"
+
+msgid "Pay at Pickup"
+msgstr "Pagar al Recoger"
+
+msgid "Car's Location"
+msgstr "Ubicación del Coche"
+
+msgid "0 review on this Car"
+msgstr "0 reseñas de este coche"
+
+msgid "1 review on this Car"
+msgstr "1 reseña de este coche"
+
+msgid "% reviews on this Car"
+msgstr "% reseñas de este coche"
+
+msgid "From:<span class=\"price\">%s</span><span class=\"unit\">/%s</span>"
+msgstr "Desde:<span class=\"price\">%s</span><span class=\"unit\">/%s</span>"
+
+msgid "Estimated distance:"
+msgstr "Distancia estimada:"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "minute"
+msgstr "minuto"
+
+msgid " km"
+msgstr " km"
+
+msgid "Pick Up From"
+msgstr "Recoger Desde"
+
+msgid "Drop Off To"
+msgstr "Entregar En"
+
+msgid "Km"
+msgstr "Km"
+
+msgid "Pickup Date"
+msgstr "Fecha de Recogida"
+
+msgid " Per Km"
+msgstr " Por Km"
+
+msgid " Per Person"
+msgstr " Por Persona"
+
+msgid "Direction Price"
+msgstr "Precio por Dirección"
+
+msgid "Towards Price"
+msgstr "Precio Aproximado"
+
+msgid "Extra Price "
+msgstr "Precio Extra"
+
+msgid "Choose Pickup time"
+msgstr "Elige la hora de recogida"
+
+msgid "Extra services "
+msgstr "Servicios adicionales"
+
+msgid "Passenger "
+msgstr "Pasajero"
+
+msgid "Return "
+msgstr "Regreso"
+
+msgid "Drop-off To"
+msgstr "Entregar En"
+
+msgid "Enter location"
+msgstr "Ingresa ubicación"
+
+msgid "Destinations"
+msgstr "Destinos"
+
+msgid "Pick-off To"
+msgstr "Recoger En"
+
+msgid "About this hotel"
+msgstr "Sobre este hotel"
+
+msgid "About this tour"
+msgstr "Sobre este tour"
+
+msgid "About this car"
+msgstr "Sobre este coche"
+
+msgid "About this rental"
+msgstr "Sobre este alquiler"
+
+msgid "About this activity"
+msgstr "Sobre esta actividad"
+
+msgid "About this room"
+msgstr "Sobre esta habitación"
+
+msgid "All photos"
+msgstr "Todas las fotos"
+
+msgid "More Photos"
+msgstr "Más Fotos"
+
+msgid "View Less"
+msgstr "Ver Menos"
+
+msgid "Room type:"
+msgstr "Tipo de habitación:"
+
+msgid "Your trip"
+msgstr "Tu viaje"
+
+msgid "Number of Night"
+msgstr "Número de Noches"
+
+msgid "Price details"
+msgstr "Detalles del Precio"
+
+msgid "%s night"
+msgid_plural "%s nights"
+msgstr[0] "%s noche"
+msgstr[1] "%s noches"
+
+msgid "Per Night"
+msgstr "Por Noche"
+
+msgid "Deposit: "
+msgstr "Depósito:"
+
+msgid "Search as I move the map"
+msgstr "Buscar mientras muevo el mapa"
+
+msgid "View in a map"
+msgstr "Ver en un mapa"
+
+msgid "(Extra)"
+msgstr "(Extra)"
+
+msgid "New hotel"
+msgstr "Nuevo hotel"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Sort"
+msgstr "Ordenar"
+
+msgid "Low to High"
+msgstr "De Menor a Mayor"
+
+msgid "High to Low"
+msgstr "De Mayor a Menor"
+
+msgid "a - z"
+msgstr "a - z"
+
+msgid "z - a"
+msgstr "z - a"
+
+msgid "m<sup>2</sup>"
+msgstr "m<sup>2</sup>"
+
+msgid "No. Beds"
+msgstr "No. Camas"
+
+msgid "Room Detail"
+msgstr "Detalle de Habitación"
+
+msgid "Show price"
+msgstr "Mostrar precio"
+
+msgid "rooms"
+msgstr "habitaciones"
+
+msgid "guest"
+msgstr "huésped"
+
+msgid "guests"
+msgstr "huéspedes"
+
+msgid "%s guest"
+msgid_plural "%s guests"
+msgstr[0] "%s huésped"
+msgstr[1] "%s huéspedes"
+
+msgid "Add guests and rooms"
+msgstr "Agregar huéspedes y habitaciones"
+
+msgid "avg"
+msgstr "prom"
+
+msgid " <span class=\"price\">%s</span> <span class=\"unit\"> /night</span>"
+msgstr " <span class=\"price\">%s</span> <span class=\"unit\"> /noche</span>"
+
+msgid "Check availability"
+msgstr "Verificar disponibilidad"
+
+msgid "0 review on this Hotel"
+msgstr "0 reseñas de este hotel"
+
+msgid "1 review on this Hotel"
+msgstr "1 reseña de este hotel"
+
+msgid "% reviews on this Hotel"
+msgstr "% reseñas de este hotel"
+
+msgid "Rules"
+msgstr "Reglas"
+
+msgid "Hotel Policies"
+msgstr "Políticas del Hotel"
+
+msgid "Show Less"
+msgstr "Mostrar Menos"
+
+msgid "Show All"
+msgstr "Mostrar Todo"
+
+msgid "Reserve a room"
+msgstr "Reservar una habitación"
+
+msgid "From:<span class=\"price\">%s</span><span class=\"unit\"> /night</span>"
+msgstr "Desde:<span class=\"price\">%s</span><span class=\"unit\"> /noche</span>"
+
+msgid "New rental"
+msgstr "Nuevo alquiler"
+
+msgid "No. People"
+msgstr "No. de Personas"
+
+msgid "No. Bathroom"
+msgstr "No. de Baños"
+
+msgid "Square"
+msgstr "Área (m²)"
+
+msgid "From "
+msgstr "Desde "
+
+msgid "<span class=\"price item\"> %s</span><span class=\"unit\">/ %d night(s)</span>"
+msgstr "<span class=\"price item\"> %s</span><span class=\"unit\">/ %d noche(s)</span>"
+
+msgid "<span class=\"unit\">/ %d night(s)</span>"
+msgstr "<span class=\"unit\">/ %d noche(s)</span>"
+
+msgid "Add guests"
+msgstr "Agregar huéspedes"
+
+msgid "Rates & availability"
+msgstr "Tarifas y disponibilidad"
+
+msgid "<span class=\"fw-normal\"> / %s nights</span>"
+msgstr "<span class=\"fw-normal\"> / %s noches</span>"
+
+msgid "Rental's Location"
+msgstr "Ubicación del Alquiler"
+
+msgid "0 review on this Rental"
+msgstr "0 reseñas de este alquiler"
+
+msgid "1 review on this Rental"
+msgstr "1 reseña de este alquiler"
+
+msgid "% reviews on this Rental"
+msgstr "% reseñas de este alquiler"
+
+msgid "Children: "
+msgstr "Niños: "
+
+msgid "Beds: "
+msgstr "Camas: "
+
+msgid "Area: "
+msgstr "Área: "
+
+msgid "S: %s"
+msgstr "Superficie: %s"
+
+msgid "Beds: %s"
+msgstr "Camas: %s"
+
+msgid "Adults: %s"
+msgstr "Adultos: %s"
+
+msgid "Child: %s"
+msgstr "Niño: %s"
+
+msgid "Reserve"
+msgstr "Reservar"
+
+msgid "from "
+msgstr "desde "
+
+msgid "m"
+msgstr "m"
+
+msgid "Children: %s"
+msgstr "Niños: %s"
+
+msgid "Special Date"
+msgstr "Fecha Especial"
+
+msgid "New tour"
+msgstr "Nuevo tour"
+
+msgid "FILTER BY"
+msgstr "FILTRAR POR"
+
+msgid "When"
+msgstr "Cuándo"
+
+msgid " -"
+msgstr " -"
+
+msgid "Hotel, Car..."
+msgstr "Hotel, Coche..."
+
+msgid "Select Hotel Package"
+msgstr "Seleccionar Paquete de Hotel"
+
+msgid "Select Activity Package"
+msgstr "Seleccionar Paquete de Actividad"
+
+msgid "Select Car Package"
+msgstr "Seleccionar Paquete de Coche"
+
+msgid "Select Flight Package"
+msgstr "Seleccionar Paquete de Vuelo"
+
+msgid "Specific Tour"
+msgstr "Tour Específico"
+
+msgid "Tour's Location"
+msgstr "Ubicación del Tour"
+
+msgid "%s review on this Tour"
+msgid_plural "%s reviews on this Tour"
+msgstr[0] "%s reseña de este tour"
+msgstr[1] "%s reseñas de este tour"
+
+msgid "Frequently Asked Questions"
+msgstr "Preguntas Frecuentes"
+
+msgid "Tour Highlights"
+msgstr "Aspectos Destacados del Tour"
+
+msgid "Tour Itinerary"
+msgstr "Itinerario del Tour"
+
+msgid "You might also like"
+msgstr "También te puede interesar"
+
+msgid "Depart date"
+msgstr "Fecha de salida"
+
+msgid "Passengers/Class"
+msgstr "Pasajeros/Clase"
+
+msgid "City or hotel name"
+msgstr "Ciudad o nombre del hotel"
+
+msgid "Guest"
+msgstr "Huésped"
+
+msgid "Enter destination"
+msgstr "Ingrese el destino"
+
+msgid "Enter origin"
+msgstr "Ingrese el origen"
+
+msgid "passenger(s)"
+msgstr "pasajero(s)"
+
+msgid "economy class"
+msgstr "clase económica"
+
+msgid "business class"
+msgstr "clase ejecutiva"
+
+msgid "Infants"
+msgstr "Bebés"
+
+msgid "Maximum 9 passengers"
+msgstr "Máximo 9 pasajeros"
+
+msgid "Business class"
+msgstr "Clase ejecutiva"
+
+msgid "hotel(s)"
+msgstr "hotel(es)"
+
+msgid "Booking Submission"
+msgstr "Envío de Reserva"
+
+msgid "You need to login to checkout"
+msgstr "Necesita iniciar sesión para realizar el pago"
+
+msgid "Reset Password"
+msgstr "Restablecer Contraseña"
+
+msgid "Enter the e-mail address associated with the account."
+msgstr "Ingrese la dirección de correo electrónico asociada con la cuenta."
+
+msgid "We'll e-mail a link to reset your password."
+msgstr "Le enviaremos un enlace por correo electrónico para restablecer su contraseña."
+
+msgid "Send Reset Link"
+msgstr "Enviar Enlace de Restablecimiento"
+
+msgid "Back to Log In"
+msgstr "Volver a Iniciar Sesión"
+
+msgid "Product Options"
+msgstr "Opciones del Producto"
+
+msgid "Set as new product"
+msgstr "Establecer como nuevo producto"
+
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "¡El servidor no tiene instalados y/o habilitados ImageMagick o GD! Cualquiera de estas bibliotecas es necesaria para que WordPress pueda redimensionar imágenes. Por favor, contacte al administrador del servidor para habilitarlo antes de continuar."
+
+msgid "Image opacity change failed."
+msgstr "Falló el cambio de opacidad de la imagen."
+
+msgid "Image color change failed."
+msgstr "Falló el cambio de color de la imagen."
+
+msgid "Image grayscale failed."
+msgstr "Falló el cambio a escala de grises de la imagen."
+
+msgid "Image negate failed."
+msgstr "Falló la inversión de la imagen."
+
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugin: %s"
+
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "Este tema requiere los siguientes plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "Este tema recomienda los siguientes plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "Los siguientes plugins necesitan ser actualizados a su versión más reciente para garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[0] "El siguiente plugin necesita ser actualizado a su versión más reciente para garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan ser actualizados a su versión más reciente para garantizar la máxima compatibilidad con este tema: %1$s."
+
+msgid "There is an update available for: %1$s."
+msgid_plural "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "Los siguientes plugins requeridos están actualmente inactivos: %1$s."
+msgstr[0] "El siguiente plugin requerido está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins requeridos están actualmente inactivos: %1$s."
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+msgid "Begin installing plugin"
+msgid_plural "Comenzar a instalar plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
+
+msgid "Begin updating plugin"
+msgid_plural "Comenzar a actualizar plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar plugins"
+
+msgid "Begin activating plugin"
+msgid_plural "Comenzar a activar plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar plugins"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al Instalador de Plugins Requeridos"
+
+msgid "Return to the Dashboard"
+msgstr "Volver al Panel de Control"
+
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+msgid "The following plugin was activated successfully:"
+msgid_plural "Los siguientes plugins fueron activados con éxito:"
+msgstr[0] "El siguiente plugin fue activado con éxito:"
+msgstr[1] "Los siguientes plugins fueron activados con éxito:"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se tomó ninguna acción. El plugin %1$s ya estaba activo."
+
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no fue activado. Se necesita una versión más reciente de %s para este tema. Por favor, actualice el plugin."
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins fueron instalados y activados con éxito. %1$s"
+
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins requeridos o recomendados que necesitan instalarse, actualizarse o activarse."
+
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacte al administrador de este sitio para obtener ayuda."
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita actualizarse para ser compatible con su tema."
+
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+msgid "Set the parent_slug config variable instead."
+msgstr "Establezca la variable de configuración parent_slug en su lugar."
+
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete del plugin remoto no contiene una carpeta con el slug deseado y el cambio de nombre no funcionó."
+
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacte al proveedor del plugin y pídales que empaqueten su plugin según las directrices de WordPress."
+
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete del plugin remoto consiste en más de un archivo, pero los archivos no están empaquetados en una carpeta."
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Recommended"
+msgstr "Recomendado"
+
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+msgid "External Source"
+msgstr "Fuente Externa"
+
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+msgid "Not Installed"
+msgstr "No Instalado"
+
+msgid "Installed But Not Activated"
+msgstr "Instalado pero No Activado"
+
+msgid "Required Update not Available"
+msgstr "Actualización Requerida No Disponible"
+
+msgid "Requires Update"
+msgstr "Requiere Actualización"
+
+msgid "Update recommended"
+msgstr "Actualización Recomendada"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para Instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Instalar <span class=\"count\">(%s)</span>"
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización Disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización Disponible <span class=\"count\">(%s)</span>"
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para Activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Activar <span class=\"count\">(%s)</span>"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se seleccionaron plugins para instalar. No se realizó ninguna acción."
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se seleccionaron plugins para actualizar. No se realizó ninguna acción."
+
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar en este momento."
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se seleccionaron plugins para activar. No se realizó ninguna acción."
+
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+msgid "Plugin activation failed."
+msgstr "La activación del plugin falló."
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error mientras se instalaba %1$s: <strong>%2$s</strong>."
+
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tomar un tiempo en algunos servidores, por favor sea paciente."
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado con éxito."
+
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tomar un tiempo en algunos servidores, por favor sea paciente."
+
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado con éxito."
+
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+msgid "Post Select Ajax"
+msgstr "Post Selección Ajax"
+
+msgid "Search for a Item"
+msgstr "Buscar un Elemento"
+
+msgid "Type Service"
+msgstr "Tipo de Servicio"
+
+msgid "Select items for Upsell"
+msgstr "Seleccionar elementos para Upsell"
+
+msgid "Product Select Ajax"
+msgstr "Seleccionar Producto Ajax"
+
+msgid "Search for a Product"
+msgstr "Buscar un Producto"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "No Services"
+msgstr "Sin Servicios"
+
+msgid "Product: "
+msgstr "Producto: "
+
+msgid "User Select Ajax"
+msgstr "Seleccionar Usuario Ajax"
+
+msgid "Search for a User"
+msgstr "Buscar un Usuario"
+
+msgid "List Item Post Type"
+msgstr "Tipo de Publicación de Elementos en Lista"
+
+msgid "Type to search"
+msgstr "Escriba para buscar"
+
+msgid "Timepicker"
+msgstr "Selector de Tiempo"
+
+msgid "Availability activity"
+msgstr "Disponibilidad de la actividad"
+
+msgid "Price ($)"
+msgstr "Precio ($)"
+
+msgid "Price of adult"
+msgstr "Precio de adulto"
+
+msgid "Price of children"
+msgstr "Precio de niños"
+
+msgid "Price of infant"
+msgstr "Precio de infantes"
+
+msgid "StartTime"
+msgstr "Hora de Inicio"
+
+msgid "Group day"
+msgstr "Día del Grupo"
+
+msgid "You can select and drag dates in the calendar to select check in and check out date"
+msgstr "Puede seleccionar y arrastrar fechas en el calendario para elegir las fechas de entrada y salida"
+
+msgid "Address Autocomplete"
+msgstr "Autocompletar Dirección"
+
+msgid "Availability Flight"
+msgstr "Disponibilidad de Vuelo"
+
+msgid "Gmap Location"
+msgstr "Ubicación en Gmap"
+
+msgid "Search by name..."
+msgstr "Buscar por nombre..."
+
+msgid "Latitude:"
+msgstr "Latitud:"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Longitude:"
+msgstr "Longitud:"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Zoom Level:"
+msgstr "Nivel de Zoom:"
+
+msgid "Zoom Level"
+msgstr "Nivel de Zoom"
+
+msgid "Map Style:"
+msgstr "Estilo del Mapa:"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "Number of People"
+msgstr "Número de Personas"
+
+msgid "Availability Hotel"
+msgstr "Disponibilidad del Hotel"
+
+msgid "Adult Price ($)"
+msgstr "Precio de Adulto ($)"
+
+msgid "Child Price ($)"
+msgstr "Precio de Niño ($)"
+
+msgid "iCal"
+msgstr "iCal"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "This field will be shown when saved this post"
+msgstr "Este campo se mostrará al guardar esta publicación"
+
+msgid "View by period:"
+msgstr "Ver por periodo:"
+
+msgid "Out of Stock"
+msgstr "Agotado"
+
+msgid "Select a Room"
+msgstr "Seleccionar una Habitación"
+
+msgid "---- room ----"
+msgstr "---- habitación ----"
+
+msgid "Layout select"
+msgstr "Seleccionar Diseño"
+
+msgid "Pick Up - Drop Off"
+msgstr "Recoger - Dejar"
+
+msgid "Select a pick up location"
+msgstr "Seleccionar un lugar de recogida"
+
+msgid "Select a location"
+msgstr "Seleccionar una ubicación"
+
+msgid "Select a drop off location"
+msgstr "Seleccionar un lugar de entrega"
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Locations is selected"
+msgstr "Ubicaciones seleccionadas"
+
+msgid "Mapping Currency"
+msgstr "Mapeo de Moneda"
+
+msgid "Reload"
+msgstr "Recargar"
+
+msgid "--- Select currency ---"
+msgstr "--- Seleccionar moneda ---"
+
+msgid "Page select"
+msgstr "Seleccionar Página"
+
+msgid "Availability Rental"
+msgstr "Disponibilidad de Alquiler"
+
+msgid "Rental Distance"
+msgstr "Distancia de Alquiler"
+
+msgid "Add new"
+msgstr "Agregar nuevo"
+
+msgid "Radius"
+msgstr "Radio"
+
+msgid "Get results"
+msgstr "Obtener resultados"
+
+msgid "Please select lat and lng for this property"
+msgstr "Por favor seleccione latitud y longitud para esta propiedad"
+
+msgid "Radius is invalid"
+msgstr "El radio no es válido"
+
+msgid "Please select type to search"
+msgstr "Por favor seleccione el tipo para buscar"
+
+msgid "Vicinity"
+msgstr "Cercanía"
+
+msgid "SkyScanner Content select"
+msgstr "Seleccionar Contenido de SkyScanner"
+
+msgid "ST Total Time"
+msgstr "ST Tiempo Total"
+
+msgid "Availability tour"
+msgstr "Disponibilidad del tour"
+
+msgid "Tour Package"
+msgstr "Paquete de Tour"
+
+msgid "Hotel service"
+msgstr "Servicio de hotel"
+
+msgid "Activity service"
+msgstr "Servicio de actividades"
+
+msgid "Car service"
+msgstr "Servicio de autos"
+
+msgid "Flight service"
+msgstr "Servicio de vuelos"
+
+msgid "Getting Hotels By Location"
+msgstr "Obteniendo hoteles por ubicación"
+
+msgid "Custom hotel data"
+msgstr "Datos personalizados de hotel"
+
+msgid "Getting Activities By Location"
+msgstr "Obteniendo actividades por ubicación"
+
+msgid "Custom activity data"
+msgstr "Datos personalizados de actividades"
+
+msgid "Getting Cars By Location"
+msgstr "Obteniendo autos por ubicación"
+
+msgid "Custom car data"
+msgstr "Datos personalizados de autos"
+
+msgid "Getting Flight"
+msgstr "Obteniendo vuelo"
+
+msgid "Custom flight data"
+msgstr "Datos personalizados de vuelos"
+
+msgid "Save data"
+msgstr "Guardar datos"
+
+msgid "No services are enabled for this function!"
+msgstr "¡No hay servicios habilitados para esta función!"
+
+msgid "Select a Destination"
+msgstr "Seleccione un destino"
+
+msgid "Every %d minutes"
+msgstr "Cada %d minutos"
+
+msgid "ST Form Builder"
+msgstr "Constructor de Formularios ST"
+
+msgid "The form title is not empty."
+msgstr "El título del formulario no está vacío."
+
+msgid "The title of item is not empty."
+msgstr "El título del elemento no está vacío."
+
+msgid "The name of item is not empty."
+msgstr "El nombre del elemento no está vacío."
+
+msgid "The name of item does not contain special characters."
+msgstr "El nombre del elemento no contiene caracteres especiales."
+
+msgid "The title of item does not contain special characters."
+msgstr "El título del elemento no contiene caracteres especiales."
+
+msgid "The name of item is not identical."
+msgstr "El nombre del elemento no es idéntico."
+
+msgid "details "
+msgstr "detalles"
+
+msgid "Postcode/Zip"
+msgstr "Código postal"
+
+msgid "Special Request"
+msgstr "Solicitud especial"
+
+msgid "Notes about your order, e.g. special notes for  delivery."
+msgstr "Notas sobre su pedido, por ejemplo, notas especiales para la entrega."
+
+msgid "Form 1"
+msgstr "Formulario 1"
+
+msgid "Form have been updated."
+msgstr "El formulario ha sido actualizado."
+
+msgid "There is an error in the process of creating a new form"
+msgstr "Hay un error en el proceso de creación de un nuevo formulario"
+
+msgid "The form has been successfully deleted."
+msgstr "El formulario ha sido eliminado con éxito."
+
+msgid " (copy)"
+msgstr " (copia)"
+
+msgid "Duplicated successfully."
+msgstr "Duplicado con éxito."
+
+msgid "There is an error in the process of duplicating form"
+msgstr "Hay un error en el proceso de duplicación del formulario"
+
+msgid "Setting"
+msgstr "Configuración"
+
+msgid "Option"
+msgstr "Opción"
+
+msgid "--Select country--"
+msgstr "--Seleccionar país--"
+
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+msgid "Albania"
+msgstr "Albania"
+
+msgid "Algeria"
+msgstr "Argelia"
+
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Anguilla"
+msgstr "Anguila"
+
+msgid "Antarctica"
+msgstr "Antártida"
+
+msgid "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bahrain"
+msgstr "Baréin"
+
+msgid "Bangladesh"
+msgstr "Bangladés"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+msgid "Belgium"
+msgstr "Bélgica"
+
+msgid "Belize"
+msgstr "Belice"
+
+msgid "Benin"
+msgstr "Benín"
+
+msgid "Bermuda"
+msgstr "Bermudas"
+
+msgid "Bhutan"
+msgstr "Bután"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia y Herzegovina"
+
+msgid "Botswana"
+msgstr "Botsuana"
+
+msgid "Bouvet Island"
+msgstr "Isla Bouvet"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "British Antarctic Territory"
+msgstr "Territorio Antártico Británico"
+
+msgid "British Indian Ocean Territory"
+msgstr "Territorio Británico del Océano Índico"
+
+msgid "British Virgin Islands"
+msgstr "Islas Vírgenes Británicas"
+
+msgid "Brunei"
+msgstr "Brunéi"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Cambodia"
+msgstr "Camboya"
+
+msgid "Cameroon"
+msgstr "Camerún"
+
+msgid "Canada"
+msgstr "Canadá"
+
+msgid "Canton and Enderbury Islands"
+msgstr "Islas Cantón y Enderbury"
+
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+msgid "Chad"
+msgstr "Chad"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "China"
+
+msgid "Christmas Island"
+msgstr "Isla de Navidad"
+
+msgid "Cocos [Keeling] Islands"
+msgstr "Islas Cocos [Keeling]"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Comoros"
+msgstr "Comoras"
+
+msgid "Congo - Brazzaville"
+msgstr "Congo - Brazzaville"
+
+msgid "Congo - Kinshasa"
+msgstr "Congo - Kinshasa"
+
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Croatia"
+msgstr "Croacia"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cyprus"
+msgstr "Chipre"
+
+msgid "Czech Republic"
+msgstr "República Checa"
+
+msgid "Côte d’Ivoire"
+msgstr "Costa de Marfil"
+
+msgid "Denmark"
+msgstr "Dinamarca"
+
+msgid "Djibouti"
+msgstr "Yibuti"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+msgid "Dronning Maud Land"
+msgstr "Tierra de la Reina Maud"
+
+msgid "East Germany"
+msgstr "Alemania del Este"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Egypt"
+msgstr "Egipto"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+msgid "Falkland Islands"
+msgstr "Islas Malvinas"
+
+msgid "Faroe Islands"
+msgstr "Islas Feroe"
+
+msgid "Fiji"
+msgstr "Fiyi"
+
+msgid "Finland"
+msgstr "Finlandia"
+
+msgid "France"
+msgstr "Francia"
+
+msgid "French Guiana"
+msgstr "Guayana Francesa"
+
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+msgid "French Southern Territories"
+msgstr "Territorios Australes Franceses"
+
+msgid "French Southern and Antarctic Territories"
+msgstr "Territorios Australes y Antárticos Franceses"
+
+msgid "Gabon"
+msgstr "Gabón"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Germany"
+msgstr "Alemania"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greece"
+msgstr "Grecia"
+
+msgid "Greenland"
+msgstr "Groenlandia"
+
+msgid "Grenada"
+msgstr "Granada"
+
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bisáu"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Haiti"
+msgstr "Haití"
+
+msgid "Heard Island and McDonald Islands"
+msgstr "Islas Heard y McDonald"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR China"
+msgstr "Hong Kong (RAE China)"
+
+msgid "Hungary"
+msgstr "Hungría"
+
+msgid "Iceland"
+msgstr "Islandia"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Iran"
+msgstr "Irán"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Isle of Man"
+msgstr "Isla de Man"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Japan"
+msgstr "Japón"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Johnston Island"
+msgstr "Isla Johnston"
+
+msgid "Jordan"
+msgstr "Jordania"
+
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+msgid "Kenya"
+msgstr "Kenia"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Latvia"
+msgstr "Letonia"
+
+msgid "Lebanon"
+msgstr "Líbano"
+
+msgid "Lesotho"
+msgstr "Lesoto"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Libya"
+msgstr "Libia"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Lithuania"
+msgstr "Lituania"
+
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+msgid "Macau SAR China"
+msgstr "Macao (RAE China)"
+
+msgid "Macedonia"
+msgstr "Macedonia del Norte"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Malawi"
+msgstr "Malaui"
+
+msgid "Malaysia"
+msgstr "Malasia"
+
+msgid "Maldives"
+msgstr "Maldivas"
+
+msgid "Mali"
+msgstr "Malí"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+msgid "Martinique"
+msgstr "Martinica"
+
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgid "Mauritius"
+msgstr "Mauricio"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Metropolitan France"
+msgstr "Francia Metropolitana"
+
+msgid "Mexico"
+msgstr "México"
+
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgid "Midway Islands"
+msgstr "Islas Midway"
+
+msgid "Moldova"
+msgstr "Moldavia"
+
+msgid "Monaco"
+msgstr "Mónaco"
+
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Morocco"
+msgstr "Marruecos"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Myanmar [Burma]"
+msgstr "Myanmar (Birmania)"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+msgid "Netherlands Antilles"
+msgstr "Antillas Neerlandesas"
+
+msgid "Neutral Zone"
+msgstr "Zona Neutral"
+
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Niger"
+msgstr "Níger"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+msgid "North Korea"
+msgstr "Corea del Norte"
+
+msgid "North Vietnam"
+msgstr "Vietnam del Norte"
+
+msgid "Northern Mariana Islands"
+msgstr "Islas Marianas del Norte"
+
+msgid "Norway"
+msgstr "Noruega"
+
+msgid "Oman"
+msgstr "Omán"
+
+msgid "Pacific Islands Trust Territory"
+msgstr "Territorio en Fideicomiso de las Islas del Pacífico"
+
+msgid "Pakistan"
+msgstr "Pakistán"
+
+msgid "Palau"
+msgstr "Palaos"
+
+msgid "Palestinian Territories"
+msgstr "Territorios Palestinos"
+
+msgid "Panama"
+msgstr "Panamá"
+
+msgid "Panama Canal Zone"
+msgstr "Zona del Canal de Panamá"
+
+msgid "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "People's Democratic Republic of Yemen"
+msgstr "República Democrática Popular de Yemen"
+
+msgid "Peru"
+msgstr "Perú"
+
+msgid "Philippines"
+msgstr "Filipinas"
+
+msgid "Pitcairn Islands"
+msgstr "Islas Pitcairn"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Qatar"
+msgstr "Catar"
+
+msgid "Romania"
+msgstr "Rumania"
+
+msgid "Russia"
+msgstr "Rusia"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "Réunion"
+msgstr "Reunión"
+
+msgid "Saint Barthélemy"
+msgstr "San Bartolomé"
+
+msgid "Saint Helena"
+msgstr "Santa Elena"
+
+msgid "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
+
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+msgid "Saint Martin"
+msgstr "San Martín"
+
+msgid "Saint Pierre and Miquelon"
+msgstr "San Pedro y Miquelón"
+
+msgid "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Serbia and Montenegro"
+msgstr "Serbia y Montenegro"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Islas Georgias del Sur y Sandwich del Sur"
+
+msgid "South Korea"
+msgstr "Corea del Sur"
+
+msgid "Spain"
+msgstr "España"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Sudan"
+msgstr "Sudán"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard y Jan Mayen"
+
+msgid "Swaziland"
+msgstr "Esuatini"
+
+msgid "Sweden"
+msgstr "Suecia"
+
+msgid "Switzerland"
+msgstr "Suiza"
+
+msgid "Syria"
+msgstr "Siria"
+
+msgid "São Tomé and Príncipe"
+msgstr "Santo Tomé y Príncipe"
+
+msgid "Taiwan"
+msgstr "Taiwán"
+
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgid "Thailand"
+msgstr "Tailandia"
+
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+msgid "Tunisia"
+msgstr "Túnez"
+
+msgid "Turkey"
+msgstr "Turquía"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "U.S. Minor Outlying Islands"
+msgstr "Islas Ultramarinas Menores de EE.UU."
+
+msgid "U.S. Miscellaneous Pacific Islands"
+msgstr "Islas del Pacífico Variadas de EE.UU."
+
+msgid "U.S. Virgin Islands"
+msgstr "Islas Vírgenes de EE.UU."
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ucrania"
+
+msgid "Union of Soviet Socialist Republics"
+msgstr "Unión de Repúblicas Socialistas Soviéticas"
+
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+msgid "United States"
+msgstr "Estados Unidos"
+
+msgid "Unknown or Invalid Region"
+msgstr "Región Desconocida o Inválida"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Vatican City"
+msgstr "Ciudad del Vaticano"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Wake Island"
+msgstr "Isla Wake"
+
+msgid "Wallis and Futuna"
+msgstr "Wallis y Futuna"
+
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+msgid "Åland Islands"
+msgstr "Islas Åland"
+
+msgid "Address field"
+msgstr "Campo de Dirección"
+
+msgid "Advanced Options"
+msgstr "Opciones Avanzadas"
+
+msgid "Placeholder (optional)"
+msgstr "Marcador de posición (opcional)"
+
+msgid "Description (optional)"
+msgstr "Descripción (opcional)"
+
+msgid "Extra Class (optional)"
+msgstr "Clase Extra (opcional)"
+
+msgid "Custom Field ID (optional)"
+msgstr "ID de Campo Personalizado (opcional)"
+
+msgid "Apt/Unit field"
+msgstr "Campo de Apartamento/Unidad"
+
+msgid "The name in input tag:"
+msgstr "El nombre en la etiqueta de entrada:"
+
+msgid "CheckBox field"
+msgstr "Campo de Casilla de Verificación"
+
+msgid "Country Dropdown"
+msgstr "Desplegable de País"
+
+msgid "Country dropdown field"
+msgstr "Campo desplegable de País"
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+msgid "Dropdown field"
+msgstr "Campo desplegable"
+
+msgid "Option Value"
+msgstr "Valor de Opción"
+
+msgid "-- Select --"
+msgstr "-- Seleccione --"
+
+msgid "Please input option value form in setting"
+msgstr "Por favor, introduzca el valor de opción en la configuración"
+
+msgid "Email field"
+msgstr "Campo de Correo Electrónico"
+
+msgid "First name field"
+msgstr "Campo de Nombre"
+
+msgid "Media Upload"
+msgstr "Subida de Medios"
+
+msgid "Media upload field"
+msgstr "Campo de Subida de Medios"
+
+msgid "Last name field"
+msgstr "Campo de Apellido"
+
+msgid "Number field"
+msgstr "Campo de Número"
+
+msgid "Post Select"
+msgstr "Seleccionar Publicación"
+
+msgid "Post select field"
+msgstr "Campo para seleccionar publicación"
+
+msgid "--Choose one--"
+msgstr "--Elija uno--"
+
+msgid "Postcode/Zip field"
+msgstr "Campo de Código Postal"
+
+msgid "Radio"
+msgstr "Botón de Radio"
+
+msgid "Radio field"
+msgstr "Campo de Botón de Radio"
+
+msgid "Taxonomy Select"
+msgstr "Seleccionar Taxonomía"
+
+msgid "Taxonomy select field"
+msgstr "Campo para seleccionar Taxonomía"
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Telephone field"
+msgstr "Campo de Teléfono"
+
+msgid "Textarea"
+msgstr "Área de Texto"
+
+msgid "User Email"
+msgstr "Correo Electrónico del Usuario"
+
+msgid "User email field"
+msgstr "Campo de Correo Electrónico del Usuario"
+
+msgid "Form Builder"
+msgstr "Constructor de Formularios"
+
+msgid "Form Name"
+msgstr "Nombre del Formulario"
+
+msgid "Create Form"
+msgstr "Crear Formulario"
+
+msgid "Give your form a name, then click <strong>Create From</strong>."
+msgstr "Asigne un nombre a su formulario y luego haga clic en <strong>Crear Formulario</strong>."
+
+msgid "Create form"
+msgstr "Crear formulario"
+
+msgid "Save Form"
+msgstr "Guardar Formulario"
+
+msgid "Form Content"
+msgstr "Contenido del Formulario"
+
+msgid ""
+"Drag each item into the order you prefer. Click the blue icon on the right "
+"of the item to reveal additional configuration options."
+msgstr "Arrastre cada elemento en el orden que prefiera. Haga clic en el ícono azul a la derecha del elemento para revelar opciones de configuración adicionales."
+
+msgid "Add form items from the column on the left."
+msgstr "Agregue elementos al formulario desde la columna izquierda."
+
+msgid ""
+"To send notification email to your customers after they finished booking, "
+"required entering the name field to be <strong>\"st_email\"</strong>  or "
+"just simply select the mail user in the user group."
+msgstr "Para enviar un correo electrónico de notificación a sus clientes después de completar la reserva, es necesario que el campo de nombre sea <strong>\"st_email\"</strong> o simplemente seleccione el usuario del grupo de usuarios."
+
+msgid "Duplicate Form"
+msgstr "Duplicar Formulario"
+
+msgid "Delete Form"
+msgstr "Eliminar Formulario"
+
+msgid "Basic fields"
+msgstr "Campos básicos"
+
+msgid "Add to form"
+msgstr "Agregar al formulario"
+
+msgid "User fields"
+msgstr "Campos del usuario"
+
+msgid "Advance fields"
+msgstr "Campos avanzados"
+
+msgid "Select a form to edit:"
+msgstr "Seleccione un formulario para editar:"
+
+msgid "--Select form--"
+msgstr "--Seleccione un formulario--"
+
+msgid "or"
+msgstr "o"
+
+msgid "create a new form"
+msgstr "crear un nuevo formulario"
+
+msgid "Edit your form below, or"
+msgstr "Edite su formulario a continuación, o"
+
+msgid "Download file"
+msgstr "Descargar archivo"
+
+msgid "Table of Contents"
+msgstr "Tabla de Contenidos"
+
+msgid ""
+"Cancellation within %s Day(s) before the date of arrival %s%s will be "
+"charged."
+msgstr "La cancelación dentro de %s día(s) antes de la fecha de llegada %s%s será cobrada."
+
+msgid "none"
+msgstr "ninguno"
+
+msgid "Admin"
+msgstr "Administrador"
+
+msgid "Booking flight: "
+msgstr "Reservar vuelo:"
+
+msgid "at "
+msgstr "en "
+
+msgid "Estimated Time"
+msgstr "Tiempo Estimado"
+
+msgid "Extra Services"
+msgstr "Servicios Extras"
+
+msgid "Number of Item:"
+msgstr "Número de Elementos:"
+
+msgid "item(s)"
+msgstr "elemento(s)"
+
+msgid "Time"
+msgstr "Tiempo"
+
+msgid "Driver name"
+msgstr "Nombre del conductor"
+
+msgid "Driver age"
+msgstr "Edad del conductor"
+
+msgid "Check in - out: "
+msgstr "Registro de entrada - salida:"
+
+msgid "Pick-up from - Drop-off to: "
+msgstr "Recoger de - Dejar en:"
+
+msgid "Departure date: "
+msgstr "Fecha de salida:"
+
+msgid "Departure date - Return date: "
+msgstr "Fecha de salida - Fecha de regreso:"
+
+msgid "From - To: "
+msgstr "De - A:"
+
+msgid "Duration: "
+msgstr "Duración:"
+
+msgid "nights"
+msgstr "noches"
+
+msgid "night"
+msgstr "noche"
+
+msgid "Item Price:"
+msgstr "Precio por Artículo:"
+
+msgid "Depart Price: "
+msgstr "Precio de Salida:"
+
+msgid "Return Price: "
+msgstr "Precio de Regreso:"
+
+msgid "No sale"
+msgstr "Sin venta"
+
+msgid "Tax Depart: "
+msgstr "Impuesto de Salida:"
+
+msgid "Tax Return: "
+msgstr "Impuesto de Regreso:"
+
+msgid "Depart Total: "
+msgstr "Total de Salida:"
+
+msgid "Return Total: "
+msgstr "Total de Regreso:"
+
+msgid "Deposit Price"
+msgstr "Precio del Depósito"
+
+msgid "Pay Later"
+msgstr "Pagar Más Tarde"
+
+msgid "Package service"
+msgstr "Servicio de Paquete"
+
+msgid "Origin/Destination"
+msgstr "Origen/Destino"
+
+msgid "BUSINESS"
+msgstr "NEGOCIOS"
+
+msgid "ECONOMY"
+msgstr "ECONOMÍA"
+
+msgid "Hotel package: "
+msgstr "Paquete de hotel:"
+
+msgid "Activity package: "
+msgstr "Paquete de actividad:"
+
+msgid "Car package: "
+msgstr "Paquete de auto:"
+
+msgid "Equipments"
+msgstr "Equipos"
+
+msgid "Equipments Price"
+msgstr "Precio de Equipos"
+
+msgid "No. Adult(s)"
+msgstr "N.º de Adultos"
+
+msgid "adult(s)"
+msgstr "adulto(s)"
+
+msgid "No. Child(s)"
+msgstr "N.º de Niños"
+
+msgid "children"
+msgstr "niños"
+
+msgid "infant"
+msgstr "infante"
+
+msgid "Hotel Room"
+msgstr "Habitación de Hotel"
+
+msgid "Flight type: "
+msgstr "Tipo de vuelo:"
+
+msgid "One way"
+msgstr "Solo ida"
+
+msgid "*Departure information"
+msgstr "*Información de salida"
+
+msgid "Stops type: "
+msgstr "Tipo de escalas:"
+
+msgid "Departure class: "
+msgstr "Clase de salida:"
+
+msgid "*Return information"
+msgstr "*Información de regreso"
+
+msgid "Return date: "
+msgstr "Fecha de regreso:"
+
+msgid "Return class: "
+msgstr "Clase de regreso:"
+
+msgid "incomplete"
+msgstr "incompleto"
+
+msgid "completed"
+msgstr "completado"
+
+msgid "canceled"
+msgstr "cancelado"
+
+msgid "pending"
+msgstr "pendiente"
+
+msgid "About us"
+msgstr "Sobre nosotros"
+
+msgid "Contact us"
+msgstr "Contáctanos"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Booking Information"
+msgstr "Información de la Reserva"
+
+msgid "booked your system"
+msgstr "reservado su sistema"
+
+msgid "Below are customer\\'s booking details:"
+msgstr "A continuación se detallan los datos de la reserva del cliente:"
+
+msgid "Booking Code: "
+msgstr "Código de Reserva:"
+
+msgid "Customer Information"
+msgstr "Información del Cliente"
+
+msgid "First name:"
+msgstr "Nombre:"
+
+msgid "Last name:"
+msgstr "Apellido:"
+
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+msgid "City:"
+msgstr "Ciudad:"
+
+msgid "Address line 1:"
+msgstr "Dirección línea 1:"
+
+msgid "Country:"
+msgstr "País:"
+
+msgid "Special Requirements:"
+msgstr "Requisitos Especiales:"
+
+msgid "Shipped to:"
+msgstr "Enviado a:"
